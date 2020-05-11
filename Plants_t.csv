@@ -1,0 +1,395 @@
+Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other
+Athamantha sicula, ,Perennial,0.0,-, ,LM,N,M,2,0, 
+Camellia japonica,"Camellia, Common Camellia, Japanese Camellia",Shrub,10.0,7-9,S,LM,FSN,M,3,2,2
+Camellia sasanqua,"Camellia, Sasanqua camellia",Shrub,3.0,7-9,S,LM,SN,M,3,1,4
+Capsella bursa-pastoris,Shepherd's Purse,Annual,0.3,6-10, ,LMH,SN,DM,3,2,2
+Cephalotaxus harringtonia,Japanese Plum Yew,Shrub,5.0,6-9,S,LMH,FS,M,5,0,3
+Chamaecytisus proliferus,Tagasaste. Tree lucerne.,Shrub,4.0,8-12,F,LM,N,DM,0,0,4
+Cornus iberica, ,Shrub,4.0,-, ,LMH,SN,M,2,0, 
+Crocosmia aurea,Montbretia,Corm,1.0,6-9,F,LM,SN,M,1,0, 
+Cynara scolymus,Globe Artichoke,Perennial,1.5,5-9, ,LMH,N,M,3,5,2
+Drimys insipida,Brush Pepperbush,Shrub,6.0,-, ,LMH,SN,M,0,0, 
+Euodia daniellii, ,Tree,15.0,9-11, ,LMH,SN,M,2,1, 
+Euodia fraxinifolia, ,Tree,15.0,9-11, ,LMH,SN,M,2,1, 
+Euphorbia intisy,"Intisy, Pencil Plant",Shrub,5.0,10-12,F,LM,SN,D,0,0,3
+Gnetum africanum,"Eru, African Jointfir",Climber,12.0,10-12,F,LMH,SN,M,4,2,2
+Gnetum buchholzianum,Jointfir,Climber,10.0,10-12,F,LMH,FSN,M,4,2,2
+Handroanthus guayacan,Guayacan,Tree,40.0,10-12,M,LMH,N,M,0,0,4
+Hydnocarpus kurzii,Chaulmugra,Tree,15.0,10-12,M,LMH,SN,M,0,4,0
+Hymenaea verrucosa,East African Copal. Zanzibar copal tree,Tree,15.0,10-12,S,MH,N,DM,0,0,2
+Hyssopus officinalis,Hyssop,Shrub,0.6,5-10,M,LM,N,DM,2,3,5
+Kinugasa japonica,Kinugasaso,Perennial,0.5,7-10, ,LMH,SN,M,1,0, 
+Liriodendron tulipifera,"Tulip Tree, Tulip Poplar, Yellow Poplar, Canary Whitewood",Tree,30.0,4-9,M,LMH,N,M,1,2, 
+Lotus tetragonolobus,"Asparagus Pea, Winged pea",Annual,0.3,0-0, ,LMH,N,DM,3,0, 
+Macadamia hildebrandii,Celebes nut,Tree,14.0,10-12,M,LMH,N,MWe,4,0,3
+Octomeles sumatrana,Ilimo Tree,Tree,50.0,10-12,F,MH,N,M,2,2,4
+Pachycereus hollianus,"Baboso, Acompes",Perennial,4.0,9-11,M,LM,N,DM,0,0,3
+Pachyphragma macrophylla, ,Perennial,0.3,6-9, ,LMH,FS,DM,1,0, 
+Parinari curatellifolia,"Mbola, Grys Appel",Tree,15.0,10-12,S,MH,N,MWe,4,2,3
+Passiflora mollisima,Banana Passion Fruit,Climber,5.0,5-9,F,LMH,N,M,3,0, 
+Petasites albus,Butterbur,Perennial,0.6,4-8,F,LMH,FSN,M,2,1, 
+Pittosporum resiniferum,Petroleum nut,Tree,25.0,10-12,M,LMH,N,M,0,3,4
+Potentilla erecta,"Tormentil, Erect cinquefoil",Perennial,0.3,4-8, ,LMH,SN,M,1,3, 
+Prunus armeniaca mandschurica,Manchurian apricot,Tree,6.0,3-9,M,LM,SN,M,4,3,3
+Rhus diversiloba,"Western Poison Oak, Pacific poison oak",Shrub,2.5,4-8, ,LMH,N,M,0,2, 
+Rhus succedanea,Wax Tree,Tree,9.0,4-9, ,LMH,N,M,1,2,4
+Santalum austrocaledonicum,Pacific Sandalwood,Tree,10.0,10-12,S,LM,N,DM,0,1,4
+Santalum yasi,"Yasi, Fijian Sandalwood, Brown Sandalwood",Tree,10.0,9-12,S,LM,N,DM,0,2,4
+Sapium sebiferum,"Vegetable Tallow, Chinese tallow, Popcorn Tree, Chinese Tallow Tree",Tree,9.0,8-11,F,LMH,N,M,2,2,4
+Sequoia sempervirens,"Coastal Redwood, Redwood, California Redwood, Coast Redwood",Tree,110.0,7-10,F,LMH,SN,M,0,1,4
+Shorea obtusa,"Taengwood Balau, teng",Tree,20.0,10-12,M,LM,N,DM,0,2,4
+Shorea quadrinervis,Light Red Meranti,Tree,30.0,10-12,M,LMH,N,DM,0,0,4
+Silphium integrifolium,Prairie Rosinweed,Perennial,1.8,4-8,F,LMH,N,DM,3,1,2
+Swartzia grandifolia,"Big leafed Swartzia, Coracao-de-Negro",Tree,15.0,10-12,M,LMH,N,M,0,0,4
+Tabebuia rosea,"Apamate, Pink Poui, Pink Tecoma, Rosy Trumpet Tree",Tree,20.0,10-12,M,LMH,N,DM,0,2,4
+Tabernaemontana hystrix,Tabernaemontana,Tree,5.0,10-12,F,LMH,N,M,0,0,4
+Tabernanthe iboga,Iboga,Shrub,1.5,10-12,F,LMH,SN,MWe,0,4,0
+Tacca leontopetaloides,"Polynesian Arrowroot, Pia",Perennial,1.0,8-12,F,LMH,SN,M,4,2,3
+Tachia guianensis,Tachia,Shrub,3.0,10-12,M,LMH,N,M,0,4,0
+Tachigali rubiginosa,Tachigali,Tree,7.5,10-12,F,LMH,N,M,0,0,4
+Taenidia integerrima,Yellow pimpernel,Perennial,0.6,4-6,F,LM,SN,DM,0,1,2
+Tagetes erecta,"African Marigold, Aztec marigold, Big Marigold, American Marigold",Annual,1.0,2-11,M,LMH,N,DM,3,3,3
+Tagetes filifolia,Irish Lace,Annual,0.4,8-11, ,LMH,N,DM,1,0, 
+Tagetes lucida,"Mexican Tarragon, Sweetscented marigold",Perennial,0.8,8-11, ,LMH,N,DM,4,3, 
+Tagetes micrantha,Licorice marigold,Annual,0.3,7-9, ,LMH,N,DM,0,1,1
+Tagetes minuta,Muster-John-Henry,Annual,1.2,8-11, ,LMH,N,DM,2,2,0
+Tagetes patula,"French Marigold, Dwarf French Marigold",Annual,0.5,2-11,M,LMH,N,DM,2,2,4
+Tagetes tenuifolia,"Lemon Marigold, Striped Mexican Marigold, Signet Marigold",Annual,0.8,2-11,M,LMH,N,DM,2,0,3
+Talinum aurantiacum,Orange Flameflower,Perennial,0.4,-, ,LMH,SN,M,1,0, 
+Talipariti elatum,Blue Mahoe,Tree,25.0,10-12,F,LMH,N,DM,0,2,4
+Talipariti tiliaceum,"Beach Hibiscus, Sea Hibiscus, Cottontree, Mahoe",Tree,10.0,10-12,F,LMH,N,MWe,3,2,4
+Talisia esculenta,Pitomba,Tree,10.0,10-12,F,LMH,N,M,4,2,2
+Tamarindus indica,Tamarind,Tree,20.0,10-12,S,LMH,N,DM,4,3,3
+Tamarix africana,African tamarisk,Tree,7.5,7-10,M,LMH,N,DM,0,0, 
+Tamarix anglica,English Tree,Shrub,5.0,6-9,M,LMH,N,DM,1,1, 
+Tamarix aphylla,Athel Tamarisk,Tree,10.0,7-10,M,LMH,N,DM,1,1, 
+Tamarix canariensis,"Tamarisk, Canary Island tamarisk",Tree,0.0,7-10,M,LMH,N,DM,1,0, 
+Tamarix chinensis,"Chinese Tamarisk, Five-stamen tamarisk",Shrub,4.5,6-9,M,LMH,N,DM,0,2,0
+Tamarix gallica,"Manna Plant, French tamarisk",Shrub,4.0,4-8,M,LMH,N,DM,1,2,0
+Tamarix hispida,Kashgar Tree,Shrub,1.0,5-9,M,LMH,N,DM,0,0, 
+Tamarix juniperina, ,Tree,7.5,5-9,M,LMH,N,DM,0,0, 
+Tamarix parviflora,Small-Flowered Tamarisk,Shrub,4.5,4-8,M,LMH,N,DM,0,0,0
+Tamarix ramosissima,"Tamarisk, Saltcedar",Shrub,4.5,2-9,M,LMH,N,DM,1,0,0
+Tamus communis,Black Bryony,Perennial Climber,3.5,4-8,M,LMH,SN,M,1,2, 
+Tanacetum balsamita,"Alecost, Costmary",Perennial,0.9,5-9, ,LMH,SN,DM,3,2, 
+Tanacetum cinerariifolium,"Dalmation Pellitory, Pyrethrum",Perennial,0.5,5-9, ,LMH,N,DM,0,1, 
+Tanacetum coccineum,"Pyrethrum, Pyrethum daisy, Persian Insect Flower, Painted Daisy",Perennial,0.6,4-10,M,LMH,SN,M,0,0, 
+Tanacetum parthenium,"Feverfew, Matricaria",Perennial,0.6,5-8,M,LMH,N,DM,2,5,2
+Tanacetum vulgare,"Tansy, Common tansy, Golden Buttons, Curly Leaf Tansy",Perennial,1.0,3-9,F,LMH,N,DM,2,2,4
+Taraxacum albidum, ,Perennial,0.4,4-8, ,LMH,SN,M,2,0, 
+Taraxacum bessarabicum, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Taraxacum brassicifolium, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Taraxacum formosanum, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Taraxacum heterolepis, ,Perennial,0.0,-, ,LMH,SN,M,1,2, 
+Taraxacum hondoense, ,Perennial,0.3,-, ,LMH,SN,M,1,0, 
+Taraxacum hybernum, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Taraxacum japonicum, ,Perennial,0.2,-, ,LMH,SN,M,1,1, 
+Taraxacum kok-saghyz,Rubber Dandelion,Perennial,0.3,-, ,LMH,SN,M,1,0, 
+Taraxacum laevigatum,"Red-Seed Dandelion, Rock dandelion",Perennial,0.2,0-0, ,LMH,SN,DM,1,0, 
+Taraxacum magellanicum, ,Perennial,0.1,-, ,LMH,SN,M,1,0, 
+Taraxacum megalorrhizon, ,Perennial,0.2,4-8, ,LMH,SN,M,1,0, 
+Taraxacum mongolicum, ,Perennial,0.2,-, ,LMH,SN,M,1,3, 
+Taraxacum obovatum, ,Perennial,0.2,4-8, ,LMH,SN,M,2,0, 
+Taraxacum officinale,"Dandelion - Kukraundha, Kanphool, Common dandelion, Dandelion",Perennial,0.5,5-9,F,LMH,SN,M,4,3,3
+Taraxacum platycarpum, ,Perennial,0.3,-, ,LMH,SN,M,1,0, 
+Taraxacum pseudoalbidum, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Taraxacum sinicum, ,Perennial,0.0,-, ,LMH,SN,M,1,3, 
+Taraxacum tibetanum, ,Perennial,0.0,-, ,LMH,SN,M,1,2, 
+Taraxacum variegatum, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Tarchonanthus camphoratus,"Camphor Bush, Wild Camphor Bush",Tree,7.0,9-12,M,LMH,SN,DMWe,1,3,5
+Taxodium distichum,"Swamp Cypress, Bald cypress, Common Bald Cypress",Tree,30.0,4-10,F,LMH,SN,MWeWa,0,1, 
+Taxus baccata,"Yew, English yew, Common Yew",Tree,15.0,5-7,S,LMH,FSN,DM,3,4,4
+1 2 3 4,1,2,3,4,,,,,,,
+Taxus brevifolia,Pacific Yew,Tree,15.0,5-9,S,LMH,FSN,DM,3,4,3
+Taxus canadensis,Canadian Yew,Tree,1.5,4-8,S,LMH,FSN,DM,3,4,1
+Taxus cuspidata,Japanese Yew,Tree,10.0,4-7,S,LMH,FSN,DM,3,4,2
+Taxus x media,Anglojapanese Yew,Shrub,6.0,4-7,S,LMH,FSN,DM,3,4,4
+Tectona grandis,Teak,Tree,30.0,10-12,F,LMH,N,M,2,2,5
+Telfairia occidentalis,Fluted Gourd,Climber,15.0,10-12,F,LMH,FSN,M,4,2,2
+Telfairia pedata,Oysternut,Climber,20.0,10-12,F,LMH,SN,M,4,2,2
+Tellima grandiflora,"Fringe Cups, Bigflower tellima",Perennial,0.6,5-9, ,LMH,SN,M,0,1, 
+Telopea speciosissima,Waratah,Shrub,3.0,8-11, ,LMH,N,M,1,0, 
+Tephroseris integrifolia, ,Perennial,1.0,5-9, ,LMH,N,M,1,1, 
+Tephroseris palustris,Marsh Fleawort,Annual/Biennial,0.6,4-8, ,LM,SN,MWe,1,0, 
+Tephrosia candida,White Tephrosia,Shrub,3.0,10-12,M,LM,SN,M,0,0,4
+Tephrosia virginiana,"Catgut, Virginia tephrosia",Perennial,0.6,4-8, ,LMH,N,DM,0,2, 
+Tephrosia vogelii,"Fish-poison-bean,",Shrub,3.0,10-12,F,LMH,SN,M,0,2,2
+Terminalia arjuna,"Arjuna, Terminalia",Tree,30.0,10-12,F,LMH,N,DM,2,4,3
+Terminalia bellirica,Beleric Myrobalan,Tree,35.0,10-12,M,LMH,N,DM,2,3,3
+Terminalia catappa,"Indian Almond, Tropical Almond Tree",Tree,30.0,10-12,F,LM,N,M,4,2,3
+Terminalia chebula,"Black Myrobalan, Chebulic Myroblan,",Tree,25.0,10-12,S,LMH,N,M,3,5,4
+Terminalia ferdinandiana,Billy Goat Plum,Tree,10.0,9-12,M,LM,N,M,4,2,0
+Terminalia ivorensis,Black Afara,Tree,30.0,10-12,F,LMH,N,M,0,2,4
+Terminalia kaernbachii,Okari Nut,Tree,20.0,10-12,F,LMH,N,M,5,0,2
+Terminalia sambesiaca, ,Tree,32.0,10-12,F,LMH,N,DM,0,4,3
+Terminalia superba,Shinglewood,Tree,40.0,10-12,F,LMH,N,M,0,2,4
+Ternstroemia japonica, ,Shrub,3.5,8-11, ,LMH,S,M,0,1, 
+Tetragonia implexicoma,Bower Spinach,Perennial,0.5,-, ,LMH,SN,M,0,0, 
+Tetragonia tetragonioides,New Zealand Spinach,Perennial,0.2,8-11,F,LM,N,DM,3,0,0
+Tetrapanax papyrifer,"Rice Paper Plant, Chinese Rice Paper Plant",Shrub,5.0,8-11,F,LMH,SN,M,1,1, 
+Tetrastigma hemsleyanum, ,Perennial Climber,0.0,-, ,LMH,SN,M,0,2, 
+Teucrium canadense,"American Germander, Canada germander, Western germander",Perennial,1.0,4-8, ,LMH,SN,M,0,1,0
+Teucrium chamaedrys,"Wall Germander, Germander",Shrub,0.3,5-9,S,LMH,SN,DM,1,2, 
+Teucrium marum,Cat Thyme,Shrub,0.3,8-11, ,LMH,N,DM,0,2, 
+Teucrium massiliense, ,Shrub,1.0,5-9, ,LMH,N,DM,1,0, 
+Teucrium polium, ,Shrub,0.2,6-9, ,LMH,N,DM,1,1, 
+Teucrium scordium,Water Germander,Perennial,0.6,-, ,LMH,SN,M,0,1, 
+Teucrium scorodonia,Wood Sage,Perennial,0.3,5-9, ,LMH,SN,DM,1,2, 
+Thalictrum actaeifolium, ,Perennial,0.6,-, ,LMH,SN,M,1,0, 
+Thalictrum aquilegiifolium, ,Perennial,1.0,5-9, ,LMH,SN,M,1,1, 
+Thalictrum collinum,Lesser meadow-rue,Perennial,0.0,0-0, ,LMH,SN,M,0,1, 
+Thalictrum foliolosum, ,Perennial,2.5,-, ,LMH,SN,M,0,2, 
+Thalictrum minus,Lesser Meadow Rue,Perennial,1.5,5-9, ,LMH,SN,M,1,1, 
+Thalictrum polycarpum,Meadowrue,Perennial,1.8,-, ,LMH,SN,M,0,1, 
+Thalictrum simplex galioides, ,Perennial,1.0,6-9, ,LMH,SN,M,0,1, 
+Thamnocalamus aristatus, ,Bamboo,6.0,5-9, ,LMH,SN,M,2,0, 
+Thamnocalamus spathaceus,Umbrella Bamboo,Bamboo,4.0,5-9, ,LMH,FSN,M,0,0, 
+Thamnocalamus spathiflorus, ,Bamboo,6.0,5-9, ,LMH,SN,M,2,0, 
+Thamnocalamus tessellatus,Bergbamboes,Bamboo,3.5,-, ,LMH,SN,DM,0,0, 
+Thapsia garganica,Drias Plant,Perennial,1.2,8-11, ,LM,N,DM,0,2, 
+Thaspium barbinode,"Meadowparsnip, Meadow-parsnip",Perennial,1.2,4-9,M,LMH,SN,M,0,0,2
+Thaspium trifoliatum,"Woodland parsnip, Thaspium",Perennial,1.2,4-9,F,LMH,SN,DM,0,0,2
+Thaumatococcus daniellii,"Sweet Prayer Plant, Katemfe",Perennial,2.0,10-12,F,MH,FSN,M,4,0,3
+Thelesperma gracile,Hopi tea greenthread,Perennial,0.8,-, ,LMH,N,DM,1,0, 
+Thelesperma megapotamicum,Navajo Tea,Perennial,0.5,-, ,LMH,N,DM,1,1, 
+Thelesperma trifidum,Stiff greenthread,Annual/Biennial,1.0,0-0, ,LMH,N,DM,1,1, 
+Theligonum cynocrambe,Dog's Cabbage,Annual,0.1,-, ,LMH,SN,DM,1,1, 
+Thelymitra longifolia, ,Perennial,0.5,-, ,LMH,SN,M,1,0, 
+Thelymitra pulchella, ,Perennial,0.6,-, ,LMH,SN,M,1,0, 
+Thelypteris noveboracensis,New York fern,Fern,0.5,2-8,M,LM,FS,MWe,0,0,3
+Thelypteris palustris,"Marsh Fern, Eastern marsh fern",Fern,0.8,4-8,F,LMH,SN,MWe,1,1, 
+Theobroma cacao,"Cacao, Cocoa Tree",Tree,8.0,10-12,M,MH,FSN,M,5,3,3
+Theobroma glaucum, ,Tree,12.0,10-12,M,MH,S,M,4,3,2
+Theobroma grandiflorum,"Cupuassu, Cupuacu",Tree,10.0,10-12,M,MH,S,M,4,3,0
+Thermopsis lupinoides, ,Perennial,0.3,3-7, ,LM,N,DM,1,1, 
+Thermopsis villosa,"Aaron's rod, Carolina lupine",Perennial,1.5,5-8,S,LMH,SN,DM,0,0,3
+Thespesia populnea,"Portia Tree, Aden Apple, Indian Tulip Tree",Tree,10.0,10-12,F,LMH,N,DM,3,3,4
+Thespesia populneoides,Tulip Tree; Portia Tree; Pacific Rosewood,Tree,10.0,10-12,F,LMH,N,DM,3,3,4
+Thladiantha dubia,"Red Hailstone, Manchu tubergourd",Perennial Climber,2.0,6-9,F,LMH,N,M,1,2, 
+Thlaspi arvense,"Pennycress, Field pennycress",Annual,0.6,5-9, ,LMH,N,M,2,2,0
+Thlaspi perfoliatum,Pennycress,Annual,0.3,5-9, ,LMH,N,M,2,0, 
+Thuja occidentalis,"American Arbor-Vitae, Arborvitae, Eastern Arborvitae, Siberian Arborvitae, Northern White Cedar, Wh",Tree,15.0,3-7,S,LMH,SN,MWe,2,3, 
+Thuja orientalis,Biota,Tree,15.0,5-9,S,LMH,SN,DM,1,3, 
+Thuja plicata,"Western Red Cedar, Giant Arborvitae, Giant Cedar, Incense Cedar, Western Red Cedar",Tree,60.0,5-8,F,LMH,SN,MWe,1,2, 
+Thujopsis dolabrata,Hiba,Tree,20.0,-,S,LMH,SN,M,0,0, 
+Thymbra spicata, ,Shrub,0.5,7-10, ,LMH,N,DM,1,0, 
+Thymus caespititius,Cretan Thyme,Shrub,0.1,6-9, ,LM,N,DM,2,2, 
+Thymus camphoratus,Camphor Thyme,Shrub,0.4,6-9, ,LM,N,DM,0,2, 
+Thymus capitatus,"Headed Savory, Thymus",Shrub,0.3,6-9, ,LM,N,DM,2,2, 
+Thymus cilicicus,Cilician Thyme,Shrub,0.2,6-9, ,LM,N,DM,1,2, 
+Thymus herba-barona,Caraway Thyme,Shrub,0.1,8-10,S,LM,N,DM,3,2,4
+Thymus hirtus, ,Shrub,0.0,-, ,LM,N,DM,2,2, 
+Thymus mastichina,Mastic Thyme,Shrub,0.3,6-9, ,LM,N,DM,2,2, 
+Thymus pannonicus,Eurasian thyme,Perennial,0.2,4-8, ,LM,N,DM,2,2, 
+Thymus praecox,"Mother of thyme, Creeping thyme, Woolly Thyme",Shrub,0.1,5-8,M,LM,N,DM,2,2, 
+Thymus praecox arcticus,Wild Thyme,Shrub,0.1,4-8, ,LM,N,DM,3,2,5
+Thymus pseudolanuginosus,Woolly Thyme,Shrub,0.1,5-10,M,LM,N,DM,2,2, 
+Thymus pulegioides,"Broad-Leaved Thyme, lemon thyme",Shrub,0.2,4-8, ,LM,N,DM,2,2, 
+Thymus quinquecostatus, ,Shrub,0.1,4-8, ,LM,N,DM,2,2, 
+Thymus serpyllum,Wild Thyme,Shrub,0.1,5-9,M,LM,N,DM,4,3,5
+Thymus vulgaris,"Common Thyme, Garden thyme, Wild Thyme",Shrub,0.2,5-11,M,LM,N,DM,4,3,5
+Thymus x citriodorus,"Lemon Thyme, Creeping Lemon Thyme, Lemon-Scented Thyme",Shrub,0.1,5-10,M,LM,N,DM,4,2,5
+Thymus zygis, ,Shrub,0.3,6-9, ,LM,N,DM,2,2, 
+Thyrsostachys siamensis,Monastery Bamboo,Bamboo,10.0,9-12,F,LMH,N,M,4,0,4
+Thysanolaena latifolia,"Asian Broom Grass, Tiger Grass",Perennial,3.0,10-12,F,LMH,N,M,0,0,4
+Thysanotus baueri, ,Perennial,0.2,-, ,LMH,SN,M,0,0, 
+Thysanotus exiliflorus, ,Perennial,0.2,-, ,LMH,SN,M,0,0, 
+Thysanotus patersonii,Twining Fringed Lily,Perennial Climber,1.0,-, ,LM,N,DM,1,0, 
+Thysanotus tuberosus,Fringed Lily,Perennial,0.2,9-11, ,LM,N,DM,1,0, 
+Tiarella cordifolia,"Foamflower, Heartleaf foamflower, Clumping Foamflower",Perennial,0.2,3-9,F,LMH,FS,M,0,2,2
+Tieghemella africana,Douka,Tree,45.0,10-12,F,LMH,FSN,M,3,2,4
+Tieghemella heckelii,Baku,Tree,50.0,10-12,M,MH,N,M,4,2,4
+Tigridia pavonia,Tiger Flower,Corm,0.6,7-10, ,LM,N,DM,3,1, 
+1 2 3 4,1,2,3,4,,,,,,,
+Tilia americana,"American Basswood, Carolina basswood, Basswood, AmericanBasswood, American Linden",Tree,25.0,3-9,M,LMH,SN,M,3,3,3
+Tilia amurensis, ,Tree,30.0,4-8,M,LMH,SN,M,3,1, 
+Tilia caroliniana,Carolina Basswood,Tree,20.0,6-9,M,LMH,SN,M,3,1, 
+Tilia chinensis, ,Tree,25.0,4-8,M,LMH,SN,M,3,1, 
+Tilia cordata,"Small Leaved Lime, Littleleaf linden",Tree,30.0,3-7,M,LMH,SN,M,5,3,3
+Tilia heterophylla,"White Basswood, American basswood",Tree,30.0,4-8,M,LMH,SN,M,3,2, 
+Tilia japonica,Japanese Lime,Tree,20.0,5-9,M,LMH,SN,M,3,1, 
+Tilia mongolica,Mongolian Lime,Tree,15.0,3-6,M,LMH,SN,M,3,1, 
+Tilia oliveri, ,Tree,15.0,5-9,M,LMH,SN,M,3,1, 
+Tilia platyphyllos,"Large Leaved Lime, Largeleaf linden, Bigleaf Linden",Tree,30.0,4-6,M,LMH,SN,M,5,3,4
+Tilia tomentosa,Silver Lime,Tree,25.0,4-7,M,LMH,SN,DM,3,1,2
+Tilia tuan, ,Tree,16.0,5-9,M,LMH,SN,M,3,1, 
+Tilia x europaea,"Linden, Common Lime",Tree,35.0,3-9,M,LMH,SN,M,5,3,3
+Tilingia ajanensis,false snowparsley,Perennial,0.2,-, ,LMH,N,M,1,0, 
+Tilingia holopetala, ,Perennial,0.6,-, ,LMH,N,M,1,0, 
+Tinospora cordifolia,Kanda Amrta,Climber,15.0,10-12,F,LMH,N,DM,2,4,2
+Tinospora crispa,"Patawali, Akar Patawali",Climber,10.0,10-12,F,LMH,N,DM,0,4,0
+Tinospora sagittata, ,Perennial Climber,20.0,-, ,LMH,SN,M,0,1, 
+Tithonia diversifolia,Mexican Sunflower,Perennial,3.0,10-12,F,LMH,N,DM,0,3,3
+Tolmiea menziesii,"Youth On Age, Mother-of-Thousands Plant, Youth on Age Plant, Pickaback Plant",Perennial,0.6,7-9,M,LMH,FS,DM,1,1, 
+Toona ciliata,"Mountain Cedar, Australian Red Cedar, Toona",Tree,30.0,9-12,F,MH,FSN,MWe,2,2,4
+Toona sinensis,Chinese Cedar,Tree,20.0,6-11,F,LMH,N,M,3,2,4
+Toona sureni,Suren,Tree,35.0,9-12,F,MH,N,M,2,2,4
+Tordylium apulum,"Roman Pimpernel, Mediterranean hartwort",Perennial,0.0,0-0, ,LMH,N,M,1,0, 
+Torilis japonica,"Upright Hedge Parsley, Erect hedgeparsley",Annual,1.0,0-0, ,LMH,SN,DM,2,1, 
+Torreya californica,California Nutmeg,Tree,15.0,6-9,S,LMH,FSN,M,3,1, 
+Torreya fargesii, ,Tree,20.0,6-9,S,LMH,FSN,M,2,0, 
+Torreya grandis,Chinese Nutmeg Tree,Tree,25.0,7-10,S,LMH,FSN,M,2,1, 
+Torreya jackii, ,Tree,10.0,7-10,S,LMH,FSN,M,2,0, 
+Torreya nucifera,"Kaya, Japanese torreya",Tree,20.0,6-8,S,LMH,FS,M,5,2, 
+Torreya yunnanensis,Yunnan Nutmeg Yew,Tree,15.0,7-10,S,LMH,FSN,M,2,0, 
+Touchardia latifolia,Olona,Shrub,2.0,10-12,S,LMH,FS,MWe,0,0,4
+Toxicodendron sylvestre,Yame-haze,Tree,10.0,9-12,M,LMH,SN,M,0,0,4
+Toxicodendron vernicifluum,Lacquer Tree,Tree,15.0,-, ,LMH,N,M,0,1, 
+Trachelospermum asiaticum,"Japanese Star Jasmine, Small Leaf Confederate Jasmine, Asiatic Jasmine",Climber,6.0,7-10,S,LMH,SN,M,1,0, 
+Trachelospermum jasminoides,"Star Jasmine, Confederate jasmine",Climber,6.0,8-10,S,LMH,SN,M,0,2,2
+Trachomitum lancifolium,"Lance leaved Dogbane, Lance leaved Kendry",Perennial,3.0,4-9,F,LMH,N,DM,0,1,4
+Trachomitum sarmatiense,"Sarmatian Dogbane, Sarmatian Kendry",Perennial,1.2,4-9,F,LMH,N,DM,0,1,4
+Trachomitum scabrum,"Kendry, Rough Kendry",Perennial,2.0,4-9,F,LMH,N,M,0,0,4
+Trachycarpus fortunei,"Chusan Palm, Chinese windmill palm, Windmill Palm",Tree,12.0,8-11,S,LMH,SN,M,2,2, 
+Trachycarpus martianus, ,Tree,12.0,7-10,S,LMH,SN,M,2,2, 
+Trachymene glaucifolia,Wild Carrot,Annual,1.0,-, ,LMH,SN,M,1,0, 
+Trachymene incisa, ,Perennial,0.5,-, ,LMH,SN,M,2,0, 
+Trachyspermum ammi,Ajowan caraway,Annual,0.6,-, ,LMH,N,M,2,3, 
+Trachystemon orientalis, , ,0.0,-, ,LMH,SN,M,0,0, 
+Tradescantia virginiana,"Spiderwort, Virginia spiderwort",Perennial,0.4,4-9,M,LMH,SN,DM,2,1, 
+Tragopogon coloratus, ,Biennial,0.5,-, ,LMH,N,M,1,0, 
+Tragopogon crocifolius, ,Annual/Biennial,0.8,4-8, ,LMH,N,M,2,0, 
+Tragopogon cupani, ,Biennial,0.8,-, ,LMH,N,M,2,0, 
+Tragopogon dubius,Yellow Salsify,Annual/Perennial,1.0,4-8, ,LMH,N,M,3,0,0
+Tragopogon gracilis, ,Perennial,0.2,-, ,LMH,N,M,1,0, 
+Tragopogon hispanica, ,Biennial,0.0,-, ,LMH,N,M,2,0, 
+Tragopogon porrifolius,Salsify,Biennial,0.6,4-8, ,LMH,N,M,3,2, 
+Tragopogon pratensis,Goat's Beard,Annual/Perennial,0.6,3-7, ,LMH,N,M,3,2, 
+Trapa bicornis,"Ling, Horn nut",Perennial,0.0,4-8, ,LMH,N,Wa,4,1, 
+Trapa incisa, ,Annual,0.0,-, ,LMH,N,Wa,1,0, 
+Trapa japonica, ,Annual,0.0,-, ,LMH,N,Wa,1,0, 
+Trapa natans,Water Chestnut,Perennial,0.0,6-12, ,LMH,N,Wa,4,0,2
+Treculia africana,African Breadfruit or Breadnut,Tree,30.0,10-12,M,MH,SN,M,4,2,2
+Trema orientalis,Charcoal Tree,Tree,12.0,10-12,F,LMH,N,M,1,2,4
+Tribulus terrestris,"Caltrop, Puncturevine",Annual/Biennial,0.6,0-0,F,LMH,N,DM,1,3,0
+Trichanthera gigantea,"Giant trichanthera, Nacadero",Tree,5.0,10-12,F,LMH,SN,M,2,2,3
+Trichilia dregeana,Cape Mahogany,Tree,25.0,10-12,F,LMH,SN,M,4,3,3
+Trichilia emetica,"Banket mahogany, Natal mahogany,",Tree,15.0,10-12,F,LMH,SN,DM,2,3,3
+Trichosanthes cucumerina anguina,Snake Gourd,Annual Climber,5.0,10-12,F,LMH,N,M,2,1,0
+Trichosanthes kirilowii,Chinese Cucumber,Perennial Climber,6.0,8-11,F,LMH,N,M,2,4,1
+Trichosanthes kirilowii japonica, ,Perennial Climber,6.0,8-11,F,LMH,N,M,3,3,1
+Trichosanthes multiloba, ,Perennial Climber,0.0,-,F,LMH,N,M,2,1, 
+Trichosanthes ovigera,Japanese Snake Gourd,Perennial Climber,0.0,9-11,F,LMH,N,M,2,2, 
+Tricyrtis hirta,"Toad Lily, Japanese Toad Lily",Perennial,0.8,5-9,S,LM,SN,M,1,0, 
+Tricyrtis latifolia, ,Perennial,0.6,4-8, ,LM,SN,M,1,0, 
+Tricyrtis macropoda, ,Perennial,0.7,4-8, ,LM,SN,M,1,0, 
+Trientalis europaea,"Chickweed Wintergreen, Arctic starflower",Perennial,0.3,0-0, ,LMH,SN,M,0,1, 
+Trifolium bifidum,"Piñole Clover, Notchleaf clover",Annual,0.5,0-0, ,LMH,N,M,2,0, 
+Trifolium ciliatum,Foothill Clover,Annual,0.5,-, ,LMH,N,M,2,0, 
+Trifolium cyathiferum,Cup Clover,Annual,0.5,-, ,LMH,N,M,1,0, 
+Trifolium dichotomum,Branched Indian Clover,Annual,0.6,-, ,LMH,N,M,2,0, 
+Trifolium dubium,Suckling Clover,Annual,0.5,-, ,LMH,N,M,0,1, 
+Trifolium fimbriatum,"Springbank Clover, Cows clover",Perennial,1.0,0-0, ,LMH,N,M,3,0, 
+Trifolium fucatum,"Sour Clover, Bull clover",Annual,0.6,0-0, ,LMH,N,M,2,0, 
+Trifolium fucatum virescens, ,Annual,0.6,-, ,LMH,N,M,2,0, 
+Trifolium gracilentum,"Pin-Point Clover, Palmer's clover",Annual,0.6,0-0, ,LMH,N,M,2,0, 
+Trifolium hybridum,Alsike Clover,Perennial,0.6,-, ,LMH,N,M,2,1, 
+Trifolium incarnatum,Crimson Clover,Annual,0.5,3-9,M,LMH,N,M,2,0,4
+Trifolium lupinaster,Lupine clover,Perennial,0.5,0-0, ,LMH,N,M,1,0, 
+Trifolium macrocephalum,"Bighead Clover, Largehead clover",Perennial,0.3,4-8, ,LMH,N,M,1,0, 
+Trifolium microcephalum,Smallhead Clover,Annual,0.6,-, ,LMH,N,M,1,0, 
+Trifolium obtusiflorum,Clammy Clover,Annual,1.0,-, ,LMH,N,M,2,0, 
+Trifolium ornithopodioides,"Birdsfoot Fenugreek, Bird clover",Annual/Perennial,0.2,0-0, ,LMH,N,MWe,1,0, 
+Trifolium pratense,Red Clover,Perennial,0.6,5-9,M,LMH,N,M,3,3,4
+Trifolium repens,"White Clover, Dutch Clover, Purple Dutch Clover, Shamrock, White Clover",Perennial,0.1,4-8,M,LMH,N,M,3,2,4
+Trifolium subterraneum,Subterranean Clover,Annual,0.2,7-10, ,LMH,N,M,1,0,4
+Trifolium tridentatum,Tomcat Clover,Annual,0.6,-, ,LMH,N,M,2,0, 
+Trifolium variegatum,Whitetip Clover,Annual,1.0,-, ,LMH,N,M,1,0, 
+Triglochin maritima,Sea Arrow Grass,Perennial,0.6,4-8, ,LMH,N,WeWa,2,0,0
+Triglochin palustris,Marsh Arrow Grass,Perennial,0.5,4-8, ,LMH,N,WeWa,2,0, 
+Triglochin procera,Water Ribbons,Perennial,0.6,-, ,LMH,N,WeWa,1,0, 
+Trigonella caerulea,"Sweet Trefoil, Blue fenugreek",Annual,0.6,0-0, ,LMH,N,M,1,0, 
+Trigonella corniculata,cultivated fenugreek,Annual,0.6,-, ,LMH,N,DM,1,1, 
+Trigonella foenum-graecum,"Fenugreek, Sicklefruit fenugreek",Annual,0.6,5-9,F,LMH,N,DM,4,5, 
+1 2 3 4,1,2,3,4,,,,,,,
+Trigonella suavissima,Sweet Fenugreek,Annual,0.3,-, ,LMH,N,M,2,0, 
+Trigonotis icumae, ,Perennial,0.2,-, ,LMH,SN,M,1,0, 
+Trigonotis peduncularis, ,Annual/Biennial,0.2,-, ,LMH,SN,M,1,2, 
+Trigonotis radicans, ,Perennial,0.2,-, ,LMH,SN,M,1,0, 
+Trilisa odoratissima,"Vanilla Plant, Vanillaleaf",Perennial,1.0,0-0, ,LM,SN,M,1,1, 
+Trillium erectum,"Beth Root - Indian Balm, Red trillium, Wakerobin, Purple Trillium",Perennial,0.4,4-9,S,LMH,FSN,M,2,3, 
+Trillium grandiflorum,"White Trillium, Large Flower Trillium, White Trillium, Large Flower Wakerobin, Large Flowered Tril",Perennial,0.4,4-9,S,LMH,FSN,M,1,2, 
+Trillium kamtschaticum, ,Perennial,0.3,4-8, ,LMH,FSN,M,1,2, 
+Trillium ovatum,"Wakerobin, Pacific trillium, Oettinger's trillium, Hibberson's trillium",Perennial,0.4,4-8, ,LMH,FSN,M,1,1, 
+Trillium pendulum, ,Perennial,0.3,-, ,LMH,FSN,M,0,1, 
+Trillium sessile,Toadshade,Perennial,0.4,4-8, ,LMH,FSN,M,2,1, 
+Trillium smallii, ,Perennial,0.4,4-8, ,LMH,FSN,M,1,0, 
+Trillium tschonoskii, ,Perennial,0.2,4-8, ,LMH,FSN,M,1,2, 
+Trillium undulatum,Painted Trillium,Perennial,0.2,4-8, ,LMH,FSN,M,1,1, 
+Triodia irritans,Porcupine Grass,Perennial,0.3,-, ,LMH,SN,M,0,0, 
+Triosteum perfoliatum,"Wild Coffee, Feverwort",Perennial,1.0,5-9, ,LM,SN,M,1,2, 
+Triphasia trifolia,Lime Berry,Shrub,3.0,9-12, ,LMH,N,DM,2,1,4
+Triplochiton scleroxylon,"Arere, Obeche, Samba",Tree,40.0,10-12,F,LMH,N,M,2,2,4
+Tripsacum dactyloides,"Sesame Grass, Eastern gamagrass, Fakahatchee Grass",Perennial,2.5,7-11,M,LMH,N,M,2,0,0
+Tripterygium wilfordii, ,Climber,12.0,8-11, ,LMH,SN,M,0,2, 
+Trisetum spicatum,Spike Trisetum,Perennial,0.3,-, ,LMH,N,M,1,0, 
+Triteleia grandiflora,"Wild Hyacinth, Largeflower triteleia, Howell's triteleia",Bulb,0.7,4-8, ,LM,N,DM,4,0, 
+Triteleia hyacinthina,"Hyacinth Brodiaea, White brodiaea",Bulb,0.7,4-8, ,LM,N,DM,3,0, 
+Triteleia ixioides,"Pretty Face, Cook's triteleia, Golden brodiaea",Bulb,0.6,6-9, ,LM,N,DM,3,0, 
+Triteleia laxa,"Grassnut, Ithuriel's spear",Bulb,0.5,6-9, ,LMH,N,DM,4,0, 
+Triteleia peduncularis,"Longray Tripletlily, Long-ray brodiaea",Bulb,0.3,5-9, ,LM,N,DM,3,0, 
+Triticosecale spp,Triticale,Annual,1.0,-, ,LMH,N,DM,3,0, 
+Triticum aestivum,"Bread Wheat, Common wheat",Annual,1.5,10-12, ,LMH,N,M,4,2,2
+Triticum aestivum compactum,Club Wheat,Annual,0.6,-, ,LMH,N,M,2,0, 
+Triticum aestivum macha,Makha Wheat,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum aestivum spelta,Spelt Wheat,Annual,1.0,-, ,LMH,N,M,4,0, 
+Triticum aestivum sphaerococcum,Shot Wheat,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum bicorne, ,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum georgicum, ,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum monococcum,Einkorn,Annual,1.0,-, ,LMH,N,DM,3,0, 
+Triticum monococcum aegilopoides,Wild Einkorn,Annual,1.0,-, ,LMH,N,M,2,0, 
+Triticum sovieticum, ,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum timopheevii,"Sanduri, Timopheev's wheat",Annual,0.0,0-0, ,LMH,N,M,2,0, 
+Triticum turgidum,Rivet Wheat,Annual,1.5,-, ,LMH,N,M,4,0, 
+Triticum turgidum carthlicum,Persian Wheat,Annual,0.0,-, ,LMH,N,M,2,0, 
+Triticum turgidum dicoccoides,Wild Emmer,Annual,1.0,-, ,LMH,N,M,2,0, 
+Triticum turgidum dicoccon,Emmer,Annual,0.0,-, ,LMH,N,DM,3,0, 
+Triticum turgidum durum,Durum Wheat,Annual,1.0,10-12, ,LMH,N,M,3,0,2
+Triticum turgidum polonicum,Polish Wheat,Annual,1.3,-, ,LMH,N,M,3,0, 
+Triticum turgidum turanicum,Khurasan Wheat,Annual,1.2,-, ,LMH,N,M,2,0, 
+Triticum vavilovi,Vavilov's Wheat,Annual,0.0,-, ,LMH,N,M,2,0, 
+Tritonia crocata, ,Corm,0.5,8-11, ,LMH,N,M,1,0, 
+Trochocarpa clarkei, ,Shrub,0.0,-, ,LMH,SN,M,1,0, 
+Trochocarpa cunninghamii, ,Shrub,1.0,-, ,LMH,SN,M,2,0, 
+Trollius europaeus,"Globeflower, Common Globeflower, European Globeflower",Perennial,0.6,3-7,M,MH,S,MWe,0,2, 
+Tropaeolum brachyceras, ,Perennial Climber,1.0,8-11, ,LMH,N,DM,1,0, 
+Tropaeolum leptophyllum, ,Perennial Climber,1.5,7-10, ,LM,N,M,2,0, 
+Tropaeolum majus,"Nasturtium, Indian Cress",Perennial Climber,3.5,8-11,F,LM,N,M,4,3,3
+Tropaeolum minus,Dwarf Nasturtium,Perennial,0.0,8-11, ,LM,N,M,4,3, 
+Tropaeolum patagonicum, ,Perennial,0.2,-, ,LMH,N,MWe,3,0, 
+Tropaeolum sessilifolium, ,Perennial Climber,3.0,8-11, ,LMH,N,DM,3,0, 
+Tropaeolum tricolorum, ,Perennial Climber,1.5,7-10, ,LMH,N,M,2,0, 
+Tropaeolum tuberosum,Anu,Perennial Climber,2.0,7-10,M,LM,N,M,4,2,2
+Tsuga canadensis,"Canadian Hemlock, Eastern hemlock",Tree,20.0,4-7,M,LMH,FSN,M,1,3, 
+Tsuga caroliniana,Carolina Hemlock,Tree,15.0,4-7,S,LMH,FSN,M,1,2, 
+Tsuga chinensis,Chinese Hemlock,Tree,45.0,5-9,S,LMH,FSN,M,1,2, 
+Tsuga heterophylla,Western Hemlock,Tree,70.0,6-7,F,LMH,FSN,M,1,2, 
+Tsuga mertensiana,Mountain Hemlock,Tree,45.0,5-7,M,LMH,FSN,M,1,2, 
+Tulbaghia alliacea,Society Garlic,Corm,0.3,7-10, ,LM,N,M,2,0, 
+Tulbaghia violacea,Society Garlic,Perennial,0.3,8-11,F,LMH,N,M,2,0, 
+Tulipa clusiana stellata, ,Bulb,0.2,-, ,LM,N,M,1,0, 
+Tulipa edulis, ,Bulb,0.2,6-9,S,LM,N,M,2,2, 
+Tulipa gesneriana,"Tulip, Didier's tulip",Bulb,0.5,4-8, ,LM,N,M,1,0, 
+Tulipa montana, ,Bulb,0.1,5-9,S,LM,N,M,1,0, 
+Tulipa sylvestris,wild tulip,Bulb,0.3,4-8, ,LMH,SN,M,0,0, 
+Tupeia antarctica,white mistletoe,Shrub,0.0,-, ,LMH,SN,M,1,0, 
+Turnera diffusa aphrodisiaca,Damiana,Shrub,1.0,8-11, ,LMH,N,D,1,3, 
+Turraeanthus africanus,Avodire,Tree,25.0,10-12,M,LMH,SN,MWe,0,2,4
+Turritis glabra,Tower Cress,Annual/Biennial,0.6,6-9, ,LMH,FSN,M,1,1, 
+Tussilago farfara,Coltsfoot,Perennial,0.2,4-8,F,LMH,SN,M,3,3,3
+Tylophora ovata, ,Climber,5.0,-, ,LMH,SN,M,0,2, 
+Tylosema esculentum,Marama Bean,Perennial,1.0,10-12,F,LM,N,DM,4,0,2
+Typha angustifolia,"Small Reed Mace, Narrowleaf cattail",Perennial,3.0,3-7, ,LMH,N,WeWa,5,3, 
+Typha bungeana, ,Perennial,0.0,-,F,LMH,N,WeWa,4,3, 
+Typha davidiana, ,Perennial,1.0,-,F,LMH,N,WeWa,4,3, 
+Typha domingensis,Southern Cattail,Perennial,3.0,5-12, ,LMH,N,WeWa,4,3,2
+Typha elephantina,"Bora. Elephant grass, Indian reed-mace.",Perennial,3.0,10-12,F,LMH,SN,MWeWa,3,3,3
+Typha glauca,Hybrid cattail,Perennial,3.0,0-0, ,LMH,N,WeWa,4,0, 
+Typha latifolia,"Reedmace, Broadleaf cattail, Bullrush, Nailrod",Perennial,2.5,3-10,F,LMH,N,WeWa,5,3,0
+Typha laxmannii, ,Perennial,1.5,4-8,F,LMH,N,WeWa,4,1, 
+Typha minima, ,Perennial,0.1,5-9, ,LMH,N,WeWa,2,3, 
+Typha orientalis,Broadleaf Cumbungi,Perennial,3.0,-,F,LMH,N,WeWa,4,3, 
+Vateria indica,White Dammar,Tree,40.0,10-12,S,LM,FSN,M,3,2,4
+Zanthoxylum americanum,"Prickly Ash - Northern, Common pricklyash, Northern Prickly Ash",Shrub,4.0,3-7,M,LMH,SN,M,2,3,2
+Zizia aptera,"Meadow zizia, Golden alexanders",Perennial,0.6,4-8,F,LMH,SN,DM,0,1,2
+1 2 3 4,1,2,3,4,,,,,,,

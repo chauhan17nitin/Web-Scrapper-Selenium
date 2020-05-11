@@ -1,0 +1,547 @@
+Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other
+Acacia auriculiformis,"Ear-Pod Wattle, Black Acacia, Earleaf, Black wattle",Tree,25.0,10-12,F,LMH,N,DM,1,0,4
+Akebia quinata,"Akebia, Chocolate vine, Fiveleaf Akebia, Chocolate Vine",Climber,12.0,4-8,F,LMH,FSN,M,4,2,2
+Annona mucosa,Wild Sweetsop,Tree,12.0,10-12,F,LMH,N,M,5,1,2
+Berchemia lineata, ,Climber,4.0,7-10, ,LM,SN,M,2,1, 
+Boenninghausenia albiflora, ,Shrub,1.0,7-10, ,LM,N,M,0,2, 
+Caragana jubata,Shag-Spine,Shrub,1.0,3-7, ,LM,N,DM,0,1, 
+Ceanothus cuneatus,"Buckbrush, Sedgeleaf buckbrush, Monterey ceanothus",Shrub,1.8,6-9,F,LM,SN,DM,2,1, 
+Cotinus coggygria,"Smoke Tree, European smoketree, Venetian Sumac, Wig Tree, Smoke Tree",Shrub,5.0,5-8,M,LMH,SN,DM,1,1, 
+Dioscoreophyllum cumminsii,"Serendipity Berry, Guinea potato",Climber,1.8,10-12,M,LMH,FS,M,4,0,0
+Garcinia brasiliensis,Bacupari,Tree,6.0,10-12,S,LMH,SN,M,4,2,2
+Garcinia madruno,"Madruno, Charichuela, Madrono",Tree,10.0,10-12,M,LM,SN,M,4,2,2
+Lesquerella hybrids,Perennial Lesquerella,Perennial,0.6,7-11,F,LM,SN,DM,2,0,4
+Marsippospermum grandiflorum, ,Perennial,0.3,-, ,LM,SN,MWe,0,0, 
+Nasturtium officinale,Watercress,Perennial,0.5,3-11,F,LMH,N,WeWa,4,3,2
+Oxyria digyna,"Mountain Sorrel, Alpine mountainsorrel",Perennial,0.5,2-8, ,LMH,SN,M,3,1,0
+Polygonum sachalinense,Giant Knotweed,Perennial,3.6,4-8,F,LMH,SN,M,2,0,0
+Ranunculus acris,"Meadow Buttercup, Tall buttercup, Showy buttercup",Perennial,1.0,0-0, ,LMH,SN,MWe,1,2,0
+Ranunculus aquatilis,"Water Crowfoot, White water crowfoot",Annual/Perennial,0.0,4-8, ,LMH,SN,MWeWa,1,1, 
+Ranunculus arvensis,Corn Buttercup,Annual,0.5,0-0, ,LMH,SN,M,0,1,0
+Ranunculus bulbosus,"Bulbous Buttercup, St. Anthony's turnip",Perennial,0.3,0-0,F,LMH,SN,M,1,2,0
+Ranunculus californicus,California Buttercup,Perennial,0.6,6-9, ,LMH,SN,M,1,0, 
+Ranunculus chinensis,Hui Hui Suan,Perennial,0.6,-, ,LMH,SN,MWe,1,0, 
+Ranunculus ficaria,"Lesser Celandine - Pilewort, Fig buttercup",Perennial,0.2,0-0,F,LMH,SN,M,1,2,0
+Ranunculus flammula,"Lesser Spearwort, Greater creeping spearwort",Perennial,0.6,4-8, ,LMH,SN,MWeWa,0,1, 
+Ranunculus hirtus, ,Perennial,0.0,-, ,LMH,SN,M,0,1, 
+Ranunculus inamoeus,Graceful Buttercup,Perennial,0.3,-, ,LMH,SN,M,1,0, 
+Ranunculus japonicus,Mao Gen,Perennial,0.1,-, ,LMH,SN,M,1,1, 
+Ranunculus kochii, ,Perennial,0.1,5-9, ,LMH,N,M,1,0, 
+Ranunculus muricatus,"Rough-Seed Buttercup, Spinyfruit buttercup",Annual,0.3,0-0, ,LMH,SN,M,0,1, 
+Ranunculus nipponicus, ,Perennial,0.0,-, ,LMH,SN,WeWa,1,0, 
+Ranunculus occidentalis,Western Buttercup,Perennial,0.6,-, ,LMH,SN,M,1,0, 
+Ranunculus pallasii,"Buttercup, Pallas' buttercup",Perennial,0.1,0-0, ,LMH,SN,MWe,1,0, 
+Ranunculus pennsylvanicus,Pennsylvania Buttercup,Annual/Perennial,1.0,-, ,LMH,SN,MWe,1,1, 
+Ranunculus quelpaertensis, ,Perennial,0.6,-, ,LMH,SN,MWe,1,0, 
+Ranunculus repens,"Creeping Buttercup, Prairie Double-flowered Buttercup, Water Buttercup, Creeping Buttercup",Perennial,0.3,3-8,F,LMH,SN,M,1,1,0
+Ranunculus reptans,Creeping Spearwort,Perennial,0.2,-,F,LMH,SN,MWe,1,0, 
+Ranunculus rivularis, ,Perennial,0.0,-, ,LMH,SN,M,0,1, 
+Ranunculus sceleratus,"Celery-Leaved Buttercup, Cursed buttercup",Perennial,0.6,0-0, ,LMH,SN,MWeWa,1,1, 
+Ranunculus tachreoi, ,Perennial,1.0,-, ,LMH,SN,M,1,0, 
+Ranunculus ternatus, ,Perennial,0.3,-, ,LMH,SN,M,0,1, 
+Raphanus landra,Radish,Annual,0.8,-, ,LMH,SN,M,2,0, 
+Raphanus maritima,Sea Radish,Biennial,0.8,-, ,LMH,SN,M,2,0, 
+Raphanus raphanistrum,Wild Radish,Annual,1.2,0-0, ,LMH,SN,M,2,1,0
+Raphanus sativus,"Radish, Cultivated radish",Annual,0.5,2-11,F,LMH,SN,M,4,3,0
+Raphanus sativus caudatus,Rat-Tail Radish,Annual,0.0,7-10, ,LMH,SN,M,3,3, 
+Raphanus sativus niger,Oriental Radish,Annual,0.5,2-11,F,LMH,SN,M,4,3,3
+Raphanus sativus oleiformis,Fodder Radish,Annual,0.5,-,F,LMH,SN,M,3,3, 
+Raphia farinifera,Raffia Palm,Tree,25.0,9-12,F,LMH,N,MWe,3,0,3
+Raphia hookeri,Ivory Coast Raffia Palm,Tree,10.0,10-12,F,LMH,N,MWe,3,2,4
+Raphia palma-pinus,Thatch palm,Tree,10.0,10-12,F,LMH,SN,MWe,0,2,4
+Raphia vinifera,Wine Raffia Palm. Wine Palm,Tree,6.0,10-12,M,LMH,N,M,3,0,3
+Ratibida columnifera,"Prairie Coneflower, Upright prairie coneflower, Woolly Cinquefoil, Praire Coneflower, Mexican Hat",Perennial,0.8,4-9,F,LMH,N,DM,1,1, 
+Rauvolfia serpentina,"Rauwolfia, Ajmaline, Java devil-pepper",Shrub,1.5,10-12,M,LMH,SN,M,0,4,0
+Reaumuria hypericoides, ,Shrub,0.5,-, ,LMH,SN,M,0,1, 
+Rehmannia glutinosa,Chinese Foxglove - Di Huang,Perennial,0.3,8-11, ,LM,SN,M,1,3, 
+Reichardia picroides,"French Scorzonera, Common brighteyes",Perennial,0.5,7-10, ,LMH,SN,M,5,0, 
+Reineckia carnea, ,Perennial,0.1,6-9, ,LMH,FS,M,0,1, 
+Reseda lutea,"Wild Mignonette, Yellow mignonette",Biennial/Perennial,0.8,0-0, ,LMH,SN,M,1,0, 
+Reseda luteola,"Weld, Dyer's Rocket",Biennial,1.5,5-9, ,LMH,N,M,0,1,3
+Reseda odorata,"Mignonette, Garden mignonette",Annual/Perennial,0.5,0-0, ,LMH,SN,M,0,1, 
+Reseda phyteuma,Rampion mignonette,Annual/Biennial,0.3,0-0, ,LMH,SN,M,1,0, 
+Reutealis trisperma,"Otaheite Walnut, Lumbang Tree",Tree,12.0,9-12,F,LMH,N,M,0,2,4
+Reynoutria japonica,Japanese knotweed.,Perennial,2.0,4-8,F,LMH,SN,M,3,3,3
+Rhagodia candolleana,Coastal Saltbush,Shrub,2.0,-, ,LMH,SN,M,0,0, 
+Rhagodia nutans,Climbing Saltbush,Perennial,0.2,8-11, ,LMH,N,M,2,0, 
+Rhagodia parabolica,Mealy Saltbush,Shrub,3.0,8-11, ,LMH,N,M,1,0, 
+Rhagodia spinescens,Spiny Saltbush,Shrub,0.5,8-11, ,LMH,N,M,2,0, 
+Rhamnella franguloides, ,Shrub,6.0,-, ,LMH,SN,M,1,0, 
+Rhamnus alaternus,Italian Buckthorn,Shrub,5.0,6-9,F,LMH,SN,DM,0,0, 
+Rhamnus carolinianus,"Indian Cherry, Oak, Carolina Buckthorn",Tree,12.0,5-9,S,LMH,SN,M,2,1, 
+Rhamnus cathartica,Common Buckthorn,Shrub,6.0,3-7, ,LMH,SN,DM,0,3,0
+Rhamnus croceus,Red Berry,Shrub,4.0,7-10, ,LMH,N,DM,2,0, 
+Rhamnus dahurica,Dahurian Buckthorn,Shrub,7.0,4-8, ,LMH,SN,M,1,1, 
+Rhamnus frangula,Alder Buckthorn,Shrub,5.0,3-7,S,LMH,SN,MWe,0,3,3
+Rhamnus globosa,lokao,Shrub,3.0,0-0, ,LMH,SN,M,0,0, 
+Rhamnus grandiflora, ,Shrub,4.0,-, ,LMH,SN,M,2,0, 
+Rhamnus japonica,Japanese buckthorn,Shrub,3.0,4-8, ,LMH,SN,M,1,1, 
+Rhamnus leptophyllus, ,Shrub,1.8,5-9, ,LMH,SN,M,1,0, 
+Rhamnus lycioides, ,Shrub,0.0,-, ,LMH,N,DM,0,0, 
+Rhamnus nepalensis, ,Shrub,1.5,-, ,LMH,SN,M,1,1, 
+Rhamnus persicus, ,Shrub,1.0,-, ,LMH,SN,M,2,0, 
+Rhamnus purpureus, ,Shrub,0.0,-, ,LMH,SN,M,0,1, 
+Rhamnus purshiana,Cascara Sagrada,Tree,10.0,-, ,LMH,SN,M,2,3, 
+Rhamnus saxatilis,"Avignon Berry, Rock buckthorn",Shrub,2.0,5-9, ,LMH,SN,M,0,0, 
+Rhamnus saxatilis tinctorius,Dyer's Buckthorn,Shrub,2.0,5-9, ,LMH,SN,M,0,0, 
+Rhamnus triquetra, ,Shrub,7.0,-, ,LMH,SN,M,0,1, 
+Rhamnus utilis,Chinese Buckthorn,Shrub,3.0,-, ,LMH,N,M,0,0, 
+Rhamnus virgatus, ,Shrub,2.0,-, ,LMH,SN,M,1,1, 
+Rhaphiolepis indica,Indian Hawthorn,Shrub,1.5,8-11,S,LMH,N,DM,1,0, 
+Rhaphiolepis umbellata,Japanese Hawthorn,Shrub,2.5,7-10,S,LMH,N,M,1,0, 
+Rhaponticum scariosum rhaponticum, ,Perennial,0.8,-, ,LMH,N,M,0,1, 
+Rhaponticum uniflorum, ,Perennial,1.0,-, ,LMH,SN,M,1,0, 
+Rheum × hybridum,Garden Rhubarb,Perennial,1.5,3-8,M,LMH,SN,M,4,3,1
+Rheum australe,Himalayan Rhubarb,Perennial,3.0,5-9, ,MH,SN,M,3,3,2
+Rheum compactum, ,Perennial,0.5,5-9, ,MH,SN,M,2,0, 
+Rheum coreanum, ,Perennial,0.0,-, ,MH,SN,M,0,1, 
+Rheum nobile,Sikkim Rhubarb,Perennial,1.5,6-9, ,MH,SN,M,3,2,1
+Rheum officinale,Chinese Rhubarb,Perennial,2.0,6-9, ,MH,SN,M,1,3, 
+Rheum palmatum,"Turkey Rhubarb, Chinese Rhubarb - Da Huang, Chinese rhubarb",Perennial,3.0,6-9, ,MH,SN,M,3,5,2
+Rheum palmatum tanguticum,Da Huang,Perennial,2.0,5-9, ,MH,SN,M,3,5,0
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,
+Rheum rhaponticum,"Rhubarb, Garden rhubarb",Perennial,1.2,3-7, ,MH,SN,M,2,3, 
+Rheum ribes, ,Perennial,1.5,5-9, ,MH,SN,DM,2,0, 
+Rheum spiciforme, ,Perennial,0.3,-, ,MH,SN,M,2,1, 
+Rheum tataricum,Tartarian Rhubarb,Perennial,0.5,-, ,MH,SN,DM,2,0, 
+Rheum x cultorum,Rhubarb,Perennial,1.5,3-7, ,MH,SN,M,4,3,2
+Rhexia virginica,"Deer Grass, Handsome Harry",Perennial,0.3,3-7, ,LM,N,M,3,1, 
+Rhinanthus minor,"Yellow Rattle, Little yellow rattle, Arctic rattlebox",Annual,0.5,5-9, ,LMH,N,M,0,1, 
+Rhodiola rhodantha,"Queen's Crown, Redpod stonecrop",Perennial,0.4,4-8, ,LMH,N,DM,1,0, 
+Rhodiola rosea,Rose Root,Perennial,0.3,0-0, ,LMH,N,DM,2,3,3
+Rhodiola tibetica, ,Perennial,0.3,5-9, ,LMH,N,DM,1,0, 
+Rhododendron anthopogon, ,Shrub,0.6,6-9, ,LM,SN,M,1,2, 
+Rhododendron arboreum, ,Shrub,12.0,6-9, ,LM,SN,M,1,2, 
+Rhododendron aureum,Rosebay,Shrub,0.5,-, ,LM,SN,M,0,2, 
+Rhododendron campanulatum, ,Shrub,4.5,4-8, ,LM,SN,M,0,1, 
+Rhododendron ferrugineum,Alpenrose,Shrub,1.5,4-8, ,LM,SN,M,0,1, 
+Rhododendron griersonianum, ,Shrub,3.0,7-10, ,LMH,SN,M,0,0, 
+Rhododendron indicum,Rhododendron,Shrub,2.0,5-9, ,LM,S,M,1,0, 
+Rhododendron japonicum,Japanese azalea,Shrub,2.0,4-8, ,LM,SN,M,1,1, 
+Rhododendron kaempferi, ,Shrub,2.5,4-8, ,LM,S,M,1,0, 
+Rhododendron lapponicum,Lapland Rosebay,Shrub,1.0,-, ,LM,SN,M,1,0, 
+Rhododendron lutescens, ,Shrub,3.0,6-9, ,LM,SN,M,0,0, 
+Rhododendron luteum,Honeysuckle Azalea,Shrub,2.5,4-8, ,LM,S,M,0,0, 
+Rhododendron maximum,"Rosebay Rhododendron, Great laurel",Shrub,3.5,3-7, ,LM,S,M,0,1, 
+Rhododendron molle,Chinese Azalea,Shrub,2.5,6-9, ,LM,S,M,0,1, 
+Rhododendron mucronulatum, ,Shrub,2.5,4-8, ,LM,SN,M,1,0, 
+Rhododendron periclymenoides,"Pink azalea, Pinxter flower",Shrub,2.0,4-8,M,LMH,FSN,DM,1,0,2
+Rhododendron 'PJM', ,Shrub,3.0,-, ,LM,SN,M,0,0, 
+Rhododendron ponticum,Rhododendron,Shrub,5.0,6-9, ,LM,S,M,0,1, 
+Rhododendron x praecox, ,Shrub,1.5,5-9, ,LM,SN,M,0,0, 
+Rhus ambigua, ,Climber,0.0,6-9, ,LMH,SN,M,0,0, 
+Rhus aromatica,"Lemon Sumach, Fragrant sumac",Shrub,1.2,3-9,S,LMH,N,DM,4,2,2
+Rhus chinensis,"Chinese Gall, Chinese sumac",Tree,6.0,7-10, ,LMH,N,M,2,3, 
+Rhus copallina,"Dwarf Sumach, Winged sumac, Flameleaf Sumac, Winged Sumac, Shining Sumac",Shrub,2.0,4-10,F,LMH,N,DM,4,2,3
+Rhus coriaria,"Elm-Leaved Sumach, Sicilian sumac",Shrub,3.0,8-11, ,LMH,N,DM,2,1, 
+Rhus diversiloba,"Western Poison Oak, Pacific poison oak",Shrub,2.5,4-8, ,LMH,N,M,0,2, 
+Rhus glabra,Smooth Sumach,Shrub,3.0,3-9,M,LMH,N,DM,4,3,3
+Rhus integrifolia,"Lemonade Berry, Lemonade sumac",Shrub,2.0,8-10,M,LMH,N,DM,2,0, 
+Rhus microphylla,"Desert Sumach, Littleleaf sumac",Shrub,2.0,8-11, ,LMH,N,D,2,0, 
+Rhus ovata,"Sugar Bush, Sugar sumac",Shrub,2.0,8-11, ,LM,N,DM,2,1, 
+Rhus potaninii, ,Tree,12.0,4-8, ,LMH,N,M,0,2, 
+Rhus punjabensis, ,Tree,12.0,5-9, ,LMH,N,M,3,2, 
+Rhus punjabensis sinica, ,Tree,12.0,5-9, ,LMH,N,M,3,2, 
+Rhus radicans,Poison Ivy,Climber,2.5,4-8,F,LMH,N,M,0,1, 
+Rhus sempervirens, ,Shrub,3.5,-, ,LMH,N,DM,2,1, 
+Rhus succedanea,Wax Tree,Tree,9.0,4-9, ,LMH,N,M,1,2,4
+Rhus sylvestris, ,Tree,10.0,-, ,LMH,N,M,0,0, 
+Rhus toxicodendron,Eastern Poison Oak,Shrub,0.6,6-9, ,LMH,N,DM,0,2, 
+Rhus trichocarpa, ,Tree,6.0,-, ,LMH,N,M,0,0, 
+Rhus trilobata,"Skunk Bush, Basketbush, Squawbush, Three Leaf Sumac",Shrub,1.8,4-6,M,LMH,N,DM,4,2,3
+Rhus typhina,"Stag's Horn Sumach, Velvet Sumac, Staghorn Sumac",Shrub,6.0,4-8,F,LMH,N,DM,4,2,3
+Rhus vernix,Poison Sumach,Shrub,3.0,3-7, ,LMH,N,MWe,0,1, 
+Rhus wallichii, ,Tree,8.0,-, ,LMH,N,M,0,1, 
+Rhus x pulvinata, ,Shrub,3.0,0-0, ,LMH,N,DM,4,2,2
+Rhynchoryza subulata,Arroz bravo,Perennial,0.3,9-12,F,LMH,N,MWe,3,0,0
+Rhynchosinapis monensis,Isle Of Man Cabbage,Biennial,0.3,-, ,LMH,SN,M,2,0, 
+Rhynchosinapis wrightii,Lundy Cabbage,Perennial,1.0,6-9, ,LMH,SN,M,4,0, 
+Ribes aciculare, ,Shrub,1.0,3-7, ,LMH,SN,M,3,0, 
+Ribes alpinum,Alpine Currant,Shrub,1.2,2-7,M,LMH,SN,M,3,0,4
+Ribes altissimum, ,Shrub,3.0,5-9, ,LMH,SN,M,3,0, 
+Ribes ambiguum, ,Shrub,0.6,5-9, ,LMH,SN,M,2,0, 
+Ribes americanum,American Blackcurrant,Shrub,1.8,-, ,LMH,SN,M,2,1, 
+Ribes aureum,Golden Currant,Shrub,2.4,3-8, ,LMH,SN,DM,4,1,0
+Ribes bracteosum,Stink Currant,Shrub,2.5,6-9, ,LMH,N,M,2,1, 
+Ribes burejense,"Bureja gooseberry,",Shrub,1.0,4-8, ,LMH,SN,M,4,0,0
+Ribes californicum,Hillside Gooseberry,Shrub,0.0,6-9, ,LMH,N,M,2,0, 
+Ribes cereum,Wax Currant,Shrub,1.8,4-8, ,LMH,N,DM,2,1, 
+Ribes curvatum,Granite gooseberry,Shrub,1.0,6-9, ,LMH,SN,M,3,0, 
+Ribes cynosbati,"Dogberry, Eastern prickly gooseberry",Shrub,1.5,0-0, ,LMH,SN,M,3,1,0
+Ribes diacanthum,Siberian currant,Shrub,1.8,0-0, ,LMH,SN,M,2,0, 
+Ribes distans, ,Shrub,0.6,4-8, ,LMH,SN,M,2,0, 
+Ribes divaricatum,"Coastal Black Gooseberry, Spreading gooseberry, Parish's gooseberry, Straggly gooseberry",Shrub,2.7,4-8, ,LMH,SN,M,4,1,2
+Ribes fasciculatum, ,Shrub,1.5,4-8, ,LMH,SN,M,1,0, 
+Ribes fragrans, ,Shrub,0.6,3-7, ,LMH,SN,M,3,0, 
+Ribes gayanum, ,Shrub,1.5,7-10, ,LMH,SN,M,3,0, 
+Ribes glaciale, ,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Ribes glandulosum,Skunk Currant,Shrub,0.4,-, ,LMH,SN,M,2,1, 
+Ribes griffithii, ,Shrub,2.5,-, ,LMH,SN,M,2,0, 
+Ribes himalense, ,Shrub,2.0,5-9, ,LMH,SN,M,3,1, 
+Ribes hirtellum,"Currant-Gooseberry, Hairystem gooseberry",Shrub,1.0,4-8, ,LMH,N,M,3,0,0
+Ribes horridum, ,Shrub,1.5,-, ,LMH,SN,M,3,0, 
+Ribes hudsonianum,"Hudson Bay Currant, Northern black currant, Western black currant",Shrub,1.0,0-0, ,LMH,SN,M,2,1, 
+Ribes inebrians,Whisky Currant,Shrub,2.0,4-8, ,LMH,SN,M,2,1, 
+Ribes inerme,"Whitestem Gooseberry, Klamath gooseberry",Shrub,2.0,5-9, ,LMH,SN,M,2,0, 
+Ribes irriguum,Idaho Gooseberry,Shrub,3.0,-, ,LMH,SN,M,2,1, 
+Ribes janczewskii, ,Shrub,0.0,-, ,LMH,SN,M,3,0, 
+Ribes japonicum, ,Shrub,0.0,6-9, ,LMH,SN,M,2,0, 
+Ribes lacustre,"Prickly Blackcurrant, Prickly currant",Shrub,1.5,4-8, ,LMH,SN,M,3,1,2
+Ribes latifolium, ,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Ribes laurifolium, ,Shrub,1.0,8-11,S,LMH,SN,M,2,0, 
+Ribes laxiflorum,"White-Flowered Currant, Trailing black currant",Shrub,0.3,4-8, ,LMH,SN,M,2,1, 
+Ribes leptanthum,Trumpet Gooseberry,Shrub,1.0,5-9, ,LMH,SN,M,2,0, 
+Ribes lobbii,Gummy Gooseberry,Shrub,1.8,6-9, ,LMH,N,M,1,1, 
+Ribes longiracemosum, ,Shrub,3.5,5-9, ,LMH,SN,M,3,0, 
+Ribes luridum, ,Shrub,1.0,4-8, ,LMH,SN,M,2,0, 
+Ribes magellanicum, ,Shrub,4.0,-, ,LMH,SN,M,2,1, 
+Ribes mandschuricum, ,Shrub,3.0,5-9, ,LMH,SN,M,2,0, 
+Ribes maximowiczii, ,Shrub,2.7,5-9, ,LMH,SN,M,4,0, 
+Ribes maximowiczii floribundum, ,Shrub,2.7,5-9, ,LMH,SN,M,4,0, 
+Ribes menziesii,Canyon Gooseberry,Shrub,1.8,6-9, ,LMH,N,M,2,0, 
+Ribes meyeri, ,Shrub,1.5,6-9, ,LMH,SN,M,3,0, 
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,
+Ribes missouriense,Missouri Gooseberry,Shrub,2.0,4-8, ,LMH,SN,M,3,0,0
+Ribes montigenum,Gooseberry-Currant,Shrub,0.8,5-9, ,LMH,N,M,3,0,0
+Ribes multiflorum,Manyflower currant,Shrub,2.0,5-9, ,LMH,SN,M,2,0, 
+Ribes nigrum,"Blackcurrant, European black currant",Shrub,1.8,4-8, ,LMH,SN,M,5,3,2
+Ribes niveum,"Slender Branched Gooseberry, Snow currant",Shrub,2.7,5-9, ,LMH,N,M,2,0, 
+Ribes odoratum,Buffalo Currant,Shrub,2.5,4-8, ,LMH,SN,M,4,1, 
+Ribes orientale, ,Shrub,1.8,4-8, ,LMH,SN,M,2,1, 
+Ribes oxyacanthoides,"American Mountain Gooseberry, Canadian gooseberry, Stream currant, Henderson's currant, Idaho go",Shrub,1.5,0-0, ,LMH,SN,M,3,1, 
+Ribes palczewskii, ,Shrub,1.5,-, ,LMH,SN,M,3,0, 
+Ribes petiolare,Wetern Blackcurrant,Shrub,1.5,3-7, ,LMH,SN,M,3,0, 
+Ribes petraeum,"Rock Red Currant, Currant",Shrub,1.8,5-9, ,LMH,SN,M,3,0,0
+Ribes petraeum biebersteinii, ,Shrub,1.5,5-9, ,LMH,SN,M,3,0, 
+Ribes pinetorum,Orange Gooseberry,Shrub,0.0,5-9, ,LMH,N,M,3,0,0
+Ribes procumbens,Trailing red currant,Shrub,0.2,3-7, ,LMH,SN,M,4,0, 
+Ribes punctatum, ,Shrub,0.0,-, ,LMH,SN,M,3,0, 
+Ribes roezlii,Sierra Gooseberry,Shrub,1.5,6-9, ,LMH,SN,DM,2,0, 
+Ribes rotundifolium,Appalachian Gooseberry,Shrub,1.0,5-9, ,LMH,SN,M,3,1, 
+Ribes rubrum,"Red Currant, Cultivated currant",Shrub,1.2,4-8, ,LMH,SN,M,4,1,2
+Ribes sachalinense, ,Shrub,1.0,-, ,LMH,SN,M,3,0, 
+Ribes sanguineum,"Flowering Currant, Blood currant",Shrub,2.5,5-9,M,LMH,SN,M,2,0, 
+Ribes sanguineum glutinosum,Flowering Currant,Shrub,2.7,5-9, ,LMH,SN,M,2,0, 
+Ribes sativum,Redcurrant,Shrub,1.0,5-9, ,LMH,SN,M,3,0, 
+Ribes setosum,Missouri Gooseberry,Shrub,1.0,-, ,LMH,SN,M,2,0, 
+Ribes sinanense, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Ribes spicatum,"Nordic Currant, Currant",Shrub,2.0,3-7, ,LMH,SN,M,2,0, 
+Ribes stenocarpum, ,Shrub,2.0,5-9, ,LMH,SN,M,2,0, 
+Ribes triste,"American Red Currant, Red currant",Shrub,0.5,0-0, ,LMH,SN,M,3,1,0
+Ribes ussuriense, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Ribes uva-crispa,"Gooseberry, European gooseberry",Shrub,1.2,4-8,M,LMH,SN,M,5,1,2
+Ribes valdivianum, ,Shrub,3.5,-, ,LMH,SN,M,2,0, 
+Ribes viburnifolium, ,Shrub,2.0,8-11, ,LMH,SN,M,2,0, 
+Ribes viscosissimum,Sticky Currant,Shrub,1.0,6-9, ,LMH,SN,M,2,0, 
+Ribes warszewiczii,Downy currant,Shrub,1.5,3-7, ,LMH,SN,M,4,0, 
+Ribes x culverwellii,Jostaberry,Shrub,1.8,5-9, ,LMH,SN,M,5,0,0
+Ribes x holosericeum, ,Shrub,1.5,4-8, ,LMH,SN,M,2,0, 
+Ribes x houghtonianum, ,Shrub,2.0,4-8, ,LMH,SN,M,2,0, 
+Ribes x robustum, ,Shrub,0.0,5-9, ,LMH,SN,M,2,0, 
+Ricinodendron heudelotii,"Manketti nut, Zambezi almond, African oil-nut-tree",Tree,40.0,10-12,F,LM,N,M,3,3,4
+Ricinus communis,"Castor-Oil Plant, Castorbean, Palma Christi, Wonder Tree, Castor Oil Plant",Shrub,1.5,10-11,F,LMH,N,M,1,4,0
+Ripogonum scandens,Supple Jack,Climber,10.0,9-11, ,LMH,S,M,2,1, 
+Robinia fertilis,Bristly Locust,Shrub,2.0,4-8,M,LMH,N,DM,0,0, 
+Robinia flava, ,Tree,0.0,-, ,LMH,SN,DM,1,0, 
+Robinia hispida,"Bristly locust, Rose-acacia, or Moss locust",Shrub,3.5,4-8,F,LMH,N,DM,0,1,3
+Robinia luxurians,New Mexico locust,Tree,8.0,4-8, ,LMH,SN,DM,1,0, 
+Robinia neomexicana,"New Mexico Locust, Rusby's locust, Locust",Tree,2.0,4-8,M,LMH,SN,DM,1,1, 
+Robinia pseudoacacia,"Black Locust, Yellow Locust",Tree,25.0,4-9,F,LMH,N,DM,3,2,4
+Robinia viscosa,"Clammy Locust, Hartweg's locust",Tree,13.0,3-7,M,LMH,SN,DM,0,0,3
+Rodgersia podophylla, ,Perennial,1.3,-, ,LMH,SN,MWe,1,0, 
+Rohdea japonica, ,Perennial,0.3,6-9, ,LMH,S,M,0,2, 
+Romanzoffia suksdorfii,California mistmaiden,Perennial,0.3,6-9, ,LMH,FS,M,1,0, 
+Romanzoffia unalaschkensis, ,Perennial,0.3,-, ,LMH,FS,M,1,0, 
+Romulea bulbocodium, ,Corm,0.2,6-9, ,L,N,DM,1,0, 
+Rorippa amphibia,Great Yellow Cress,Perennial,1.2,5-9, ,LMH,SN,MWeWa,3,0, 
+Rorippa globosa,Globe yellowcress,Annual/Perennial,0.7,0-0, ,LMH,N,M,1,0, 
+Rorippa indica, ,Perennial,0.3,-, ,LMH,SN,M,2,1, 
+Rorippa palustris,"Yellow Marsh Cress, Bog yellowcress, Hispid yellowcress, Western bog yellowcress",Annual/Biennial,0.6,0-0, ,LMH,SN,MWe,2,1,0
+Rosa acicularis,Prickly Rose,Shrub,2.5,-, ,LMH,SN,M,2,2, 
+Rosa arkansana,Low Prairie Rose,Shrub,1.2,4-8, ,LMH,SN,M,2,1,0
+Rosa arkansana suffulta,Prairie Rose,Shrub,0.0,4-8, ,LMH,SN,M,2,1, 
+Rosa banksiae,Banksia Rose,Shrub,10.0,6-9,F,LMH,N,M,2,1, 
+Rosa blanda,"Labrador Rose, Smooth rose, Hispid rose",Shrub,2.0,0-0, ,LMH,SN,M,2,2, 
+Rosa californica,California Wild Rose,Shrub,2.5,4-8, ,LMH,SN,M,2,2, 
+Rosa canina,Dog Rose,Shrub,3.0,3-7,F,LMH,SN,MWe,3,3,4
+Rosa carolina,"Pasture Rose, Carolina rose",Shrub,1.5,4-8, ,LMH,SN,DM,2,1, 
+Rosa centifolia,"Provence Rose, Cabbage rose",Shrub,1.5,5-9, ,LMH,SN,M,2,2, 
+Rosa chinensis,China Rose,Shrub,6.0,6-9, ,LMH,SN,M,1,2, 
+Rosa coriifolia, ,Shrub,2.0,4-8, ,LMH,SN,M,2,1, 
+Rosa corymbifera,Dog rose,Shrub,3.0,5-9, ,LMH,SN,M,3,1,0
+Rosa cymosa, ,Shrub,12.0,6-9, ,LMH,SN,M,2,2, 
+Rosa davurica,Amur rose,Shrub,1.5,4-8, ,LMH,SN,M,2,1, 
+Rosa dumalis, ,Shrub,2.0,4-8, ,LMH,SN,M,2,1, 
+Rosa fedtschenkoana, ,Shrub,2.0,4-8, ,LMH,SN,M,2,1, 
+Rosa fraxinellaefolia, ,Shrub,0.0,-, ,LMH,SN,M,2,1, 
+Rosa gallica,French Rose,Shrub,2.0,4-8, ,LMH,SN,M,2,2, 
+Rosa gigantea,Manipur Wild-Tea Rose,Shrub,15.0,8-11, ,LMH,SN,M,3,1, 
+Rosa glauca,Red-Leafed Rose,Shrub,2.5,-, ,LMH,SN,M,2,1, 
+Rosa gymnocarpa,"Wood Rose, Dwarf rose, Gasquet rose",Shrub,3.0,5-9, ,LMH,SN,M,2,1, 
+Rosa hemsleyana, ,Shrub,0.0,5-9, ,LMH,SN,M,2,1, 
+Rosa laevigata,Cherokee Rose,Shrub,6.0,6-9,M,LMH,N,M,2,3, 
+Rosa laxa, ,Shrub,2.5,5-9, ,LMH,SN,M,2,1, 
+Rosa macrophylla, ,Shrub,4.0,6-9,F,LMH,SN,M,2,1, 
+Rosa majalis,"Cinnamon Rose, Double cinnamon rose",Shrub,2.7,5-9, ,LMH,SN,MWe,2,1, 
+Rosa manca,Mancos rose,Shrub,0.0,0-0, ,LMH,SN,M,2,1, 
+Rosa maracandica, ,Shrub,0.0,-, ,LMH,SN,M,2,1, 
+Rosa micrantha,Smallflower sweetbrier,Shrub,1.5,5-9, ,LMH,SN,M,2,1, 
+Rosa moschata,Musk Rose,Shrub,10.0,5-9,F,LMH,SN,M,2,1, 
+Rosa moyesii, ,Shrub,4.0,4-8, ,LMH,SN,M,2,1, 
+Rosa multiflora,"Japanese Rose, Multiflora rose",Shrub,5.0,4-8, ,LMH,SN,M,2,2,0
+Rosa nutkana,"Nootka Rose, Bristly Nootka rose",Shrub,2.7,4-8, ,LMH,SN,M,3,2,4
+Rosa obtusifolia, ,Shrub,0.0,4-8, ,LMH,SN,M,2,1, 
+Rosa palustris,Swamp rose,Shrub,2.0,3-9,F,LMH,N,MWe,3,2,2
+Rosa pimpinellifolia,"Burnet Rose, Scotch rose",Shrub,1.0,4-8,M,LMH,SN,M,2,1, 
+Rosa pisocarpa,"Cluster Rose, Ahart's cluster rose",Shrub,2.5,5-9, ,LMH,SN,M,2,2, 
+Rosa roxburghii,"Sweet Chestnut Rose, Chestnut rose",Shrub,1.2,4-8, ,LMH,SN,M,2,1, 
+Rosa rubiginosa,"Sweet Briar, Sweetbriar rose",Shrub,2.5,4-8, ,LMH,SN,M,2,3, 
+Rosa rugosa,"Ramanas Rose, Rugosa rose",Shrub,2.0,3-9,M,LMH,SN,DM,5,2,3
+Rosa sericea,Himalayan Rose,Shrub,2.0,5-9, ,LMH,SN,M,2,1, 
+Rosa sericea omeiensis,Himalayan Rose,Shrub,3.0,-, ,LMH,SN,M,2,1, 
+Rosa sericea pteracantha, ,Shrub,2.5,5-9,M,LMH,SN,M,2,1, 
+Rosa setigera,"Prairie rose, Climbing Wild Rose",Shrub,2.5,4-7,F,LMH,N,DM,3,2,3
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,
+Rosa setipoda, ,Shrub,2.4,5-9, ,LMH,SN,M,2,1, 
+Rosa sherardii,Sherard's downy rose,Shrub,0.0,4-8, ,LMH,SN,M,2,1, 
+Rosa sweginzowii,Sweginzow's rose,Shrub,4.0,5-9, ,LMH,SN,M,2,1, 
+Rosa tomentosa,Whitewoolly rose,Shrub,3.0,5-9, ,LMH,SN,M,2,1, 
+Rosa villosa,Apple Rose,Shrub,1.8,4-8, ,LMH,SN,M,4,1,1
+Rosa virginiana,Virginia Rose,Shrub,1.5,3-7,M,LMH,SN,DM,2,1, 
+Rosa webbiana, ,Shrub,2.0,5-9, ,LMH,SN,M,2,1, 
+Rosa wichuraiana,Memorial Rosa,Shrub,5.0,5-8,F,LMH,SN,M,2,1, 
+Rosa woodsii,"Western Wild Rose, Woods' rose, Tehachapi rose",Shrub,2.0,4-8, ,LMH,SN,M,2,2, 
+Rosa x beanii, ,Shrub,0.0,6-9, ,LMH,SN,M,2,1, 
+Rosa x damascena,Damask Rose,Shrub,1.5,4-8, ,LMH,SN,M,2,1, 
+Rosa x odorata,Tea Rose,Shrub,6.0,6-9, ,LMH,SN,M,2,1, 
+Rosmarinus officinalis,Rosemary,Shrub,1.5,6-9,M,LM,N,DM,2,3,4
+Roupala montana,"Roupale, Leopardwood",Tree,15.0,10-12,M,LM,N,MWe,0,2,4
+Rubia akane,Asian Madder,Perennial Climber,1.0,-, ,LMH,S,DM,1,2, 
+Rubia chinensis, ,Perennial,0.1,-, ,LMH,S,DM,1,0, 
+Rubia cordifolia,Indian Madder,Perennial Climber,6.0,5-9, ,LMH,S,DM,2,3, 
+Rubia hexaphylla, ,Perennial,0.0,-, ,LMH,S,DM,1,0, 
+Rubia jesoensis, ,Perennial,0.6,-, ,LMH,S,DM,1,0, 
+Rubia khasiana, ,Perennial,0.0,-, ,LMH,S,DM,0,0, 
+Rubia manjith,Indian Madder,Perennial Climber,0.0,-, ,LMH,S,DM,1,2, 
+Rubia peregrina,Wild Madder,Perennial,0.1,6-9, ,LM,SN,DM,0,1, 
+Rubia sikkimensis, ,Perennial Climber,2.0,-, ,LMH,S,DM,0,0, 
+Rubia tinctorum,"Madder, Dyer's madder",Perennial,1.0,5-9,M,LM,SN,DM,0,2, 
+Rubus abbrevians,Vermont blackberry,Shrub,0.0,0-0, ,LMH,SN,M,3,0,1
+Rubus acaulis,Dwarf Raspberry,Perennial,0.1,-, ,LMH,SN,M,3,1, 
+Rubus acer, ,Shrub,1.2,-, ,LMH,SN,M,1,0, 
+Rubus adenophorus, ,Shrub,2.5,5-9, ,LMH,SN,M,2,0, 
+Rubus adenotrichus,Mora Comun,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Rubus affinis, ,Shrub,3.0,4-8, ,LMH,SN,M,2,0, 
+Rubus alexeterius, ,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Rubus allegheniensis,"Alleghany Blackberry, Graves' blackberry",Shrub,3.0,3-7,M,LMH,SN,M,3,2,1
+Rubus almus,"Mayes Dewberry, Garden dewberry",Shrub,2.0,7-10, ,LMH,SN,M,3,0,1
+Rubus amabilis, ,Shrub,2.0,5-9, ,LMH,SN,M,3,0,1
+Rubus ampelinus, ,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Rubus arcticus,"Arctic Bramble, Arctic raspberry, Dwarf raspberry",Perennial,0.2,2-7, ,LMH,N,M,5,0,1
+Rubus argutus,"Highbush Blackberry, Sawtooth blackberry",Shrub,2.5,0-0, ,LMH,SN,M,2,1,0
+Rubus arizonicus,Arizona Dewberry,Shrub,0.2,-, ,LMH,SN,M,2,0, 
+Rubus australis, ,Climber,0.0,8-11, ,LMH,SN,M,2,0, 
+Rubus avipes, ,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Rubus baileyanus,Bailey's dewberry,Shrub,1.0,0-0, ,LMH,SN,DM,2,0, 
+Rubus barbatus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus bellobatus,Kittatinny Blackberry,Shrub,2.0,5-9, ,LMH,SN,M,2,0, 
+Rubus biflorus, ,Shrub,3.5,-, ,LMH,SN,M,3,0, 
+Rubus bifrons,"Himalayan berry, Hybrid European blackberry, Hybrid blackberry",Shrub,1.5,0-0, ,LMH,SN,M,1,0,1
+Rubus bloxamii, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus buergeri, ,Shrub,3.0,5-9, ,LMH,SN,M,2,0, 
+Rubus caesius,"Dewberry, European dewberry",Shrub,0.2,4-8, ,LMH,SN,M,2,0, 
+Rubus calycinus,Wild Raspberry,Perennial,1.0,-, ,LMH,SN,M,1,0, 
+Rubus canadensis,"American Dewberry, Smooth blackberry",Shrub,2.5,3-7, ,LMH,SN,M,4,1,1
+Rubus candicans, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus caucasicus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus caudatus, , ,0.0,-, ,LMH,SN,M,2,0, 
+Rubus chamaemorus,Cloudberry,Perennial,0.3,2-4, ,LMH,N,MWe,4,1,2
+Rubus chroosepalus, ,Shrub,0.3,5-9, ,LMH,SN,M,1,0, 
+Rubus cissoides,Bush Lawyer,Climber,4.0,-,F,LMH,N,M,2,0, 
+Rubus cockburnianus, ,Shrub,3.0,5-9, ,LMH,SN,M,1,0, 
+Rubus corchorifolius,"Fingerberry, Brombeere, Jute-leaved raspberry,",Shrub,2.5,5-9, ,LMH,SN,M,3,0,1
+Rubus coreanus,Korean Bramble,Shrub,3.0,5-9, ,LMH,SN,M,1,2, 
+Rubus corylifolius, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus crataegifolius,Korean raspberry,Shrub,2.5,4-8, ,LMH,SN,M,4,0,1
+Rubus croceanthus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus cuneifolius,Sand Blackberry,Shrub,0.5,5-9, ,LMH,SN,M,3,0,1
+Rubus deliciosus,"Rocky Mountain Raspberry, Delicious raspberry",Shrub,3.0,4-8,M,LMH,N,M,2,0, 
+Rubus divergens, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus ellipticus,"Golden Evergreen Raspberry, Yellow Himalayan raspberry",Shrub,4.5,7-10, ,LMH,SN,M,4,2,3
+Rubus enslenii,Northern dewberry,Shrub,3.0,0-0, ,LMH,SN,M,2,0, 
+Rubus flagellaris,Northern Dewberry,Shrub,0.2,3-7, ,LMH,SN,M,3,1,1
+Rubus flagelliflorus, ,Climber,1.8,6-9, ,LMH,S,M,2,0, 
+Rubus floribundo-paniculatus, ,Shrub,8.0,-, ,LMH,SN,M,2,0, 
+Rubus floridus,Sawtooth blackberry,Shrub,3.0,0-0, ,LMH,SN,M,1,0, 
+Rubus flosculosus, ,Shrub,2.5,5-9, ,LMH,SN,M,2,0, 
+Rubus frondosus,Yankee Blackberry,Shrub,0.8,4-8, ,LMH,SN,DM,2,1, 
+Rubus fruticosus,"Blackberry, Shrubby blackberry",Shrub,3.0,5-9,F,LMH,FSN,M,5,3,2
+Rubus geoides, ,Shrub,0.6,0-0, ,LMH,SN,M,4,0,1
+Rubus geophilus,Northern dewberry,Shrub,0.0,0-0, ,LMH,SN,M,3,0,1
+Rubus glandicaulis,Glandstem blackberry,Shrub,1.8,0-0, ,LMH,SN,M,2,0, 
+Rubus glaucus,"Mora De Castilla, Andes berry",Shrub,3.0,10-12, ,LMH,SN,M,3,0,1
+Rubus grayanus, ,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Rubus gunnianus, ,Shrub,0.2,0-0, ,LMH,SN,M,3,0,1
+Rubus henryi, ,Climber,6.0,5-9,F,LMH,SN,M,3,0, 
+Rubus hirsutus, ,Shrub,2.0,-, ,LMH,SN,M,2,1, 
+Rubus hispidus,"Swamp Dewberry, Bristly dewberry",Shrub,0.2,3-7, ,LMH,SN,M,2,2, 
+Rubus humilifolius, ,Perennial,0.3,-, ,LMH,SN,MWe,2,0, 
+Rubus hypargyrus niveus, ,Shrub,0.0,7-10, ,LMH,SN,M,2,0, 
+Rubus ichangensis, ,Shrub,0.3,6-9, ,LMH,SN,M,3,1,2
+Rubus idaeus,"Raspberry, American red raspberry, Grayleaf red raspberry",Shrub,2.0,4-7,M,LMH,SN,M,5,3,3
+Rubus ikenoensis, ,Perennial,0.0,-, ,LMH,SN,M,2,0, 
+Rubus illecebrosus,Strawberry-Raspberry,Shrub,0.6,4-8, ,LMH,SN,M,3,0,3
+Rubus innominatus, ,Shrub,3.0,0-0, ,LMH,SN,M,3,0,1
+Rubus invisus,Upland dewberry,Shrub,0.0,0-0, ,LMH,SN,M,2,0, 
+Rubus jacens,Spreading dewberry,Shrub,0.3,0-0, ,LMH,SN,DM,2,0, 
+Rubus kuntzeanus, ,Shrub,3.0,5-9, ,LMH,SN,M,3,0,1
+Rubus laciniatus,"Oregon Cut-Leaf Blackberry, Cutleaf blackberry",Shrub,2.5,4-8,F,LMH,SN,M,5,0,1
+Rubus lambertianus, ,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Rubus lanatus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus lasiostylus, ,Shrub,1.8,6-9, ,LMH,SN,M,2,0, 
+Rubus laudatus,Plains blackberry,Shrub,5.0,4-8, ,LMH,SN,M,2,0, 
+Rubus lemurum, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus lentiginosus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,
+Rubus leucodermis,Whitebark Raspberry,Shrub,2.5,0-0,M,LMH,SN,M,4,1,1
+Rubus leucostachys, ,Shrub,0.0,0-0, ,LMH,SN,M,3,0,1
+Rubus lineatus, ,Shrub,3.0,8-11, ,LMH,N,M,2,0, 
+Rubus linkianus,Link's blackberry,Shrub,0.0,5-9, ,LMH,SN,M,1,0, 
+Rubus loganobaccus,Loganberry,Shrub,2.5,7-10,F,LMH,SN,M,5,0,1
+Rubus louisianus,Sawtooth blackberry,Shrub,2.0,7-10, ,LMH,SN,M,2,0, 
+Rubus macilentus, ,Shrub,1.5,-, ,LMH,SN,M,2,0, 
+Rubus macropetalus,California Blackberry,Shrub,0.0,-, ,LMH,SN,M,2,1, 
+Rubus magnificus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus mesogaeus, ,Shrub,3.0,5-9, ,LMH,SN,M,3,0,1
+Rubus michiganensis,Michigan dewberry,Shrub,2.0,0-0, ,LM,SN,DM,3,0,1
+Rubus microphyllus,"Hsuan Kou Tzu, Mu Mei, Shan Mei,",Shrub,0.0,8-11, ,LMH,SN,M,3,0,1
+Rubus moluccanus,"Ceylon Blackberry, Eelkek",Shrub,0.0,0-0, ,LMH,SN,M,1,1,0
+Rubus moorei,Bush Lawyer,Shrub,3.0,0-0, ,LMH,SN,M,3,0,1
+Rubus nemorosus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus nepalensis,Nepalese Raspberry,Shrub,0.2,7-10,M,LMH,SN,M,5,0,3
+Rubus nessensis, ,Shrub,3.0,0-0, ,LMH,SN,M,3,0,1
+Rubus nigricans,Setose blackberry,Shrub,1.0,0-0, ,LMH,SN,M,2,0, 
+Rubus nitidioides, ,Shrub,1.5,0-0, ,LMH,SN,M,3,0,1
+Rubus niveus,"Ceylon Raspberry, Snowpeaks raspberry",Shrub,2.5,8-11, ,LMH,SN,M,3,0,1
+Rubus nubigenus,Giant Colombian Blackberry,Shrub,2.0,0-0, ,LMH,SN,M,3,0,1
+Rubus occidentalis,Black Raspberry,Shrub,3.0,3-7, ,LMH,SN,M,4,2,1
+Rubus odoratus,"Thimbleberry, Purpleflowering raspberry",Shrub,2.5,3-7,M,LMH,SN,M,3,2,3
+Rubus ostryfolius, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus palmatus, ,Shrub,1.8,7-10, ,LMH,SN,M,2,0, 
+Rubus paniculatus, ,Shrub,3.0,-, ,LMH,SN,M,2,1, 
+Rubus parcifrondifer,Silver Creek blackberry,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus parviflorus,Thimbleberry,Shrub,2.5,3-7,M,LMH,SN,M,3,3,3
+Rubus parvifolius,Japanese Raspberry,Shrub,1.0,0-0, ,LMH,SN,M,3,1,2
+Rubus parvus, ,Shrub,0.2,8-11, ,LMH,SN,M,3,0,3
+Rubus pascuus,Chesapeake blackberry,Shrub,0.0,0-0, ,LMH,SN,M,3,0,1
+Rubus pectinellus,"Atibulnak,",Shrub,0.2,0-0, ,LMH,SN,M,3,0,1
+Rubus pedatus,"Trailing Wild Raspberry, Strawberryleaf raspberry",Shrub,0.3,0-0, ,LMH,SN,M,3,0,1
+Rubus peltatus, ,Shrub,1.5,6-9, ,LMH,SN,M,2,0, 
+Rubus pensilvanicus,Pennsylvania blackberry,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Rubus pergratus,upland blackberry,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Rubus permixtus,thicket dewberry,Shrub,0.6,-, ,LMH,SN,M,2,0, 
+Rubus philadelphicus,Philadelphia blackberry,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus phoenicolasius,"Japanese Wineberry, Wine raspberry",Shrub,3.0,4-8,M,LMH,SN,M,5,0,1
+Rubus platyphyllus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus platysepalus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus procerus,Himalayan Giant Blackberry,Shrub,10.0,4-8,F,LMH,SN,M,5,0,1
+Rubus pseudo-acer, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus pubescens,Dwarf Red Blackberry,Shrub,0.5,-, ,LMH,SN,M,2,1, 
+Rubus pungens oldhamii, ,Shrub,3.0,-, ,LMH,SN,M,2,0, 
+Rubus racemosus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus radicans, , ,0.0,-, ,LMH,SN,M,2,0, 
+Rubus reticulatus, ,Shrub,0.1,-, ,LMH,SN,M,1,1, 
+Rubus rhamnifolius, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus rolfei,'Emerald Carpet' raspberry,Shrub,0.1,7-9, ,LMH,FSN,M,2,0,3
+Rubus rosa,Rose blackberry,Shrub,0.0,0-0, ,LMH,SN,M,2,0, 
+Rubus roseus,Mora Silvestre,Shrub,2.0,0-0, ,LMH,SN,M,3,0,1
+Rubus rosifolius,Mauritius Raspberry,Shrub,2.0,0-0, ,LMH,SN,M,2,1,0
+Rubus rubiginosus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus sachalinensis, ,Shrub,1.5,-, ,LMH,SN,M,2,0, 
+Rubus salteri, ,Shrub,1.5,-, ,LMH,SN,M,2,0, 
+Rubus sanguineus, ,Shrub,2.0,-, ,LMH,SN,M,1,0, 
+Rubus saxatilis,Stone Bramble,Shrub,0.3,4-8, ,LMH,SN,M,2,1, 
+Rubus schmidelioides, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus serissimus,Chesapeake blackberry,Shrub,0.0,0-0, ,LMH,SN,M,2,0, 
+Rubus setchuenensis, ,Shrub,3.5,4-8, ,LMH,SN,M,3,0,1
+Rubus sieboldii,Palmleaf dewberry,Shrub,0.0,0-0, ,LMH,SN,M,2,0,0
+Rubus simplex, ,Shrub,0.5,-, ,LMH,SN,M,2,0, 
+Rubus species,Hybrid Berries,Shrub,3.0,5-9,F,LMH,SN,M,2,0, 
+Rubus spectabilis,Salmonberry,Shrub,1.8,4-8,M,LMH,SN,M,3,2,3
+Rubus squarrosus, ,Shrub,0.3,8-11, ,LMH,SN,M,2,0, 
+Rubus stans, ,Shrub,1.5,-, ,LMH,SN,M,2,0, 
+Rubus stellatus,"Nagoon Berry, Arctic raspberry",Perennial,0.3,0-0, ,LMH,SN,M,2,0, 
+Rubus strigosus,"American Red Raspberry, Grayleaf red raspberry",Shrub,2.0,3-7, ,LMH,SN,M,3,3,1
+Rubus sulcatus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus tephrodes, ,Shrub,3.5,-, ,LMH,SN,M,2,2, 
+Rubus thibetanus, ,Shrub,2.5,5-9,M,LMH,SN,M,2,0, 
+Rubus thyrsanthus, ,Shrub,1.5,-, ,LMH,SN,M,2,0, 
+Rubus tricolor,Creeping Bramble,Shrub,0.3,6-9,F,LMH,FSN,DM,3,0,3
+Rubus trifidus, ,Shrub,2.0,5-9, ,LMH,SN,M,2,0, 
+Rubus trivialis,Southern Dewberry,Shrub,1.0,5-9, ,LMH,SN,M,4,1,1
+Rubus tsangorum, ,Shrub,1.0,-, ,LMH,SN,M,2,0, 
+Rubus ulmifolius,"Elm-Leaved Bramble, Elmleaf blackberry",Shrub,3.0,6-9,M,LMH,FSN,M,2,0, 
+Rubus ursinus,"Pacific Dewberry, California blackberry",Shrub,0.0,6-9, ,LMH,SN,M,3,2,1
+Rubus vernus, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus vestervicensis, ,Shrub,0.0,-, ,LMH,SN,M,2,0, 
+Rubus villosus,Low-Running Blackberry,Shrub,1.5,0-0, ,LMH,SN,M,3,2,1
+Rubus x neglectus, ,Shrub,2.0,-, ,LMH,SN,M,2,0, 
+Rubus xanthocarpus, ,Perennial,0.1,5-9, ,LMH,SN,M,2,1, 
+Rudbeckia hirta,"Black Eyed Susan, Coneflower, Gloriosa Daisy, Marguerite Jaune",Biennial/Perennial,2.0,4-9,M,LMH,SN,M,0,1,0
+Rudbeckia laciniata,"Cone Flower, Cutleaf coneflower, Green Headed Coneflower",Perennial,2.4,3-7,M,LMH,SN,M,1,1, 
+Rulingia dasyphylla, ,Shrub,3.0,-, ,LMH,SN,M,0,0, 
+Rumex abyssinicus,Spinach Rhubarb,Perennial,3.0,-, ,LMH,SN,M,1,0, 
+Rumex acetosa,"Sorrel, Garden sorrel",Perennial,0.6,3-7, ,LMH,SN,M,5,3,3
+Rumex acetosella,"Sheeps Sorrel, Common sheep sorrel",Perennial,0.3,4-8,F,LMH,SN,M,4,3,1
+Rumex alpinus,"Alpine Dock, Munk's rhubarb",Perennial,1.2,4-8,M,LMH,SN,M,4,2,1
+Rumex angiocarpus,Common sheep sorrel,Perennial,0.3,0-0, ,LMH,SN,M,1,0, 
+Rumex aquaticus,"Red Dock, Western dock",Perennial,1.8,0-0, ,LMH,SN,WeWa,1,3, 
+Rumex arcticus,Arctic Dock,Perennial,0.0,-, ,LMH,SN,We,2,1, 
+Rumex arifolius,Maiden Sorrel,Perennial,1.2,-, ,LMH,SN,M,1,0, 
+Rumex berlandieri,amamastla,Perennial,0.6,-, ,LMH,SN,M,1,0, 
+Rumex brownii,Swamp Dock,Perennial,0.6,-, ,LMH,SN,M,2,0, 
+Rumex bucephalophorus,red dock,Annual/Perennial,0.0,-, ,LMH,SN,DM,1,0, 
+Rumex conglomeratus,"Sharp Dock, Clustered dock",Perennial,1.0,0-0, ,LMH,SN,M,1,2, 
+Rumex crispus,"Curled Dock, Curly dock",Perennial,0.6,4-8, ,LMH,SN,M,2,3,2
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,
+Rumex daiwoo,sour dock,Perennial,1.0,-, ,LMH,SN,MWe,1,2, 
+Rumex dentatus,toothed dock,Annual/Biennial,0.6,-, ,LMH,SN,M,1,1, 
+Rumex gmelinii, ,Perennial,1.0,-, ,LMH,SN,MWe,1,0, 
+Rumex graminifolius,Grassleaf sorrel,Perennial,0.1,0-0, ,LMH,SN,M,1,0, 
+Rumex hastatus, ,Perennial,1.0,-, ,LMH,SN,DM,2,2, 
+Rumex hydrolapathum,Great Water Dock,Perennial,1.8,5-9, ,LMH,SN,MWeWa,1,1, 
+Rumex hymenosepalus,"Canaigre, Canaigre dock",Perennial,1.0,0-0, ,LMH,SN,M,2,2, 
+Rumex japonicus, ,Perennial,1.0,-, ,LMH,SN,M,2,0, 
+Rumex longifolius,dooryard dock,Perennial,1.2,-, ,LMH,SN,M,1,1, 
+Rumex maritimus,Golden Dock,Annual,0.5,-, ,LMH,SN,MWe,1,2, 
+Rumex mexicanus,Mexican Dock,Perennial,1.0,-, ,LMH,SN,M,1,2, 
+Rumex nepalensis, ,Perennial,1.2,-, ,LMH,SN,M,1,2, 
+Rumex obtusifolius,"Round-Leaved Dock, Bitter dock",Perennial,1.0,4-8, ,LMH,SN,M,1,2,0
+Rumex occidentalis,Western Dock,Perennial,1.8,-, ,LMH,SN,M,1,1, 
+Rumex patientia,Herb Patience,Perennial,1.5,5-10, ,LMH,SN,M,3,1,0
+Rumex paucifolius,"Fewleaved Dock, Alpine sheep sorrel",Perennial,0.0,0-0, ,LMH,SN,MWe,1,0, 
+Rumex pulcher,Fiddle Dock,Perennial,0.5,-, ,LMH,SN,DM,1,0, 
+Rumex salicifolius,"Willow Dock, Toothed willow dock, Lake willow dock, Mexican dock",Perennial,0.6,0-0, ,LMH,SN,M,1,2, 
+Rumex sanguineus,"Red-Veined Dock, Redvein dock, Sorrel, Bloody Dock",Perennial,1.0,6-8,M,LMH,SN,M,2,1, 
+Rumex scutatus,"Buckler-Leaved Sorrel, French sorrel",Perennial,0.6,5-9,M,LMH,SN,M,4,1,2
+Rumex simpliciflorus, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Rumex tenuifolius,Common sheep sorrel,Perennial,0.0,0-0, ,LMH,SN,M,1,0, 
+Rumex tingitanus, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Rumex venosus,"Sour Greens, Veiny dock",Perennial,0.5,4-8, ,LMH,SN,M,1,2, 
+Rumex vesicarius,Bladder Dock,Annual,0.0,-, ,LMH,SN,DM,2,2, 
+Rungia klossii,Mushroom Plant,Perennial,0.6,9-11,M,LMH,SN,DM,4,0,2
+Ruscus aculeatus,Butcher's Broom - Knee Holly,Shrub,0.8,6-9,S,LMH,FS,DM,1,3, 
+Ruta chalepensis,"Egyptian Rue, Fringed rue",Shrub,0.8,7-10, ,LMH,SN,DM,1,1, 
+Ruta graveolens,"Rue, Common rue, Herb of Grace, Garden Rue",Shrub,0.5,4-10,M,LMH,SN,DM,1,3, 
+Ruta montana,Mountain Rue,Shrub,0.3,6-9, ,LMH,SN,DM,1,0, 
+Schinziophyton rautanenii,Mongongo Nut. Manketti Tree,Tree,12.0,10-12,M,LM,N,DM,3,2,3
+Senecio jacobaea,"Ragwort, Stinking willie",Perennial,1.0,4-8, ,LMH,SN,M,0,2,0
+Senecio pseudoarnica,Seaside Ragwort,Perennial,0.5,-, ,LM,N,M,1,1, 
+Stauntonia hexaphylla, ,Climber,10.0,8-11,M,LMH,SN,M,3,1,0
+Swartzia panacoco,"Coracao-de-Negro, panococo, Brazilian ebony",Tree,25.0,10-12,M,LM,N,M,0,2,4
+Synurus pungens, ,Perennial,1.5,-, ,LMH,N,M,1,0, 
+Toxicodendron sylvestre,Yame-haze,Tree,10.0,9-12,M,LMH,SN,M,0,0,4
+Toxicodendron vernicifluum,Lacquer Tree,Tree,15.0,-, ,LMH,N,M,0,1, 
+Trachelospermum jasminoides,"Star Jasmine, Confederate jasmine",Climber,6.0,8-10,S,LMH,SN,M,0,2,2
+Wisteria villosa, ,Climber,0.0,-, ,LMH,N,M,1,0, 
+1 2 3 4 5 6,1,2,3,4,5,6,,,,,

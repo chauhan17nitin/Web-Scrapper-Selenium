@@ -1,0 +1,995 @@
+Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other
+Abelmoschus manihot,Aibika,Perennial,3.0,8-11,F,LMH,N,M,4,1,2
+Abies alba,"Silver Fir, Christmas Tree Fir, European Silver Fir, Silver",Tree,45.0,5-8,F,LMH,FSN,M,2,3,4
+Abies firma,"Momi Fir, Japanese Fir",Tree,30.0,6-9,M,LMH,FSN,M,1,0, 
+Abies grandis,"Grand Fir, Giant Fir, Lowland White Fir",Tree,75.0,5-6,F,LMH,FSN,M,2,2, 
+Abies lasiocarpa,"Subalpine Fir, Alpine Fir",Tree,25.0,5-6,S,LMH,FSN,M,2,2, 
+Abies pindrow,West Himalayan Fir,Tree,30.0,5-7,S,LMH,FSN,M,0,0, 
+Abies procera,Noble Fir,Tree,60.0,5-6,M,LMH,FSN,M,0,1, 
+Abies religiosa,Sacred Fir,Tree,40.0,7-10,F,LMH,FSN,M,0,1, 
+Abies sachalinensis,Sakhalin Fir,Tree,30.0,3-6,S,LMH,FSN,M,0,0, 
+Abies spectabilis,Himalayan Fir,Tree,30.0,6-9,S,LMH,FSN,M,0,2, 
+Abies veitchii sikokiana, ,Tree,30.0,3-7, ,LMH,FSN,M,0,0, 
+Abroma augusta,Cotton Abroma. Perennial Indian Hemp.,Shrub,3.0,10-12,F,LMH,N,M,0,3,4
+Abronia fragrans,Snowball Sand Verbena,Perennial,0.6,7-10, ,LM,N,DM,2,1, 
+Abronia latifolia,"Sand Verbena, Coastal sand verbena",Perennial,0.1,7-10, ,L,N,DM,2,0, 
+Abutilon megapotamicum,Trailing Abutilon,Shrub,2.0,7-10,F,LMH,SN,M,4,0,0
+Abutilon pictum,"Abutilon, Parlour Maple, Flowering Maple, Spotted",Shrub,5.0,8-10,M,LMH,SN,M,3,0, 
+Abutilon purpurascens, ,Shrub,2.4,8-11, ,LMH,SN,DM,2,0, 
+Abutilon theophrasti,"China Jute, Velvetleaf, Butterprint Buttonweed Jute, China Mallow, Indian Velvet Leaf",Annual,1.0,0-0, ,LMH,SN,DM,3,2,4
+Acacia angustissima,Prairie acacia. Timbre. Fernleaf Acacia,Tree,5.0,7-10,F,LMH,N,DM,2,3,4
+Acacia colei,"Cole's wattle, Candelabra Wattle, Soap wattle,",Shrub,4.0,10-12,F,LMH,N,DM,3,2,3
+Acacia concinna,"Shikakai, Soap-Pod",Tree,10.0,10-11,M,LM,N,D,2,1,4
+Acacia cowleana,Hall’s Creek wattle,Tree,5.0,10-12,F,LM,N,DM,3,2,3
+Acacia dealbata,"Mimosa, Silver wattle",Tree,25.0,7-10,F,LM,N,DM,2,0,3
+Acacia holosericea,"Strap wattle, Candelabra wattle",Shrub,3.0,10-12,F,LMH,N,M,1,2,3
+Acacia koa,Koa Acacia,Tree,20.0,10-12,F,LMH,N,DM,0,0,3
+Acacia leucophloea,"Kuteera-Gum, White-barked acacia.",Tree,25.0,10-12,M,LMH,N,DM,2,1,3
+Acacia mearnsii,"Black Wattle, Late black wattle",Tree,10.0,8-11,F,LM,N,M,1,3,4
+Acacia murrayana,"Murray’s wattle, Colony wattle",Tree,5.0,10-12,F,LMH,N,DM,3,2,3
+Acacia victoriae,"Bramble wattle. Gundabluey, Bardi bush",Shrub,10.0,8-11,F,LMH,N,DM,3,0,2
+Acaenia anserinifolia,Pirri-Pirri Bur,Perennial,0.1,5-9,F,LMH,SN,M,1,1, 
+Acalypha australis,Asian copperleaf,Annual,0.5,0-0, ,LMH,SN,M,0,1, 
+Acanthocereus tetragonus,Pitahaya. Barbed-wire cactus.,Tree,5.0,10-12,S,LM,N,D,3,0,3
+Acanthus mollis,Bear's Breeches,Perennial,1.2,-, ,LM,SN,DM,0,2, 
+Acca sellowiana,"Feijoa, Pineapple Guava",Shrub,3.0,8-11,S,LMH,N,DM,4,0,2
+Acer acuminatum, ,Tree,6.0,5-9, ,LMH,SN,M,1,0, 
+Acer ginnala,Amur Maple,Tree,10.0,3-8,F,LMH,SN,M,1,0,3
+Acer interius,Box Elder,Tree,20.0,-, ,LMH,SN,M,2,0, 
+Acer mono,Maple,Tree,15.0,3-8,S,LMH,SN,M,2,1, 
+Acer palmatum,Japanese Maple,Tree,8.0,6-8,S,LMH,SN,M,2,0, 
+Acer saccharinum,"Silver Maple, River Maple, Soft Maple",Tree,30.0,3-9,F,LMH,SN,M,3,1,4
+Acer saccharum,"Sugar Maple, Florida Maple, Hard Maple, Rock Maple",Tree,30.0,5-8,S,LMH,SN,M,4,2,4
+Acer saccharum grandidentatum,"Big-Tooth Maple, Canyon Maple, Rocky Mountain Sugar Maple",Tree,12.0,5-8, ,LMH,SN,M,4,0, 
+Acer saccharum nigrum,Black Maple,Tree,25.0,4-6,S,LMH,SN,M,4,1,2
+Acer sterculiaceum, ,Tree,6.0,7-10, ,LMH,SN,M,0,0, 
+Acer ukurunduense caudatum, ,Tree,20.0,-,S,LMH,SN,M,1,0, 
+Achillea ageratum,"Mace, Sweet-nancy",Perennial,0.6,6-9, ,LMH,N,DM,2,0, 
+Achillea erba-rotta moschata,Musk Milfoil,Perennial,0.2,5-9, ,LMH,N,DM,0,2, 
+Achillea millefolium,"Yarrow, Boreal yarrow, California yarrow, Giant yarrow, Coast yarrow, Western yarrow, Pacific yarrow",Perennial,0.6,4-8,F,LMH,SN,DM,3,4,4
+Achillea sibirica,Siberian Yarrow,Perennial,0.5,5-9, ,LMH,N,DM,1,1, 
+Acinos alpinus,Alpine Calamint,Perennial,0.5,4-8, ,LMH,N,DM,1,1, 
+Acinos arvensis,Basil Thyme,Annual/Perennial,0.2,4-8, ,LM,N,DM,2,1, 
+Acinos rotundifolius, ,Annual/Perennial,0.3,4-8, ,LMH,N,DM,1,1, 
+Aconitum carmichaelii,"Japanese Aconite, Carmichael's monkshood",Perennial,1.5,3-7, ,LMH,SN,M,0,2, 
+Aconitum japonicum, ,Perennial,1.0,4-8, ,LMH,SN,M,0,2, 
+Aconitum koreanum,Korean Monk's Hood,Perennial,1.5,-, ,LMH,SN,M,1,0, 
+Aconitum lycoctonum vulparia,Wolfbane,Perennial,1.0,3-7, ,LMH,SN,M,1,1, 
+Aconitum napellus,"Aconite, Venus' chariot, Wolfsbane Garden, Monk's Hood Garden",Perennial,1.5,3-8, ,LMH,SN,M,1,2, 
+Aconitum septentrionale, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Acrocarpus fraxinifolius,"Pink Cedar, Shingle Tree",Tree,30.0,10-12,F,M,N,M,0,0,4
+Acrocomia aculeata,"Coyoli Palm. Gru-Gru Palm, Macaw palm",Tree,15.0,10-12,F,LMH,N,DM,3,1,2
+Actaea pachypoda,White Baneberry,Perennial,0.8,3-7, ,LMH,S,M,0,2, 
+Actaea rubra,Red Baneberry,Perennial,0.5,3-7, ,LMH,FS,M,0,2, 
+Actinidia arguta,Tara Vine,Climber,15.0,4-8, ,LMH,SN,M,5,0,2
+Actinidia arguta cordifolia, ,Climber,7.0,-, ,LMH,SN,M,4,0, 
+Actinidia arguta rufa, ,Climber,7.0,-, ,LMH,SN,M,4,0, 
+Actinidia arisanensis, ,Climber,5.0,-, ,LMH,SN,M,3,0, 
+Actinidia callosa formosana, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia callosa henryi, ,Climber,7.0,7-10, ,LMH,SN,M,3,0, 
+Actinidia callosa indochinensis, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia callosa pubescens, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia coriacea, ,Climber,8.0,5-9, ,LMH,SN,M,3,0, 
+Actinidia deliciosa,Kiwi Fruit,Climber,9.0,6-9,M,LMH,SN,M,5,1,1
+Actinidia eriantha, ,Climber,10.0,-, ,LMH,SN,M,3,0, 
+Actinidia fortunatii, ,Climber,10.0,-, ,LMH,SN,M,3,0, 
+Actinidia giraldii, ,Climber,10.0,-, ,LMH,SN,M,3,0, 
+Actinidia hemsleyana, ,Climber,9.0,-, ,LMH,SN,M,3,0, 
+Actinidia hypoleuca, ,Climber,5.0,-, ,LMH,SN,M,3,0, 
+Actinidia kolomikta gagnepainii, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia latifolia, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia melanandra,Red Kiwi,Climber,7.0,5-9, ,LMH,SN,M,4,0, 
+Actinidia pilosula, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia polygama,Silver Vine,Climber,6.0,4-8, ,LMH,SN,M,4,2, 
+Actinidia polygama lecomtei, ,Climber,5.0,-, ,LMH,SN,M,3,0, 
+Actinidia purpurea, ,Climber,10.0,5-9, ,LMH,SN,M,4,0,1
+Actinidia sabiifolia, ,Climber,5.0,-, ,LMH,SN,M,3,0, 
+Actinidia tetramera, ,Climber,13.5,-, ,LMH,SN,M,3,0, 
+Actinidia trichogyna, ,Climber,7.0,-, ,LMH,SN,M,3,0, 
+Actinidia venosa, ,Climber,9.0,-, ,LMH,SN,M,3,0, 
+Adansonia digitata,"Baobab, Judas Fruit, Monkey Bread Tree",Tree,20.0,10-12,S,LMH,N,DM,3,3,4
+Adenanthera pavonina,"Red Sandalwood, Coral Tree",Tree,18.0,10-12,F,LMH,N,M,3,2,4
+Adenophora denticulata, ,Perennial,0.5,6-9, ,LM,N,M,2,0, 
+Adenophora divaricata, ,Perennial,1.0,-, ,LM,N,M,2,0, 
+Adenophora latifolia, ,Perennial,0.5,-, ,LM,N,M,2,0, 
+Adenophora liliifolia,"Ladybells, Lilyleaf",Perennial,0.5,3-8,M,LM,N,M,2,0, 
+Adenophora nikoensis, ,Perennial,0.3,5-9, ,LM,N,M,2,0, 
+Adenophora remotiflora, ,Perennial,1.0,5-9, ,LM,N,M,2,1, 
+Adenophora verticillata, ,Perennial,1.0,6-9, ,LM,SN,M,2,2, 
+Aechmea magdalenae,"Pingwing. Ixtle, Pita plant",Perennial,2.5,10-12,S,LMH,FS,M,3,0,3
+Aesculus flava,"Sweet Buckeye, Yellow buckeye",Tree,20.0,4-8,M,LMH,SN,M,4,0, 
+Aesculus hippocastanum,"Horse Chestnut, European Horsechestnut, Common Horsechestnut",Tree,30.0,4-7,F,LMH,SN,DM,3,4,3
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Aesculus parviflora,Bottlebrush buckeye,Shrub,4.0,4-9,S,LMH,FSN,M,2,1, 
+Aesculus turbinata,Japanese Horse Chestnut,Tree,20.0,5-7,M,LMH,SN,M,2,0, 
+Afraegle paniculata,Nigerian Powder-Flask Fruit. African afraegle,Tree,12.0,10-12,F,LM,N,DM,2,3,2
+Afzelia africana,African Mahogany,Tree,8.0,10-12,M,LMH,N,MWe,2,2,4
+Afzelia xylocarpa,"Makha Tree, Cambodia Beng Tree",Tree,20.0,10-12,M,LMH,N,M,2,2,4
+Agapanthus africanus,"African Lily, Lily of the nile",Bulb,1.0,9-10,M,LM,SN,M,0,1, 
+Agapanthus campanulatus, ,Bulb,0.6,6-9, ,LM,SN,M,0,1, 
+Agapanthus praecox minimus, ,Bulb,0.9,8-11, ,LM,SN,M,1,1, 
+Agastache foeniculum,"Anise Hyssop, Blue giant hyssop",Perennial,0.9,7-10, ,LM,N,DM,5,1,3
+Agastache neomexicana,"New Mexico Giant Hyssop, Bill Williams Mountain giant hyssop",Perennial,1.2,7-10, ,LM,N,DM,3,1, 
+Agastache urticifolia,"Giant Hyssop, Nettleleaf giant hyssop",Perennial,1.2,7-10, ,LM,N,DM,3,1, 
+Agathis dammara,Amboina Pine,Tree,50.0,10-11,M,LMH,FSN,M,0,0,4
+Agathis macrophylla,Dakua,Tree,30.0,10-12,F,LMH,FSN,M,0,0,4
+Agathis moorei,"Pacific Kauri, Moore Kauri",Tree,25.0,10-12,M,LMH,FSN,M,1,0,0
+Agave americana,"Agave, American century plant",Perennial,7.5,8-11,S,LM,N,DM,3,3, 
+Agave cantala agave,Agave,Perennial,2.0,9-12,F,LMH,N,DM,2,0,4
+Agave fourcroydes,Henequen,Perennial,1.8,10-12,M,LMH,N,DM,0,1,3
+Agave lechuguilla,"Ixtle, Chihuahua",Perennial,0.6,10-12,M,LMH,N,DM,1,2,4
+Agave salmiana,"Pulque Agave, Giant Agave",Perennial,2.0,9-11,M,LMH,N,DM,3,0,2
+Agave sisalana,Sisal,Perennial,2.0,9-11,F,LMH,SN,DM,2,2,4
+Agave tequilana,"Blue Agave, Mescal, Tequila.",Perennial,2.0,10-12,M,LMH,N,D,3,0,3
+Agave vivipara,Mescal Casero,Perennial,1.0,10-12,M,LMH,N,DM,3,0,3
+Ageratum houstonianum,"Ageratum, Bluemink, Floss Flower, Garden",Annual,0.3,0-0,M,LMH,N,DM,0,1, 
+Agoseris glauca,"Mountain Dandelion, Pale agoseris, False agoseris",Perennial,0.6,0-0, ,Lm,N,DM,1,1, 
+Agrimonia eupatoria,"Agrimony, Churchsteeples",Perennial,0.6,0-0, ,LMH,SN,DM,2,3, 
+Agrimonia pilosa,Hairy Agrimony,Perennial,0.6,-, ,LMH,SN,DM,2,3, 
+Agrostis capillaris,Browntop Bent Grass,Perennial,0.4,3-10,F,LM,SN,WeM,0,0,4
+Ailanthus altissima,Tree Of Heaven,Tree,25.0,5-8,F,LM,SN,DMWe,1,3,5
+Ajuga australis,Australian Bugle,Perennial,0.2,5-9, ,LMH,N,DM,0,1,3
+Akebia quinata,"Akebia, Chocolate vine, Fiveleaf Akebia, Chocolate Vine",Climber,12.0,4-8,F,LMH,FSN,M,4,2,2
+Akebia trifoliata,"Akebia, Threeleaf Akebia",Climber,9.0,5-8,F,LMH,FSN,M,4,2,2
+Alangium chinense, ,Tree,8.0,8-11,S,LMH,N,M,0,3, 
+Alangium platanifolium,Alangium,Shrub,3.0,6-10, ,LMH,N,M,1,1, 
+Albizia julibrissin,"Mimosa, Silktree, Mimosa Tree,",Tree,12.0,6-9,F,LMH,N,DM,2,2,2
+Albizia lebbeck,"Siris Tree, Woman's Tongue, East Indian Walnut",Tree,15.0,10-11,F,LMH,N,M,1,2,4
+Albizia lucidior,Potka siris tree,Tree,15.0,10-12,F,LMH,SN,M,0,0,3
+Albizia procera,"White Siris, Tall Albizia, Forest Siris",Tree,25.0,10-12,F,LMH,N,M,1,2,4
+Alcea rosea,Hollyhock,Perennial,2.4,5-9,F,LMH,N,DM,3,2,3
+Alchemilla alpina,"Alpine Lady's Mantle, Mountain Lady's Mantle",Perennial,0.2,3-7,M,LMH,SN,DM,2,3, 
+Alchemilla mollis,Lady's-mantle,Perennial,0.6,3-8,M,LMH,FSN,M,0,0,3
+Alchornea castaneifolia,Iporuru,Tree,8.0,10-12,F,LMH,SN,MWe,0,4,2
+Alchornea cordifolia,Christmas Bush,Shrub,8.0,10-12,M,LMH,N,DMWe,2,4,3
+Aletris farinosa,"Unicorn Root - Colic Root, White colicroot",Perennial,0.6,6-9, ,LM,N,M,1,3, 
+Aletris spicata, ,Perennial,0.3,-, ,LM,N,M,1,1, 
+Aleurites moluccanus,"Candle Nut, Country Walnut",Tree,20.0,10-12,F,LMH,N,DM,3,3,4
+Alhagi mannifera,Manna Tree,Shrub,1.0,-, ,LM,N,DM,2,2, 
+Alhagi maurorum,Camel Thorn,Shrub,2.0,6-10, ,LM,N,DM,2,2,0
+Alisma canaliculatum, ,Perennial,0.8,5-9, ,LMH,N,WeWa,1,0, 
+Alisma plantago-aquatica,"Great Water Plantain, ZE-XIE, European water plantain, American water plantain, Northern water plan",Perennial,0.9,5-9, ,LMH,N,WeWa,1,3, 
+Alkanna tinctoria,"Alkanet, Alkanna",Perennial,0.2,0-0, ,LM,SN,DM,1,2, 
+Allanblackia floribunda,Vegetable Tallow. Tallow tree,Tree,25.0,10-12,F,LMH,SN,M,3,2,2
+Allanblackia stuhlmannii,"Mkani, Msambo",Tree,35.0,10-12,M,MH,N,M,3,2,3
+Alliaria petiolata,Garlic Mustard,Biennial,1.0,6-8, ,LMH,FS,MWe,3,2,1
+Allium akaka, ,Bulb,0.2,7-10, ,LM,N,DM,3,2, 
+Allium ampeloprasum babingtonii,Babington's Leek,Bulb,1.8,0-0, ,LMH,N,DM,3,3,2
+Allium bisceptrum,"Aspen Onion, Twincrest onion",Bulb,0.3,7-10, ,LM,N,M,3,2, 
+Allium bolanderi,Bolander's Onion,Bulb,0.2,6-9, ,LM,N,M,3,2, 
+Allium carolinianum, ,Bulb,0.4,-, ,LM,N,DM,3,2, 
+Allium cepa,"Onion, Garden onion",Bulb,0.6,4-10, ,LM,N,M,5,3,3
+Allium cepa ascalonicum,Shallot,Bulb,0.3,4-8, ,LM,N,M,5,3, 
+Allium chinense,Rakkyo,Bulb,0.3,6-9, ,LM,N,M,4,2, 
+Allium douglasii,Douglas' Onion,Bulb,0.3,0-0, ,LM,N,DM,3,2, 
+Allium drummondii,"Prairie Onion, Drummond's onion",Bulb,0.3,6-9, ,LM,N,M,3,2, 
+Allium geyeri tenerum, ,Bulb,0.3,3-7, ,LM,N,M,3,2, 
+Allium ledebourianum, ,Bulb,0.6,4-8, ,LM,N,M,3,2, 
+Allium macleanii, ,Bulb,1.0,7-10, ,LM,N,M,3,2, 
+Allium macropetalum,Largeflower Wild Onion,Bulb,0.3,4-8, ,LM,N,M,3,2, 
+Allium mutabile,Wild Onion,Bulb,0.5,-, ,LM,N,M,3,2, 
+Allium platycaule,Broadstemmed Onion,Bulb,0.1,5-9, ,LM,N,DM,3,2, 
+Allium ramosum,Chinese Chives,Bulb,0.5,6-9, ,LM,N,DM,4,2, 
+Allium rubellum, ,Bulb,0.6,-, ,LM,N,DM,3,2, 
+Allium sativum,"Garlic, Cultivated garlic",Bulb,0.6,7-10, ,LM,N,DM,5,5,3
+Allium schoenoprasum sibiricum,Giant Chives,Bulb,0.3,4-8, ,LMH,SN,M,5,2,2
+Allium scorodoprasum rotundum, ,Bulb,0.5,6-9, ,LMH,SN,M,4,2, 
+Allium senescens,German Garlic,Bulb,0.5,4-10,M,LM,N,DM,4,2, 
+Allium splendens,Miyama-Rakkyo,Bulb,0.3,4-8, ,LM,N,M,3,2, 
+Allium textile,Textile Onion,Bulb,0.2,5-9, ,LM,N,DM,3,2,2
+Allium unifolium,One-Leaved Onion,Bulb,0.6,7-10, ,LM,N,DM,3,2, 
+Allium victorialis,"Alpine Leek, Victory onion",Bulb,0.6,6-9, ,LM,N,DM,4,2, 
+Alnus acuminata,Alder,Tree,25.0,10-12,F,LMH,SN,M,0,2,3
+Alnus cordata,Italian Alder,Tree,25.0,5-9,F,MH,SN,DMWe,0,0,4
+Alnus glutinosa,"Alder, European alder , Common Alder, Black Alder",Tree,25.0,3-7,F,MH,SN,MWe,0,3,5
+Alnus hirsuta, ,Tree,18.0,3-7, ,MH,SN,MWe,0,0, 
+Alnus jorullensis,"Mexican alder, Evergreen Alder",Tree,25.0,7-12,F,LMH,SN,MWe,0,0,3
+Alnus rubra,"Red Alder, Oregon Alder",Tree,20.0,7-8,F,MH,SN,MWe,2,2,4
+Alnus rugosa,Speckled Alder,Tree,22.0,2-6,F,MH,SN,MWe,0,2,3
+Alnus sinuata,Sitka Alder,Shrub,4.0,2-9,F,MH,SN,MWe,1,1,3
+Alnus tenuifolia,"Mountain Alder, Thinleaf alder",Tree,9.0,5-7,F,MH,SN,MWe,1,2, 
+Alnus viridis crispa,American Green Alder,Shrub,3.0,4-8, ,MH,SN,MWe,1,2,3
+Alocasia macrorrhizos,"Giant Taro, Giant Elephant Ear",Perennial,3.0,10-12,F,LMH,FSN,M,3,1,1
+Aloe arborescens,"Candelabra Aloe, Tree Aloe, Mountain Bush Aloe",Shrub,3.0,10-11,M,LM,SN,DM,2,5,3
+Aloe camperi,Aloe,Shrub,0.8,9-12,M,LM,SN,D,0,4,1
+Aloe ferox,"Cape Aloe, Bitter Aloe, Red Aloe, Cape Aloe, Alligator Jaw Aloe",Shrub,3.0,9-11,S,LM,N,D,2,5,3
+Aloe macrosiphon,Tanzanian Aloe,Perennial,0.5,9-11,S,LM,SN,D,0,4,1
+Aloe vera,"Aloe Vera, Barbados aloe, First Aid Plant, Medicinal Aloe",Perennial,0.8,9-11,S,LM,N,DM,1,5,3
+Alopecurus aequalis,"Shortawn Foxtail, Sonoma shortawn foxtail",Annual/Perennial,0.3,0-0, ,LMH,SN,MWe,1,1, 
+Aloysia citriodora,"Lemon Verbena, Lemon beebrush",Shrub,3.0,7-10,M,LM,SN,DM,4,3,3
+Alstroemeria aurea,Peruvian Lily,Perennial,1.0,7-10,M,LMH,SN,M,1,0, 
+Alstroemeria haemantha,Purple-spot parrot-lily,Perennial,0.9,8-11, ,LM,SN,M,3,0, 
+Alstroemeria ligtu,"Alstroemeria, St. Martin's Flower",Perennial,0.6,8-10,M,LM,SN,DM,3,0,1
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Althaea cannabina,Palm-leaf marshmallow,Perennial,1.8,4-8, ,LMH,N,DM,0,0, 
+Althaea officinalis,"Marsh Mallow, Common marshmallow",Perennial,1.2,3-7, ,LMH,N,DM,5,5,3
+Amaranthus blitum,"Slender Amaranth, Purple amaranth",Annual,1.0,4-8, ,LMH,N,M,4,2,2
+Amaranthus cruentus,"Purple Amaranth, Red amaranth",Annual,2.0,3-11, ,LMH,N,M,4,2,2
+Amaranthus hybridus,"Rough Pigweed, Slim amaranth",Annual,2.0,6-12, ,LMH,N,M,4,1,1
+Amaranthus hypochondriacus,"Prince's Feather, Prince-of-wales feather",Annual/Perennial,1.2,3-10, ,LMH,N,M,4,3,2
+Amaranthus mangostanus, ,Annual,1.5,-, ,LMH,N,M,2,0, 
+Amaranthus quitensis,Ataco,Annual,1.0,-, ,LMH,N,M,2,0, 
+Amaranthus standleyanus,Indehiscent Pigweed,Annual,0.7,-, ,LMH,N,M,2,0, 
+Amaranthus tricolor,"Chinese Spinach, Joseph's-coat, Fountain Plant, Tampala , Summer Poinsettia",Annual,1.0,3-11,M,LMH,N,M,3,1,2
+Amaranthus viridis,"Calalu, Slender amaranth",Annual,0.5,7-11, ,LMH,N,M,3,2,1
+Ambrosia artemesiifolia,"Roman Wormwood, Bitterweed, Blackweed, Carrot Weed, Hay Fever Weed, Stickeweed, Tassel Weed, Wild Ta",Annual,0.9,4-8,M,LMH,SN,M,2,3,1
+Amelanchier alnifolia,"Saskatoon, Saskatoon serviceberry, Serviceberry",Shrub,4.0,4-6,M,LMH,SN,M,5,2,3
+Amelanchier alnifolia cusickii,Cusick's Serviceberry,Shrub,3.0,0-0, ,LMH,SN,M,4,1,0
+Amelanchier alnifolia semiintegrifolia,Pacific Serviceberry,Shrub,3.0,0-0,S,LMH,SN,M,5,1,1
+Amelanchier arborea,"Downy Serviceberry, Alabama serviceberry, Juneberry, Common Serviceberry, Downy Serviceberry",Tree,10.0,5-8,S,LMH,SN,M,3,1,2
+Amelanchier asiatica,Korean Juneberry,Tree,8.0,4-8, ,LMH,SN,M,3,0, 
+Amelanchier bartramiana,Oblongfruit serviceberry,Shrub,3.0,4-8, ,LMH,SN,M,3,0,0
+Amelanchier basalticola,Dwarf Service-berry,Shrub,3.0,4-8, ,LMH,SN,M,4,0,0
+Amelanchier canadensis,"Juneberry, Canadian serviceberry, Serviceberry Downy, Shadblow, Shadbush, Serviceberry",Shrub,6.0,4-7,M,LMH,SN,M,4,1,4
+Amelanchier laevis,"Allegheny Shadberry, Allegheny serviceberry, Smooth Serviceberry",Shrub,9.0,5-8,M,LMH,SN,M,5,1,2
+Amelanchier lamarckii,Apple Serviceberry,Shrub,6.0,3-3, ,LMH,SN,M,5,0,0
+Amelanchier ovalis,"Snowy Mespilus, Dwarf Garden Serviceberry",Shrub,5.0,5-7,S,LMH,N,M,2,0, 
+Amelanchier ovalis integrifolia, ,Shrub,4.0,5-9, ,LMH,SN,M,2,0, 
+Amelanchier pallida,Pale Serviceberry,Shrub,4.0,-, ,LMH,SN,M,3,1, 
+Amelanchier spicata, ,Shrub,2.0,4-8, ,LMH,SN,M,3,0, 
+Amelanchier stolonifera,"Quebec Berry, Running serviceberry",Shrub,1.5,4-8, ,LMH,SN,DM,5,1,0
+Amelanchier utahensis,"Utah Serviceberry, Coville's serviceberry",Shrub,5.0,3-7, ,LMH,SN,DM,3,1,2
+Amelanchier x grandiflora,Apple Serviceberry,Shrub,6.0,4-7,S,LMH,SN,M,5,0,0
+Ammi visnaga,"Visnaga. Khella. Bishop's Weed, Toothpickweed",Annual/Biennial,0.8,0-0, ,LMH,SN,M,1,5, 
+Ammophila arenaria,"Marram Grass, European beachgrass",Perennial,1.2,4-8, ,LM,N,DM,1,0,4
+Amomyrtus luma,"Luma, Chilean guava,",Shrub,7.5,0-0, ,LMH,N,DM,3,0,0
+Amorpha nana,"Dwarf Indigobush, Dwarf false indigo, Dwarf Indigo",Shrub,0.6,4-8,M,LM,SN,DM,0,1,2
+Amorphophallus konjac,"Devil's Tongue, Devil's Tongue, Snake Plant, Konjac, Konnyaku Potato, Voodoo Lily",Perennial,1.3,6-11,F,LM,FS,M,4,2,2
+Amorphophallus paeoniifolius,"Elephant Yam, Whitespot giant arum",Perennial,0.8,11-12, ,LM,SN,M,2,2,2
+Ampelodesmos mauritanicus,Mauritanian grass,Perennial,3.0,7-10, ,LM,N,DM,0,0, 
+Ampelopsis brevipedunculata,"Porcelain Berry, Amur peppervine, Blueberry Climber, Porcelain Berry Vine",Climber,20.0,5-8,F,LMH,SN,M,2,2,1
+Ampelopsis japonica, ,Climber,10.0,6-9, ,M,SN,M,0,2, 
+Amphicarpaea bracteata,"Hog Peanut, American hogpeanut",Perennial Climber,1.5,4-9, ,LMH,FS,M,5,1,3
+Amphicarpaea pitcheri,Hog Peanut,Perennial,1.5,-, ,LMH,FS,M,5,0, 
+Amsinckia lycopsoides,Tarweed Fiddleneck,Annual,0.6,6-9, ,LMH,N,DM,1,0, 
+Anacardium occidentale,"Cashew, Caju",Tree,12.0,9-12,S,LMH,N,M,5,3,3
+Anacolosa frutescens,"Galo Nut, Kopi gunung, Tangki leuweung, Belian landak.",Tree,15.0,10-12,M,LMH,FS,M,4,0,2
+Ananas comosus,Pineapple,Perennial,1.0,9-11,F,LMH,SN,M,5,2,4
+Anaphalis margaritacea,"Pearly Everlasting, Western pearly everlasting",Perennial,0.9,3-7, ,LM,SN,DM,1,2, 
+Anchusa azurea,"Anchusa, Italian bugloss",Perennial,1.5,3-7, ,LMH,N,M,2,1, 
+Anchusa officinalis,"Alkanet, Common bugloss",Biennial/Perennial,0.6,4-8, ,LMH,N,M,2,1,1
+Ancylobotrys petersiana,"Mbohoya, Mwungo-wungo.",Climber,6.0,10-12,F,LMH,SN,DM,4,0,2
+Andira coriacea,Red Cabbage Bark Tree,Tree,20.0,10-12,F,LMH,SN,M,0,0,4
+Andrographis paniculata,"Green Chireta, Creat, Nilavembu, Kirayat, Chuan Xin Lian, King of Bitters",Perennial,0.8,10-12,F,LMH,FSN,M,1,4,2
+Andromeda glaucophylla,Bog Rosemary,Shrub,0.6,-, ,LM,S,MWe,2,0, 
+Androstephium caeruleum,Blue Funnel Lily,Bulb,0.2,7-10, ,LM,N,M,1,0, 
+Anemone flaccida, ,Perennial,0.1,5-9, ,LMH,FS,M,1,0, 
+Anemone nemorosa,"Wood Anemone, European thimbleweed",Perennial,0.2,4-8,F,LMH,FSN,DM,0,1, 
+Anemone stolonifera, ,Perennial,0.2,-, ,LMH,SN,M,1,0, 
+Anemonella thalictroides,Rue-Anemone,Perennial,0.1,4-7,S,L,FS,M,2,1, 
+Angelica acutiloba,Dong Dang Gui,Perennial,0.7,6-9, ,LMH,SN,M,2,1, 
+Angelica archangelica,"Angelica, Norwegian angelica",Biennial,1.5,4-8, ,LMH,SN,M,3,3, 
+Angelica atropurpurea,Purplestem Angelica,Perennial,3.0,4-8, ,LMH,SN,M,2,2, 
+Angelica crucifolia, ,Perennial,0.8,-, ,LMH,SN,M,2,0, 
+Angelica japonica, ,Perennial,1.0,-, ,LMH,N,M,3,0, 
+Angelica keiskei, ,Perennial,1.2,-, ,LMH,SN,M,2,0, 
+Angelica montana, ,Perennial,1.5,-, ,LMH,SN,M,2,0, 
+Angelica sinensis,Dang Gui - Dong Quai - Chinese Angelica,Perennial,1.0,6-9, ,LMH,SN,M,0,5, 
+Angelica sylvestris,"Wild Angelica,Woodland angelica",Biennial,1.5,4-8, ,LMH,FSN,M,3,2, 
+Angophora cordifolia,Smooth-Barked Apple,Tree,30.0,8-11, ,LM,N,M,0,1, 
+Angophora floribunda,Rough-Barked Apple,Tree,18.0,8-11, ,LM,N,M,0,0, 
+Aniba rosaeodora,"Brazilian Rosewood, Rosewood-oil tree",Tree,20.0,10-12, ,LMH,SN,M,2,3,4
+Annona atemoya,Atemoya,Tree,8.0,10-12,F,LMH,N,D,4,0,2
+Annona liebmanniana,Posh-te,Tree,20.0,0-0,F,LMH,SN,MWe,4,0,0
+Annona muricata,Sour Sop,Tree,7.0,10-12,F,LMH,SN,M,4,3,2
+Annona squamosa,"Sugar Apple, Sweetsop, Custard Apple",Tree,6.0,10-12,S,LM,N,DM,5,2,2
+Annona vepretorum,"Araticum, Pinha da Caatinga, Araticum-da-bahia",Tree,6.0,10-12,S,LMH,N,D,4,0,2
+Anogeissus leiocarpa,African Birch,Tree,15.0,10-12,S,LMH,SN,M,2,4,4
+Antidesma bunius,"Bignay, Bignai",Tree,10.0,10-12,M,LMH,SN,M,4,2,3
+Apios americana,Ground Nut,Perennial,1.2,3-7, ,LM,SN,M,5,1,3
+Apium australe, ,Perennial,0.6,-, ,LMH,S,M,3,0, 
+Apium filiforme, ,Perennial,0.3,-, ,LMH,S,M,3,0, 
+Apium graveolens,"Wild Celery. Ajmod, Ajwain-ka-patta (Indian)",Biennial,0.6,5-9, ,LMH,S,M,3,3, 
+Apocynum cannabinum,Indian Hemp,Perennial,0.6,4-8, ,LMH,FSN,M,2,2,3
+Apocynum pictum,Kendyr,Perennial,2.0,4-9,F,LMH,FSN,M,0,2,3
+Apocynum venetum, ,Perennial,0.3,4-8, ,LMH,SN,M,0,2,0
+Aquilaria crassna,Agar Wood,Tree,20.0,10-12, ,LMH,N,M,0,2,4
+Aquilaria malaccensis,"Agar Wood, Eaglewood, Indian Aloewood, Aloeswood",Tree,20.0,10-12,S,LMH,SN,M,1,3,3
+Aquilaria sinensis,"Agar Wood, Pak Muk Heung, White Wood Incense",Tree,15.0,10-12,S,LMH,N,M,0,3,4
+Aquilegia buergeriana, ,Perennial,0.6,6-9, ,LMH,SN,M,2,0, 
+Aquilegia flavescens,"Columbine, Yellow columbine",Perennial,0.8,4-8, ,LM,SN,M,2,1, 
+Aquilegia formosa truncata,Columbine,Perennial,0.9,3-7, ,LM,SN,M,2,2, 
+Arabidopsis thaliana,"Thale Cress, Mouseear cress",Annual/Biennial,0.5,0-0, ,LMH,SN,DM,0,1,1
+Arabis alpina,"Alpine Rock Cress, Alpine rockcress",Perennial,0.2,4-8, ,LM,SN,M,2,0, 
+Arabis caucasica,"Rock Cress, Wall Rockcress",Perennial,0.2,4-9,M,LMH,SN,DM,2,0,3
+Arabis pendula, ,Biennial,0.9,-, ,LMH,FSN,M,1,0, 
+Arachis glabrata,Perennial peanut,Perennial,0.3,8-11,F,LMH,SN,M,0,0,3
+Arachis hypogaea,Peanut,Annual,0.3,7-10, ,LMH,N,M,4,2,4
+Aralia chinensis,"Chinese Angelica Tree, Pumila Spirea, Chinese Astilbe",Shrub,3.5,4-8,M,LMH,FS,M,2,2, 
+Aralia cordata,Udo,Perennial,1.8,7-10, ,LMH,FS,M,4,2, 
+Aralia racemosa,American Spikenard,Perennial,1.8,4-8, ,LMH,FS,M,3,3, 
+Araucaria angustifolia,"Parana Pine. Brazilian-pine, Candelabra-tree.",Tree,35.0,9-12,S,LMH,N,M,2,0,3
+Araucaria araucana,Monkey Puzzle Tree,Tree,30.0,7-11,S,LMH,SN,M,5,1,3
+Arbutus arizonica,Arizona Maderone,Tree,15.0,5-9,S,LM,SN,DM,2,1, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Arbutus menziesii,"Madrona, Pacific madrone, Pacific Madrone",Tree,15.0,8-9,M,LM,SN,DM,3,2, 
+Arbutus texana,Texas Madrone,Tree,8.0,7-10,S,LM,SN,DM,2,1, 
+Archidendron jiringa,"Jengkol, Jiringa",Tree,20.0,10-12,M,LMH,SN,M,4,2,2
+Arctium lappa,"Great Burdock, Gobo",Biennial,2.0,3-7, ,LMH,SN,M,4,5,2
+Arctostaphylos alpina,Alpine Bearberry,Shrub,0.1,-, ,LM,SN,M,2,1, 
+Arctostaphylos columbiana,Hairy Manzanita,Shrub,1.5,6-9, ,LM,SN,M,2,1, 
+Arctostaphylos manzanita,"Manzanita, Whiteleaf manzanita, Konocti manzanita, Contra Costa manzanita, Roof's manzanita, Wieslan",Shrub,2.0,7-10, ,LM,SN,DM,3,1,3
+Arctostaphylos nevadensis,Pine-Mat Manzanita,Shrub,0.1,5-9,M,LM,SN,M,2,1, 
+Arctostaphylos tomentosa,"Downy Manzanita, Woollyleaf manzanita, Brittleleaf manzanita, Dacite manzanita, Rosy manzanita, San",Shrub,1.5,7-10, ,LM,SN,M,3,3,3
+Arctostaphylos uva-ursi,Bearberry,Shrub,0.1,4-8,M,LM,FSN,M,3,4,4
+Arenga pinnata,Solitary Sugar Palm,Tree,15.0,10-12,M,LMH,SN,M,4,1,4
+Argania spinosa,"Argan Tree, Spiny Argania, Morocco Ironwood",Tree,7.0,10-12, ,LMH,N,M,4,2,3
+Argemone albiflora,"White Prickly Poppy, Bluestem pricklypoppy",Annual,1.5,6-9, ,L,N,DM,0,1, 
+Argemone mexicana,"Prickly Poppy, Mexican pricklypoppy",Perennial,0.6,7-10, ,L,N,DM,1,3,2
+Arisaema jacquemontii, ,Perennial,0.6,5-9, ,LM,FSN,M,2,0, 
+Arisaema peninsulare, ,Perennial,0.2,-, ,LM,FSN,M,1,0, 
+Arisaema ringens, ,Perennial,0.3,6-9, ,LM,FSN,M,0,1, 
+Arisaema serratum, ,Perennial,0.9,4-8, ,LM,FSN,M,2,1, 
+Arisaema tortuosum,Arisaema,Perennial,0.6,6-9, ,LM,FSN,M,2,2, 
+Arisaema triphyllum,"Jack In The Pulpit, Dragonroot, Indian Turnip",Perennial,0.6,4-9,S,LM,FSN,M,3,2, 
+Aristolochia contorta,Ma Dou Ling,Perennial,1.5,-, ,LMH,SN,M,1,3, 
+Aristolochia debilis,Ma Dou Ling,Perennial,1.0,7-10, ,LMH,SN,M,1,3, 
+Aristolochia kaempferi, ,Perennial,1.0,-, ,LMH,SN,M,0,2, 
+Aristotelia chilensis,Macqui,Shrub,3.0,7-10, ,LMH,N,M,3,1,0
+Aristotelia serrata, ,Tree,7.5,7-10, ,LMH,SN,M,3,1, 
+Arjona patagonica,Macachi,Perennial,0.2,-, ,LM,SN,DM,2,0, 
+Armeria maritima,"Sea Thrift, Thrift seapink, California seapink, Interior seapink, Siberian sea thrift",Perennial,0.1,3-9,S,LM,N,DM,1,1, 
+Armoracia rusticana,"Horseradish, Red Cole",Perennial,0.7,4-9,F,LMH,SN,M,3,3,2
+Arnica angustifolia alpina,Mountain Tobacco,Perennial,0.5,3-7, ,LMH,SN,M,0,3, 
+Arnica montana,"Arnica, Mountain arnica",Perennial,0.3,5-9, ,LMH,SN,M,0,3, 
+Arracacia xanthorrhiza,Arracacha,Perennial,1.0,8-11, ,M,SN,M,4,0,0
+Artemisia abrotanum,Southernwood,Shrub,1.2,4-8, ,LMH,SN,DM,1,3, 
+Artemisia absinthium,"Wormwood, Absinthium.",Perennial,1.0,4-9,M,LM,SN,DM,1,3,2
+Artemisia campestris glutinosa, ,Perennial,1.5,-, ,LM,SN,DM,0,0, 
+Artemisia dracunculoides,"Russian Tarragon, Tarragon, French Tarragon",Perennial,1.0,5-8,M,LM,SN,DM,2,1, 
+Artemisia gmelinii,"Russian Wormwood, Gmelin's wormwood",Perennial,1.5,3-7, ,LMH,N,DM,1,1, 
+Artemisia indica, ,Annual/Perennial,1.2,6-9, ,LM,SN,DM,1,3, 
+Artemisia japonica, ,Perennial,1.0,7-10, ,LMH,SN,DM,1,2, 
+Artemisia lancea, ,Perennial,1.2,-, ,LMH,SN,DM,1,1, 
+Artemisia ludoviciana gnaphalodes,White Sage,Perennial,1.0,4-8, ,LM,SN,DM,0,2, 
+Artemisia mexicana,Mexican White Sagebrush,Perennial,1.0,-, ,LM,N,DM,0,1, 
+Artemisia michauxiana,"Mountain Sagewort, Michaux's wormwood",Perennial,0.5,3-7, ,LM,SN,DM,1,1, 
+Artemisia nova,Black Sagebrush,Shrub,0.5,-, ,LM,SN,DM,0,1, 
+Artemisia scoparia,Redstem wormwood,Biennial,0.6,3-7, ,LMH,N,DM,1,2, 
+Artemisia tilesii,"Wormwood, Tilesius' wormwood",Perennial,1.5,0-0, ,LM,SN,DM,1,2, 
+Artemisia tripartita,"Threetip Sage Brush, Wyoming threetip sagebrush",Shrub,1.8,6-9, ,LM,N,DM,2,1, 
+Artemisia umbelliformis,Alpine Wormwood,Perennial,0.2,4-8, ,LM,N,DM,1,0, 
+Artemisia vulgaris,"Mugwort, Common wormwood, Felon Herb, Chrysanthemum Weed, Wild Wormwood",Perennial,1.2,3-9,F,LMH,SN,DM,2,3,1
+Arthropodium milleflorum,Pale Vanilla Lily,Perennial,0.3,7-10, ,LM,N,M,3,0, 
+Artocarpus altilis,Breadfruit,Tree,18.0,10-12,F,LMH,N,M,5,4,4
+Artocarpus heterophyllus,Jackfruit,Tree,15.0,10-12,F,LMH,SN,M,5,2,3
+Artocarpus integer,Champedak,Tree,20.0,11-12,S,LMH,N,M,4,0,3
+Artocarpus odoratissimus,"Marang, Terap",Tree,25.0,10-12,M,LMH,N,M,4,0,0
+Arum dioscoridis, ,Perennial,0.3,7-10, ,LMH,FSN,M,2,1, 
+Arum italicum,"Italian lords and ladies, Italian Arum",Perennial,0.4,5-9, ,LMH,FSN,DM,2,0, 
+Aruncus dioicus,"Goat's Beard, Bride's feathers",Perennial,2.0,3-7,F,LMH,SN,DMWe,2,2, 
+Arundinaria gigantea,"Canebrake bamboo, Cane Reed, Giant cane",Bamboo,9.0,5-9, ,LMH,FSN,M,3,1,4
+Arundo donax,"Giant Reed, Giant Reed Grass",Perennial,6.0,6-10,F,LMH,N,MWe,3,2,4
+Asarum arifolium, ,Perennial,0.2,6-9, ,LMH,FS,M,0,1, 
+Asarum europaeum,"Asarabacca, European Wild Ginger",Perennial,0.1,4-8,S,LMH,FS,M,0,2, 
+Asarum nipponicum, ,Perennial,0.1,-, ,LMH,FS,M,1,0, 
+Asarum reflexum, ,Perennial,0.2,5-9, ,LMH,FS,M,2,0, 
+Asarum shuttleworthii,"Asarabacca, Mottled Wild Ginger",Perennial,0.1,5-9,F,LMH,FS,M,2,0,2
+Asarum splendens,Chinese Wild Ginger,Perennial,0.2,5-9,S,LM,FS,DM,3,0,3
+Asclepias asperula,"Antelope Horns, Spider milkweed, Trailing Milkweed",Perennial,1.0,7-9,M,LM,SN,DM,2,1, 
+Asclepias currasavica,Blood Flower,Perennial,2.0,10-12,F,LMH,N,M,0,1,2
+Asclepias decumbens, ,Perennial,0.9,-, ,L,SN,DM,2,0, 
+Asclepias eriocarpa,Woollypod Milkweed,Perennial,0.9,7-10, ,L,SN,DM,2,2, 
+Asclepias lanceolata,"Purple Silkweed, Fewflower milkweed",Perennial,1.2,4-8, ,LM,SN,DM,2,1, 
+Asclepias mexicana, ,Perennial,0.8,5-9, ,L,SN,DM,1,0, 
+Asclepias syriaca,"Common Milkweed, Silkweed, Milkweed",Perennial,1.0,3-8,M,LM,SN,DM,3,2,3
+Asimina triloba,Papaw,Shrub,4.5,5-8,S,M,N,M,4,2,2
+Asparagus cochinchinensis,Chinese Asparagus,Perennial,1.5,6-9, ,LMH,SN,M,3,3, 
+Asparagus officinalis,"Asparagus, Garden asparagus",Perennial,1.5,2-9, ,LMH,SN,M,4,3,2
+Asparagus schoberioides, ,Perennial,1.0,-, ,LMH,SN,M,2,1, 
+Asparagus setaceus,"Asparagus Fern, Common asparagus fern, Plumosa Fern",Climber,3.0,9-11,M,LMH,N,M,1,0, 
+Asparagus stipularis, ,Perennial,0.0,-, ,LMH,N,DM,1,0, 
+Asphodeline lutea,"King's Spear, Yellow Asphodel, Jacob's Rod",Perennial,1.0,6-9,M,LMH,SN,DM,4,0,2
+Asphodelus aestivus, ,Perennial,1.0,7-10, ,LM,SN,DM,3,1, 
+Asphodelus albus,"Asphodel, Gamón-blanco",Perennial,1.0,5-9, ,LM,SN,DM,2,1, 
+Asphodelus fistulosus,Onionweed,Annual/Perennial,0.6,7-10, ,LM,SN,DM,2,1,0
+Aspidistra elatior,"Aspidistra, Cast Iron Plant",Perennial,0.6,7-11,S,LMH,FS,DM,0,2, 
+Aspidosperma album,Guatambu,Tree,25.0,10-12,M,LMH,N,M,0,2,4
+Aspidosperma eburneum,Eburneum,Tree,20.0,10-12,M,LMH,N,M,0,0,4
+Astelia grandis, ,Perennial,2.0,-, ,LMH,SN,M,2,0, 
+Astelia nervosa, ,Perennial,0.5,8-11, ,LMH,SN,M,2,0, 
+Aster amellus,Ialian Aster,Perennial,0.7,4-8, ,LMH,N,M,2,2, 
+Aster hauptii, ,Perennial,0.6,-, ,LMH,N,M,1,0, 
+Aster kantoensis, ,Annual/Biennial,0.5,-, ,LMH,N,M,2,0, 
+Aster lanceolatus,White Panicle Aster,Perennial,2.0,4-8, ,LMH,SN,M,0,1,2
+Aster puniceus,Purplestem Aster,Perennial,1.3,3-8, ,LMH,SN,M,0,2,2
+Astilbe thunbergii,Astilbe,Perennial,0.5,4-9,M,LMH,SN,M,1,0, 
+Astragalus aboriginorum,Indian Milkvetch,Perennial,0.3,-, ,LM,N,D,2,0, 
+Astragalus canadensis,"Canadian Milkvetch, Shorttooth Canadian milkvetch, Morton's Canadian milkvetch",Perennial,1.0,7-10, ,LM,N,D,3,2,3
+Astragalus crassicarpus,"Ground Plum, Groundplum milkvetch",Perennial,0.5,6-9, ,LM,N,D,4,1,3
+Astragalus diphysus,"Specklepod Milkvetch, Freckled milkvetch",Perennial,0.0,0-0, ,LM,N,D,3,0, 
+Astragalus massiliensis, ,Shrub,0.3,5-9, ,LM,N,D,3,0,3
+Astragalus membranaceus,Huang Qi,Perennial,0.3,5-9, ,LM,N,D,0,5,3
+Astragalus pictus-filifolius,Painted Milkvetch,Perennial,0.3,-, ,LM,N,D,4,0, 
+Astragalus sirinicus, ,Shrub,0.3,8-11, ,LM,N,D,2,0, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Astrantia major,Great Masterwort,Perennial,0.8,4-9,F,LMH,SN,M,0,1, 
+Astrocaryum vulgare,"Tucuma. Awarra palm, Tucum palm.",Tree,15.0,10-12,M,LMH,N,M,3,2,2
+Astronium balansae,Astronium,Tree,15.0,10-12, ,LM,N,M,0,0,4
+Athamantha turbith,Candy Carrot,Perennial,0.6,5-9, ,LM,N,M,2,0, 
+Athrotaxis selaginoides,King William Pine,Tree,30.0,7-10,S,LMH,SN,M,0,0, 
+Athyrium filix-femina,"Lady Fern, Common ladyfern, Subarctic ladyfern, Asplenium ladyfern, Southern Lady Fern, Tatting Fer",Fern,0.6,3-8,M,LMH,FS,M,1,2,2
+Athyrium rubripes, ,Fern,0.1,-, ,LMH,FS,MWe,1,0, 
+Atriplex argentea expansa,Silverscale Saltbush,Annual,0.6,-, ,LM,N,M,2,0, 
+Atriplex confertifolia,"Shadscale, Shadscale saltbush",Shrub,1.8,6-9, ,LM,N,DM,4,1,0
+Atriplex hastata,Hastate Orach,Annual,0.8,-, ,LM,N,DM,3,0, 
+Atriplex lapathifolia, ,Annual,0.9,-, ,LM,N,DM,3,0, 
+Atriplex powellii,Powell's Saltweed,Annual,1.5,-, ,LM,N,DM,2,0, 
+Atriplex semibaccata,"Australian Saltbush. Australian saltbush, Creeping saltbush",Shrub,0.5,9-11,F,LMH,N,DM,2,0,3
+Atriplex serenana,"Bractscale, Davidson's bractscale",Annual,3.0,7-10, ,LM,N,DM,2,0, 
+Atropa bella-donna,"Deadly Nightshade, Belladonna",Perennial,0.9,6-9, ,LM,FSN,M,0,3, 
+Attalea butyracea,Wine Palm,Tree,20.0,10-12,M,LMH,N,DM,4,0,5
+Attalea funifera,"Bahia Piassava, Conquilla Nut, Piassaba Palm",Tree,15.0,10-12,M,LMH,N,DM,1,0,4
+Attalea maripa,"Inaja, Maripa Palm",Tree,15.0,10-12,M,LMH,SN,M,3,2,5
+Attalea speciosa,"Babassu, American Oil Palm, Motacu, Motacuchi",Tree,30.0,10-12,S,LMH,N,M,4,2,5
+Aubrieta deltoidea,"Aubretia, Lilacbush, False Rockcress",Perennial,0.2,4-9,M,LM,SN,DM,0,0, 
+Aurinia saxatilis,"Golden Alyssum, Basket of gold",Perennial,0.3,4-10,M,LMH,N,DM,0,0, 
+Avena abyssinica,Abyssinian Oat,Annual,0.0,-, ,LMH,N,DM,2,0, 
+Avena orientalis,Hungarian Oat,Annual,0.0,-, ,LMH,N,DM,3,1, 
+Avena sativa,"Oats, Common oat",Annual,0.9,0-0, ,LMH,N,DM,3,3,4
+Averrhoa carambola,"Carambola, Star Fruit",Tree,8.0,10-12,S,LM,N,M,4,2,2
+Azadirachta indica,Neem,Tree,15.0,10-12,F,MH,SN,DM,2,4,5
+Azolla filiculoides,"Azolla, Pacific mosquitofern",Perennial,0.1,0-0,F,LMH,SN,Wa,0,0, 
+Bacopa monnieri,"Herb of Grace, Brahmi, Smooth Water Hyssop",Perennial,0.3,8-11,F,LMH,SN,MWe,3,4,1
+Baillonella toxisperma,"African Pearwood, False Shea Butternut",Tree,50.0,10-12,F,LMH,SN,M,3,3,4
+Balanites aegyptiaca,"Desert Date. Desert date, Soapberry tree",Tree,6.0,10-12,S,LMH,N,MWe,3,2,3
+Bambusa atra,Clumping Bamboo. Long pipe bamboo.,Bamboo,8.0,10-12,F,LMH,N,MWe,2,0,3
+Bambusa bambos,Giant Thorny Bamboo,Bamboo,30.0,10-12,F,MH,SN,M,3,3,5
+Bambusa nutans,"Nodding Bamboo, Mai bong",Bamboo,12.0,9-10,F,LMH,SN,M,2,0,4
+Bambusa polymorpha,"Burmese bamboo, Jama Betua",Bamboo,12.0,9-12,F,LMH,SN,M,2,0,4
+Bambusa vulgaris,Common Bamboo,Bamboo,20.0,9-12,F,LMH,SN,M,3,2,4
+Barbarea orthoceras,American Yellowrocket,Perennial,0.5,0-0, ,LMH,SN,M,2,0,0
+Beckmannia syzigachne,American Sloughgrass,Perennial,1.5,-, ,LMH,SN,MWeWa,2,0, 
+Berberis canadensis,"Allegheny Barberry, American barberry",Shrub,1.8,4-8,M,LMH,SN,DM,3,2,1
+Bidens aurea,Arizona beggarticks,Perennial,1.0,7-10, ,LMH,N,M,1,0, 
+Billardiera longiflora,Appleberry,Climber,2.4,7-10,S,LM,SN,M,2,0, 
+Bixa orellana,"Annatto (Lipstick Plant, Urucum, Colorau, Achiote )",Tree,5.0,10-12,F,LM,SN,M,3,3,4
+Blighia sapida,"Akee, ackee apple or ayee",Tree,20.0,10-12,F,MH,N,M,3,2,3
+Borassus aethiopum,"African Fan Palm, Palmyra Palm",Tree,20.0,10-12,S,LMH,N,M,4,2,3
+Borassus akeassii,African Fan Palm,Tree,10.0,10-12,S,LMH,N,DM,4,2,3
+Borojoa patinoi,Borojo,Tree,8.0,10-12,M,LMH,FS,M,4,2,0
+Boscia senegalensis,"Aizen, Boscia",Shrub,8.0,10-12,M,LMH,FSN,M,4,2,3
+Bowdichia virgilioides,Alcornoco,Tree,20.0,10-12,F,LMH,N,DM,0,2,4
+Brahea dulcis,Apak Palm,Tree,7.0,8-11,S,LMH,N,DM,1,0, 
+Brassica carinata,Abyssinian Cabbage,Annual,1.0,9-12,F,LMH,SN,M,4,2,3
+Bromelia karatas,"Ananas pingouin, Karatas, Camburito",Perennial,3.0,10-12,F,LMH,N,M,3,2,2
+Bromelia pinguin,Pinuela. Pinguin,Perennial,1.0,9-12,F,LMH,SN,DM,3,0,2
+Bromus rigidus,Ripgut Brome,Annual,1.0,6-9, ,LMH,N,DM,1,0, 
+Brosimum alicastrum,Breadnut. Maya nut,Tree,30.0,10-12,M,LMH,SN,M,3,2,3
+Brosimum guianense,Bastard Breadnut,Tree,25.0,10-12,F,LMH,SN,DM,1,2,5
+Buchanania lanzan,"Almondette, Charoli Nut",Tree,12.0,10-12,M,LMH,N,DM,4,2,3
+Buglossoides arvensis,"Field Gromwell, Corn gromwell",Annual,0.5,6-10, ,LMH,SN,M,1,1,0
+Bulbinella hookeri,Maori Onion,Bulb,0.7,7-10, ,LM,SN,DM,1,0, 
+Bunchosia armeniaca,Ameixa Do Peru, ,0.0,-, ,LMH,SN,M,1,0, 
+Bunium bulbocastanum,"Pig Nut, Earth-nut",Perennial,0.6,4-8, ,LMH,N,M,4,1,0
+Cacalia atriplicifolia,Pale indian plantain,Perennial,1.8,0-0, ,LMH,FS,M,2,1,2
+Calliandra calothyrsus,"Red Calliandra, Powderpuff, Kaliandra",Shrub,6.0,10-12,F,LMH,SN,M,0,0,5
+Callicarpa americana,"American Beautyberry, Beautyberry, French Mulberry, American Beautyberry",Shrub,1.8,7-10,S,M,SN,M,2,2, 
+Calotropis gigantea,"Giant Milkweed, Crown Flower, Giant Calotrope, Swallow-wort",Tree,5.0,10-12,F,LMH,N,DM,2,3,4
+Calotropis procera,"Auricula Tree, Dead Sea Apple, Sodom Apple",Shrub,4.0,8-11,M,LMH,SN,DM,1,3,4
+Camassia scilloides,Atlantic Camas,Bulb,0.6,6-9, ,LMH,SN,M,3,0, 
+Campanula fenestrellata,Adriatic Bellflower,Perennial,0.2,5-9,M,LM,SN,M,4,0, 
+Campanula garganica,Adriatic Bellflower,Perennial,0.2,4-8, ,LM,N,M,3,0, 
+Campanula portenschlagiana,Adria Bellflower,Perennial,0.3,3-7,F,LM,SN,M,3,0,3
+Canarium schweinfurtii,African elemi,Tree,30.0,10-12,M,LMH,N,M,3,3,3
+Canna edulis,"Achira, Indian shot",Perennial,3.0,7-10, ,LMH,N,M,3,0, 
+Caragana gerardiana, ,Shrub,1.0,4-8, ,LMH,N,M,0,0, 
+Caragana microphylla,Littleleaf Peashrub,Shrub,2.0,4-9,F,LM,N,M,0,0,3
+Carapa guianensis,Andiroba,Tree,35.0,10-12,F,LMH,FSN,MWe,0,4,4
+Cardamine hirsuta,Hairy Bittercress,Annual,0.3,4-8, ,LMH,SN,M,3,0,1
+Cardamine rotundifolia,"American Water Cress, American bittercress",Perennial,0.3,5-9, ,LMH,SN,MWeWa,2,0, 
+Carpinus caroliniana,"American Hornbeam, Blue Beech, Ironwood, American Hornbeam",Tree,12.0,3-9,S,LMH,SN,M,1,1, 
+Caryocar brasiliense,"Pequi, Souari nut",Tree,10.0,10-12,S,LMH,N,DM,4,2,2
+Cassiope tetragona,White Arctic Mountain Heather,Shrub,0.3,3-7, ,LM,S,DM,0,0, 
+Castanea dentata,American Sweet Chestnut,Tree,30.0,4-8, ,LMH,SN,DM,3,1,3
+Casuarina torulosa,Forest Oak,Tree,15.0,8-11, ,LMH,N,DM,0,0,3
+Catharanthus roseus,"Madagascar Periwinkle, Jasmine, Cayenne Old Maid Periwinkle",Perennial,0.7,9-12,F,LMH,SN,M,1,4,1
+Cecropia peltata,"Trumpet Tree, Snakewood, Congo pump, Wild pawpaw, Pop-a-gun",Tree,20.0,9-12,F,LMH,N,M,3,3,5
+Cedrus atlantica,"Atlas Deodar, Atlantic cedar",Tree,25.0,5-9,M,LMH,N,DM,0,2,3
+Celosia argentea cristata,"Common Cockscomb, Crested Celosia",Annual,0.5,9-12,F,LMH,SN,DM,4,3,1
+Chamaedaphne calyculata,Leather Leaf,Shrub,0.8,6-9, ,LMH,SN,M,1,1, 
+Chamaemelum nobile,"Chamomile, Roman chamomile",Perennial,0.2,4-8, ,LMH,SN,DM,2,5,4
+Chenopodium polyspermum,"All-Seed, Manyseed goosefoot",Annual,0.9,0-0, ,LMH,N,M,2,0, 
+Chimonobambusa marmorea,Kan-Chiku,Bamboo,1.5,5-9,F,LMH,SN,M,1,0, 
+Chimonobambusa quadrangularis,Square Bamboo,Bamboo,3.0,5-9, ,LMH,S,M,2,0, 
+Chrysopogon zizanioides,"Vetiver, Vetiver Root, Khus Khus",Perennial,1.8,7-11,F,LM,SN,MWe,2,2,4
+Chusquea quila,Argentinian quila,Bamboo,5.0,6-9, ,LMH,S,M,2,0, 
+Cimicifuga racemosa (Actaea racemosa),"Black Cohosh, Black Snakeroot, Bugbane",Perennial,1.5,4-10,M,LMH,S,M,1,4, 
+Claytonia megarhiza,Alpine Spring Beauty,Perennial,0.2,4-8, ,LM,N,M,3,0, 
+Cleome gynandra,"African Spider Flower, Spiderwisp",Annual,1.3,8-12, ,LM,N,DM,0,2,0
+Clitoria mariana,"Atlantic Pigeonwings, Butterfly Pea",Perennial Climber,0.8,6-9,M,LM,SN,DM,0,0,3
+Coelopleurum gmelini, ,Perennial,1.0,-, ,LMH,N,M,2,0, 
+Colchicum autumnale,"Autumn Crocus, Meadow Saffron,",Bulb,0.2,6-9,M,LMH,SN,M,0,3, 
+Colocasia esculenta,"Taro, Elephant Ears Taro, Dasheen, Eddo",Perennial,1.0,9-11,M,LMH,SN,MWe,4,2,1
+Combretum imberbe,"Leadwood Tree, Ivory tree",Tree,10.0,10-12,S,LMH,N,M,2,2,4
+Convolvulus erubescens,"Australian Bindweed, Pinkflower bindweed",Perennial Climber,2.0,0-0, ,LM,SN,DM,0,1, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Copernicia prunifera,"Brazilian Wax Palm, Carnauba Palm, Carnauba Wax",Tree,12.0,10-12,S,LMH,N,M,3,3,4
+Corallorhiza odontorhiza,Autumn Coralroot,Perennial,0.4,-, ,LMH,SN,DM,0,2, 
+Coronilla scorpioides,"Annual Scorpion Vetch, Yellow crownvetch",Annual,0.4,6-9, ,L,N,M,0,1, 
+Corylus americana,American Hazel,Tree,3.0,4-8, ,LMH,SN,M,3,1,2
+Cotoneaster acuminatus,Acuminate cotoneaster,Shrub,4.0,4-8, ,LMH,SN,DM,0,0, 
+Coula edulis,African Walnut,Tree,20.0,10-12,M,LMH,SN,M,3,0,4
+Crambe abyssinica,"Abyssinian Kale, Crambe",Annual,1.0,10-12, ,LMH,SN,M,1,0,4
+Crataegus altaica,Altai Mountain Thorn,Tree,6.0,4-8, ,LMH,SN,MWe,3,2, 
+Crataegus anomala,Arnold hawthorn,Shrub,5.0,4-8, ,LMH,SN,MWe,3,2,3
+Crataegus arnoldiana,Arnold Hawthorn,Tree,7.0,5-9, ,LMH,SN,DMWe,5,2,0
+Crataegus azarolus,Azarole,Tree,10.0,5-9,M,LMH,SN,MWe,4,2, 
+Crinum asiaticum,Asian Poison Bulb,Bulb,1.2,7-10, ,LMH,N,M,0,1, 
+Croton tiglium,"Croton Oil Plant. Croton, Purging croton.",Tree,7.0,10-12,M,LMH,N,DM,0,3,2
+Cupressus arizonica,Arizona Cypress,Tree,25.0,6-9,M,LMH,N,DM,0,0, 
+Cyclanthera pedata,"Achocha, Caihua, Caygua, Cayua, Korila, Wild Cucumber",Annual,4.5,9-11,F,LMH,SN,M,3,4,1
+Cyclospermum leptophyllum,"Slender Celery, Marsh parsley",Annual,0.7,0-0, ,LMH,SN,M,1,0, 
+Cymbopogon citratus,"Lemon Grass, Citronella grass",Perennial,1.5,10-12,F,LMH,N,DM,3,4,2
+Cymopterus longipes,Longstalk Spring Parsley,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Cymopterus purpureus,Purple springparsley,Perennial,0.0,0-0, ,LMH,SN,M,1,0, 
+Cyperus cephalotes,"Bhada, Flat Sedges, Nut Sedges or Umbrella Sedge.",Perennial,0.3,10-12,F,LMH,N,WeWa,0,1,2
+Cyrtanthus breviflorus,Fire Lily,Bulb,0.3,8-11, ,L,N,MWe,1,0, 
+Cyrtomium fortunei,Asian netvein hollyfern,Fern,0.5,5-9, ,LM,FSN,M,0,2, 
+Dactyladenia barteri,Monkey Fruit,Tree,10.0,10-12,M,LMH,N,M,0,2,4
+Dalbergia louvelii,"Andramena, Volombodipona, Violet rosewood",Tree,15.0,10-12,M,LMH,N,M,0,2,4
+Dalbergia melanoxylon,"African Blackwood, Grenadilla, Mpingo",Tree,6.0,10-12,S,LMH,N,DM,0,2,5
+Dalbergia nigra,Brazilian Rosewood,Tree,20.0,10-12,M,LMH,N,DM,0,0,4
+Dalbergia retusa,Cocobolo,Tree,20.0,10-12,S,LMH,N,M,0,0,4
+Daniellia ogea,"Accra copal, Ogea copal",Tree,40.0,10-12,M,LMH,N,M,0,0,3
+Daniellia oliveri,African Copaiba Balsam Tree,Tree,25.0,10-12,F,LMH,N,M,2,2,3
+Datisca cannabina,"Acalbir, Akalbir",Perennial,1.8,7-10, ,LMH,N,M,0,1, 
+Dendrocalamus asper,"Giant Bamboo, Dragon bamboo, Sweet bamboo",Bamboo,15.0,10-12,F,LMH,N,M,4,0,3
+Dendrocalamus brandesii,"Velvet Leaf Bamboo, Clumping Bamboo",Bamboo,25.0,9-10,F,LMH,N,M,3,0,4
+Dendrocalamus strictus,Male Bamboo. Calcutta Stricta or Bamboo,Bamboo,15.0,9-12,F,LMH,SN,DM,3,1,3
+Dennstaedtia punctilobula,Hay-scented fern,Fern,0.6,3-8,F,LMH,FSN,M,0,0,3
+Deschampsia caespitosa,"Tussock Grass, Tufted Hair Grass, Hair Grass",Perennial,1.0,5-9,M,LMH,SN,MWe,1,0, 
+Desmodium triflorum,"Three-flower beggarweed, Three-flower tick-trefoil",Annual/Perennial,0.2,10-12,F,LMH,FSN,M,0,2,2
+Dichondra micrantha,Asian ponysfoot,Perennial,0.1,0-0, ,LMH,SN,M,0,2, 
+Dicorynia guianensis,Angelique,Tree,35.0,10-12,M,LMH,N,MWe,0,0,4
+Dictyosperma album,"Hurricane Palm, Princess Palm, Red Palm",Tree,15.0,10-12,F,LMH,SN,M,4,2,0
+Dioscorea bulbifera,"Aerial Yam, Air Potato",Perennial Climber,10.0,9-12,F,LMH,SN,M,4,2,0
+Diospyros virginiana,"American Persimmon, Common persimmon, Persimmon",Tree,20.0,4-8,M,LMH,SN,M,5,1,3
+Dipterocarpus alatus,"Apitong, baume de gurjun, gurjun balsam",Tree,30.0,10-12,S,LMH,SN,M,0,2,4
+Dipterocarpus gracilis,Tagalog: Panao,Tree,50.0,10-12,M,MH,SN,M,0,1,3
+Dipterocarpus grandiflorus,Apitong,Tree,40.0,10-12,S,MH,SN,M,0,0,3
+Dorema ammoniacum,Ammoniacum,Perennial,2.5,-, ,LMH,SN,DM,0,3, 
+Dovyalis abyssinica,Abyssinian Gooseberry,Shrub,6.0,10-12,M,LMH,N,M,4,2,2
+Dracocephalum parviflorum,American Dragonhead,Annual/Biennial,1.0,6-9, ,LMH,SN,M,1,1, 
+Drepanostachyum falcatum,Ringal,Bamboo,3.5,7-10,S,LM,S,M,2,0, 
+Dyera costulata,Hill Jelutong,Tree,50.0,10-12,M,LMH,N,M,0,1,4
+Dysoxylum acutangulum,Membalo,Tree,40.0,10-12,S,LM,N,M,0,0,4
+Dysoxylum fraserianum,"Australian rosewood, rose-mahogany, rosewood, turnipwood.",Tree,30.0,10-12,S,LMH,N,M,0,0,4
+Dysphania anthelmintica,Wormseed,Annual/Perennial,1.0,10-12,M,LMH,N,M,2,4,2
+Echinochloa polystachya,Aleman Grass. German grass,Perennial,2.0,10-12,F,LMH,N,MWeWa,0,0,4
+Ehretia anacua,"Anaqua, Knockaway",Tree,5.0,7-10, ,LMH,N,DM,2,0, 
+Elaeagnus parvifolia,Autumn olive,Shrub,4.5,3-7,M,LMH,N,DM,4,2,2
+Elaeagnus umbellata,Autumn Olive,Shrub,4.5,3-7,M,LMH,N,DM,4,2,3
+Elaeis guineensis,African Oil Palm,Tree,15.0,10-12,S,LMH,N,MWe,5,2,5
+Elaeis oleifera,American Oil Palm,Tree,4.0,10-12,S,LMH,N,M,3,0,5
+Eleutherococcus divaricatus, ,Shrub,3.5,5-9, ,LMH,SN,M,2,0, 
+Eleutherococcus gracylistylus,Wu Jia Pi,Shrub,3.0,5-9, ,LMH,SN,M,1,3, 
+Eleutherococcus innovans,Taka-No-Tsume,Tree,6.0,6-9, ,LMH,N,M,1,0, 
+Eleutherococcus japonicus, ,Shrub,3.0,-, ,LMH,SN,M,1,0, 
+Eleutherococcus senticosus,Siberian Ginseng,Shrub,2.0,3-7,S,LMH,SN,M,2,5, 
+Eleutherococcus sessiliflorus, ,Shrub,4.5,4-8, ,LMH,SN,M,2,3, 
+Eleutherococcus sieboldianus,"Ukogi, Five Leafed Aralia",Shrub,3.0,4-8,S,LMH,SN,M,3,0,2
+Eleutherococcus trifoliatus, ,Shrub,6.0,6-9, ,LMH,SN,M,1,1, 
+Elodea canadensis,"Canadian Pondweed, Canadian waterweed",Perennial,0.0,0-0, ,LMH,SN,Wa,0,1,0
+Elymus hispidus,"Kernza. Wild triga, Pubescent wheatgrass,",Perennial,0.8,6-9,F,LMH,N,M,4,0,4
+Entada phaseoloides,St. Thomas Bean,Climber,30.0,10-12,F,LMH,SN,M,3,2,4
+Enterolobium cyclocarpum,Devil's Ear. Earpod tree,Tree,30.0,10-12,F,LMH,N,M,2,2,3
+Erechtites hieraciifolia,"American Fireweed, American burnweed",Annual,2.0,0-0, ,LMH,SN,M,0,0, 
+Erigeron annuus,"Annual Fleabane, Eastern daisy fleabane",Annual/Perennial,1.0,3-8,M,LMH,N,M,1,0,0
+Eriocaulon cinereum,Ashy pipewort,Annual,0.0,0-0, ,LMH,SN,M,0,1, 
+Eriogonum inflatum,"American Pipeweed, Desert trumpet",Perennial,0.6,0-0, ,LM,N,DM,2,1, 
+Eriogonum jamesii,"Antelope Sage, James' buckwheat",Perennial,0.3,4-8, ,LM,N,DM,0,2, 
+Erythronium grandiflorum,"Avalanche Lily, Yellow avalanche-lily",Bulb,0.2,4-8, ,LM,S,DM,3,1, 
+Erythronium montanum,"Avelanche Lily, White avalanche-lily",Bulb,0.3,0-0, ,LM,S,M,2,0, 
+Erythronium multiscapideum,Adderstongue,Bulb,0.3,-, ,LM,S,M,2,0, 
+Erythronium purpurascens,"Avelanche Lily, Purple fawnlily",Bulb,0.3,0-0, ,LM,S,M,2,0, 
+Eucalyptus delegatensis,Alpine ash,Tree,40.0,7-11,F,LMH,N,M,0,3,3
+Eulaliopsis binata,"Babui, Sabaigrass",Perennial,0.6,10-12,F,LM,N,M,0,0,3
+Euphorbia hirta,"Asthma Weed, Pill-Bearing Spurge",Annual,0.3,-, ,LM,N,DM,1,3, 
+Euphorbia ipecacuanhae,American Ipec, ,0.0,-, ,LMH,SN,M,0,1, 
+Euphorbia tirucalli,"African Milkbush, Pencil Cactus, Milk Bush",Shrub,5.0,9-12,S,LMH,SN,DM,0,2,4
+Eurybia divaricata,White wood aster,Perennial,0.9,4-8,F,LMH,FSN,DM,2,0,2
+Euterpe oleracea,"Acai, Assai Palm, Acai Palm",Tree,25.0,10-12,F,LMH,SN,M,5,2,2
+Fagus grandifolia,American Beech,Tree,10.0,4-8,S,LM,FSN,DM,2,2,3
+Faidherbia albida,White Acacia. White-thorn. Apple ring acacia,Tree,25.0,10-12,F,LM,N,DM,1,2,3
+Falcataria moluccana,Batai,Tree,35.0,10-12,F,LMH,N,M,0,0,4
+Fallugia paradoxa,Apache Plume,Shrub,2.5,6-10,M,LMH,N,DM,0,0, 
+Fargesia nitida,Fountain Bamboo,Bamboo,4.0,4-8,S,LMH,FSN,M,0,0, 
+Ferula assa-foetida,"Asafoetida - Devil's Dung. Hing (Indian), Asafetida",Perennial,2.0,7-10, ,LMH,N,DM,3,3, 
+Ferula foetida,Asafoetida,Perennial,1.0,7-10, ,LMH,N,DM,2,3, 
+Fitzroya cupressoides,"Alerce, Patagonian cypress",Tree,10.0,7-10,S,LMH,SN,M,0,0, 
+Foeniculum vulgare,"Fennel, Sweet fennel",Perennial,1.5,3-10, ,LMH,N,DM,5,3,3
+Forestiera acuminata,"Swamp Privet, Eastern swampprivet",Shrub,3.0,0-0, ,LMH,SN,M,1,1, 
+Fragaria vesca 'Semperflorens',Alpine Strawberry,Perennial,0.3,4-8, ,LMH,SN,M,5,3, 
+Frasera caroliniensis,American Columbo,Perennial,2.5,0-0, ,LM,SN,M,0,2, 
+Fraxinus excelsior,"Ash, European ash, Common Ash",Tree,30.0,5-8,F,LMH,N,MWe,2,2,3
+Fraxinus sieboldiana,Ash,Tree,8.0,6-9,M,LMH,N,M,0,0, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Fraxinus velutina,"Arizona Ash, Velvet ash, Modesto Ash, Fantex Ash",Tree,12.0,7-10,F,LMH,N,M,0,0, 
+Furcraea foetida,Mauritius Hemp,Perennial,2.0,9-11,F,LM,SN,DM,0,2,3
+Furcraea hexapetala,"Fique, Cuban Hemp",Perennial,1.0,9-11,F,LMH,N,DM,0,1,2
+Galium aparine,"Goosegrass, Coachweed, Catchweed, Stickywilly",Annual,1.2,3-7, ,LMH,FSN,DM,2,3,0
+Galium odoratum,"Sweet Woodruff, Sweetscented bedstraw, Bedstraw",Perennial,0.2,5-9,M,LMH,FS,DM,3,3,3
+Gaultheria adenothrix, ,Shrub,0.3,8-11, ,LM,FS,M,3,0,4
+Gaultheria humifusa,"Alpine Wintergreen, Alpine spicywintergreen",Shrub,0.1,6-9, ,LM,SN,M,4,0,3
+Gaultheria mucronata,Prickly heath,Shrub,1.5,5-9, ,LM,SN,M,4,0,3
+Gaultheria pumila, ,Shrub,0.1,6-9,S,LM,SN,M,2,0, 
+Gaultheria pumila leucocarpa, ,Shrub,0.2,6-9, ,LM,SN,M,2,0, 
+Geijera parviflora,Australian Willow,Tree,12.0,9-11,F,LMH,SN,M,0,1, 
+Gentiana lutea,Yellow Gentian,Perennial,1.2,4-8, ,LMH,SN,M,1,5, 
+Gentianella quinquefolia,Ague Weed,Annual/Biennial,0.6,-, ,LMH,SN,M,0,2, 
+Geodorum densiflorum,Nodding Swamp Orchid,Perennial,0.3,10-12,F,LM,N,M,0,2,4
+Geum pentapetalum,Aleutian avens,Shrub,0.2,7-10, ,LMH,SN,MWe,0,2, 
+Gigantochloa hasskarliana,Awi Tela,Bamboo,10.0,10-12,F,LMH,SN,M,4,0,3
+Gigantochloa levis,"Bulo semilang, Buloh seremai, Bolo",Bamboo,15.0,9-10,F,LMH,SN,M,3,2,3
+Gigantochloa verticillata,"Whorled bamboo, Giant stripy bamboo",Bamboo,15.0,10-12,F,LM,N,M,3,0,3
+Gillenia stipulata,"American Ipecacuanna, American ipecac",Perennial,1.2,4-8, ,LMH,S,M,0,3, 
+Glycyrrhiza lepidota,American Liquorice,Perennial,1.0,3-8, ,LM,SN,M,4,3,2
+Guadua angustifolia,Clumping Bamboo. Guadua,Bamboo,25.0,10-12,F,LMH,SN,M,0,0,5
+Guibourtia demeusei,African Rosewood,Tree,25.0,10-12,S,LMH,N,MWe,0,0,4
+Guibourtia pellegriana,"Akume, Bubinga, Waka",Tree,25.0,10-12,S,LMH,N,M,0,0,4
+Gymnema sylvestre,"Gurmar, Gymnema",Climber,3.0,10-12,M,LMH,N,M,3,4,0
+Gymnocarpium dryopteris,Northern oak fern,Fern,0.3,2-7,S,LM,FS,MWe,0,0,3
+Gynerium sagittatum,Uva Grass,Perennial,4.0,10-12,F,LMH,N,MWeWa,0,2,3
+Gypsophila arrostii,Arrost's baby's-breath,Perennial,1.0,0-0, ,LMH,N,DM,0,1, 
+Halimione portulacoides,Sea Purslane,Shrub,0.8,-, ,LMH,SN,MWe,3,0, 
+Hedeoma pulegioides,"American Pennyroyal, American false pennyroyal",Annual,0.3,5-9, ,LMH,SN,DM,3,3, 
+Hedysarum alpinum,Alpine Sweetvetch,Perennial,0.6,4-8, ,LMH,N,M,3,0, 
+Hedysarum hedysaroides,Alpine French Honeysuckle,Perennial,0.4,4-8, ,LMH,N,M,3,0, 
+Heliopsis helianthoides,"False sunflower, Oxeye sunflower",Perennial,1.5,3-9,F,LMH,SN,DM,2,0,2
+Hemerocallis middendorffii,"Amur daylily, Middendorf, Daylily",Perennial,0.9,4-8,M,LMH,SN,DM,5,1,2
+Hepatica acutiloba,"American Liverleaf, Sharp-lobed Hepatica, Hepatica",Perennial,0.3,3-9,S,LM,FSN,M,0,2, 
+Hepatica americana,"American Liverleaf, Alumroot, Round Lobed Hepatica",Perennial,0.3,3-9,S,LM,FSN,M,0,2, 
+Heuchera cylindrica,"Alum Root, Roundleaf alumroot, Alpine alumroot, Beautiful alumroot, Poker alumroot",Perennial,0.5,4-8, ,LM,SN,M,1,2, 
+Heuchera diversifolia,"Alum Root, Crevice alumroot",Perennial,0.6,4-8, ,LM,SN,M,1,1, 
+Heuchera glabra,Alpine Heuchera,Perennial,0.6,4-8, ,LM,SN,M,1,1, 
+Heuchera micrantha,"Alum Root, Crevice alumroot, Hartweg's alumroot, Coral Bells",Perennial,0.7,4-9,F,LM,SN,M,1,2, 
+Heuchera sanguinea,"Alum Root, Coralbells, Crimson Bells",Perennial,0.5,4-10,M,LM,SN,M,0,0, 
+Hibiscus syriacus,"Rose Of Sharon, Althaea, Shrub Althea, Hardy Hibiscus",Shrub,3.0,5-9,M,LMH,SN,M,4,2,2
+Himalayacalamus falconeri, ,Bamboo,6.0,7-10,S,LMH,SN,M,3,0, 
+Himalayacalamus hookerianus,Padang,Bamboo,9.0,7-10,F,LMH,SN,M,2,0, 
+Honckenya peploides,"Sea Sandwort, Seaside sandplant",Perennial,0.2,4-8,M,LM,N,DM,3,0, 
+Hosta plantaginae,August Lily,Perennial,0.6,4-8, ,LMH,FSN,M,1,1, 
+Houstonia caerulea,Azure bluet or Quaker ladies,Perennial,0.1,3-8,F,LMH,SN,DM,2,0,3
+Hypericum hypericoides,St. Andrews Cross,Shrub,1.2,5-9, ,LM,SN,DM,0,2, 
+Ilex aquifolium,"Holly, English holl, Christmas Holly, Common Holly, English Holly",Shrub,9.0,5-9,S,LMH,FSN,DM,2,2,4
+Ilex opaca,American Holly,Shrub,15.0,4-8,S,LMH,SN,M,2,2, 
+Illicium floridanum,"Aniseed Tree, Florida anisetree, Purple Anise, Star Anise, Florida anise",Shrub,2.0,6-10,S,LM,SN,M,1,0, 
+Indigofera suffruticosa,"Anil Indigo, Anil de pasto",Perennial,1.5,10-12,F,LMH,SN,DM,0,2,4
+Indigofera tinctoria,"Indigo, True Indigo, dye indigo",Shrub,2.0,5-12,F,LMH,SN,M,2,2,4
+Inocarpus fagifer,"Tahiti Chestnut, Polynesian Chestnut",Tree,20.0,10-12,M,LMH,FSN,MWe,4,2,2
+Intsia bijuga,"Moluccan Ironwood, Ipil",Tree,25.0,11-12,S,LM,SN,DM,1,2,4
+Intsia palembanica,"Borneo Teak, Merbau",Tree,80.0,10-12,S,LM,N,DM,1,1,4
+Inula helenium,"Elecampane, Elecampane inula",Perennial,1.5,4-8, ,LMH,SN,M,3,3,2
+Juglans major,Arizona Walnut,Tree,15.0,8-11,F,LMH,N,M,2,0, 
+Juglans neotropica,Andean Walnut,Tree,25.0,10-12,S,LMH,N,M,3,2,4
+Juniperus ashei,"Ashe Juniper, Mountain Cedar",Tree,6.0,7-9,S,LMH,N,DM,1,0, 
+Juniperus deppeana,Aligator Juniper,Tree,18.0,7-9,S,LMH,N,DM,3,0, 
+Juniperus drupacea,Syrian Juniper,Tree,15.0,6-9,M,LMH,N,DM,3,0, 
+Kalimeris pinnatifida,Japanese Aster,Perennial,1.5,5-8,M,LMH,SN,M,1,0, 
+Kalopanax sciadophylloides, ,Tree,0.0,-, ,LMH,SN,M,1,0, 
+Lansium domesticum,"Langsat, Lansa, Lanzon",Tree,15.0,11-12,S,MH,SN,M,4,2,3
+Lavatera trimestris,Annual mallow,Annual,0.8,0-0,F,LM,N,DM,2,0, 
+Leptadenia hastata,"Akamongot, Anvara",Perennial Climber,1.5,10-12,M,LMH,N,DM,4,3,2
+Leucaena diversifiolia,Ipil-ipil,Tree,15.0,10-12,F,LMH,SN,M,0,0,3
+Leucaena leucocephala,"Leucaena, Lead Tree, White Tamarind",Tree,10.0,9-12,F,LMH,N,DM,3,2,4
+Ligularia japonica, ,Perennial,1.5,4-8, ,LMH,SN,M,1,0, 
+Ligusticum mutellina,"Mountain Lovage, Alpine lovage",Perennial,0.5,5-9, ,LMH,N,M,1,1, 
+Lilaea scilloides,Awl-leaf lilaea,Annual,0.3,0-0, ,LMH,SN,M,0,0, 
+Limnocharis flava,"Sawah Lettuce, Sawah Flowering Rush",Perennial,0.6,10-12,F,LMH,N,MWeWa,4,0,2
+Lobularia maritima,Sweet Alyssum,Annual/Perennial,0.2,6-9,F,LMH,N,DM,1,1, 
+Lotus tetragonolobus,"Asparagus Pea, Winged pea",Annual,0.3,0-0, ,LMH,N,DM,3,0, 
+Luma apiculata,Arrayan,Shrub,6.0,8-11,M,LMH,N,M,3,0,3
+Lygeum spartum,"Albardine, Lygeum",Perennial,0.5,0-0, ,LMH,N,DM,0,0, 
+Lyonia ovalifolia, ,Shrub,2.0,5-9, ,LMH,SN,M,0,1, 
+Magnolia dodecapetala,Bwapen mawon,Tree,35.0,10-12,S,LMH,N,M,0,0,4
+Malpighia emarginata,"Acerola, Barbados Cherry",Shrub,4.0,10-12,M,LMH,SN,M,4,0,2
+Malus domestica,Apple,Tree,9.0,3-8, ,LMH,SN,M,5,2,4
+Malva sylvestris,"Mallow, High mallow, French Hollyhock, Common Mallow, Tree Mallow, Tall Mallow",Biennial/Perennial,0.5,4-8,F,LMH,SN,M,3,3,3
+Mandragora officinarum,Mandrake,Perennial,0.1,6-9, ,LM,SN,DM,1,2, 
+Manilkara bidentata,"Balata, bulletwood, bully tree",Tree,30.0,10-12,M,MH,SN,MWe,2,2,4
+Manilkara zapota,"Sapodilla, Nispero",Tree,25.0,10-12,S,LMH,N,DM,5,2,4
+Mansonia altissima,Mansonia,Tree,35.0,10-12,F,LMH,N,DM,0,2,4
+Maranta arundinacea,Arrowroot,Perennial,1.0,10-12,M,LMH,FSN,MWe,4,3,2
+Medicago sativa,"Alfalfa, Yellow alfalfa",Perennial,1.0,4-8,M,LMH,N,DM,4,3,4
+Melilotus indicus,Annual Yellow Sweetclover,Annual,1.0,5-9, ,LMH,N,DM,1,2, 
+Mentha arvensis villosa,American Wild Mint,Perennial,0.6,4-8, ,LMH,SN,M,3,2, 
+Mentha asiatica,Asian Mint,Perennial,1.0,-, ,LMH,SN,M,3,2, 
+Mentha x villosa alopecuroides,"Apple Mint, Bowles' Mint",Perennial,0.6,4-8, ,LMH,SN,M,4,2,3
+Mercurialis annua,Annual Mercury,Annual,0.5,-, ,LMH,N,M,1,1, 
+Mezilaurus itauba,Itauba,Tree,30.0,10-12,M,LM,SN,M,2,2,4
+Milicia excelsa,African Teak,Tree,50.0,10-12,M,LMH,N,DM,2,3,5
+Mimosa scabrella,"abaracaatinga, bracaatinga, bracatinga",Tree,10.0,10-12,F,LMH,N,MWe,0,0,4
+Miscanthus sacchariflorus,Amur Silver Grass,Perennial,3.0,7-10,F,LMH,SN,M,0,0, 
+Moringa stenopetala,"African horseradish tree, cabbagetree",Tree,9.0,10-12,M,LMH,SN,DM,4,3,4
+Morus mesozygia,African mulberry,Tree,30.0,10-12,F,LMH,N,M,2,3,4
+Musa textilis,Abaca,Perennial,3.0,10-12,F,LMH,N,M,0,0,5
+Myosotis alpestris,"Alpine Forget-Me-Not, Scorpion Grass, Forget-Me-Not",Perennial,0.2,3-9,M,LMH,SN,MWe,0,2, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Myrcianthes pungens,Guabiyu,Tree,15.0,10-12,S,LMH,SN,M,4,1,2
+Nauclea latifolia,African Peach,Tree,10.0,10-12,M,LMH,N,DM,3,4,2
+Nelumbo lutea,"American Water Lotus, American lotus",Perennial,1.8,4-8, ,LMH,N,Wa,4,1,0
+Neolamarckia cadamba,"Amboina, Kadam",Tree,45.0,10-12,F,LMH,SN,MWe,1,2,4
+Ocotea cymosa,Varongy,Tree,20.0,10-12,M,LM,FSN,M,2,0,4
+Oenothera albicaulis,Whitest Evening Primrose,Annual/Biennial,0.3,4-8, ,LM,N,DM,2,1, 
+Olearia avicenniifolia,Akeake,Shrub,3.0,7-10, ,LM,N,M,0,0, 
+Ongokea gore,Boleko Nut,Tree,30.0,10-12,M,LMH,SN,DM,2,2,4
+Ophioglossum reticulatum,Adder's tongue fern,Fern,0.2,10-12,M,LM,SN,MWe,4,0,0
+Ophioglossum vulgatum,"Adder's Tongue, Southern adderstongue",Fern,0.3,4-8, ,LMH,N,M,1,2, 
+Origanum dictamnus,"Dittany Of Crete, Hop Marjoram",Perennial,0.2,7-9,M,LMH,N,DM,2,1, 
+Origanum x hybridum, ,Perennial,0.3,7-10, ,LMH,SN,DM,1,0, 
+Osmorhiza longistylis,"Aniseroot, Longstyle sweetroot",Perennial,1.2,5-9, ,LMH,SN,M,3,1,1
+Pachyrhizus ahipa,"Ahipa, Yam bean",Perennial,0.5,0-0, ,LM,N,M,3,0, 
+Pachysandra procumbens,Allegheny spurge,Perennial,0.3,5-8,S,LMH,FS,M,0,0,3
+Paederia foetida,Skunk Vine,Climber,4.0,6-12,F,LMH,SN,M,2,4,2
+Paeonia anomala,"Anomalous peony, Common Peony",Perennial,0.5,4-8, ,LMH,SN,M,1,3,0
+Panax ginseng,"Ginseng, Chinese ginseng",Perennial,0.8,5-9, ,LMH,FS,M,2,5, 
+Panax pseudoginseng,"Ginseng, Japanese ginseng",Perennial,1.0,5-9,S,LMH,FS,M,1,3, 
+Panax quinquefolius,American Ginseng,Perennial,0.3,3-7,S,LMH,FS,M,1,3,0
+Panax trifolius,"Ground Nut, Dwarf ginseng",Perennial,0.2,3-7, ,LMH,FS,M,1,2, 
+Papaver nudicaule,"Arctic Poppy, Icelandic poppy",Perennial,0.3,4-10,M,LM,SN,DM,1,1, 
+Parkia biglobosa,African Locust Bean,Tree,15.0,10-12,M,LMH,N,M,4,2,4
+Paronychia argentea,Algerian Tea,Perennial,0.1,6-9, ,LM,N,DM,1,1, 
+Paronychia capitata,Algerian Tea,Perennial,0.0,4-8, ,LM,N,DM,1,1, 
+Parthenocissus himalayana, ,Climber,18.0,8-11,F,LMH,SN,M,2,0, 
+Parthenocissus quinquefolia,"Virginia Creeper, Woodbine",Climber,30.0,3-10,F,LMH,SN,M,2,2,0
+Parthenocissus tricuspidata,"Boston Ivy, Japanese Ivy, Japanese Creeper",Climber,18.0,4-8,F,LMH,SN,M,1,0, 
+Payena leeri,"Balam suntei tree, Getah sundek",Tree,30.0,10-12,M,LMH,N,M,2,0,3
+Pedicularis arctica,Arctic lousewort,Perennial,0.0,0-0, ,LMH,SN,M,1,0, 
+Pelargonium odoratissimum,Apple Geranium,Perennial,0.2,8-11, ,LM,SN,DM,2,3, 
+Pennisetum purpureum,Napier grass. Elephant grass,Perennial,4.0,8-11,F,LMH,SN,M,2,0,4
+Pentaclethra macrophylla,"African Oil Bean. Oil Bean Tree, Owala Oil",Tree,30.0,10-12,F,MH,SN,M,3,2,3
+Pentaglottis sempervirens,Evergreen bugloss,Perennial,1.0,6-9, ,LMH,FSN,M,1,0,0
+Pericopsis angolensis,East African afrormosia,Tree,15.0,10-12,F,LMH,N,M,0,2,4
+Pericopsis elata,"African-teak, golden afrormosia, kokrodua",Tree,40.0,10-12,F,LMH,N,DM,0,2,4
+Persea americana,"Avocado, Alligator Pear",Tree,15.0,9-12,F,MH,N,M,5,3,3
+Petasites hyperboreus,Arctic Sweet Coltsfoot,Perennial,0.2,4-8,F,LMH,FSN,MWe,2,1, 
+Petasites saggitatus,Arrowleaf Sweet Coltsfoot,Perennial,0.2,-,F,LMH,FSN,MWe,2,1, 
+Petasites vitifolius,Arctic sweet coltsfoot,Perennial,0.6,0-0,F,LMH,FSN,MWe,1,0, 
+Phellodendron amurense,"Amur Cork Tree, Chinese Corktree",Tree,12.0,3-8,M,LMH,N,M,1,3, 
+Phyllocladus alpinus,Alpine Celery Pine,Shrub,9.0,7-10,S,LMH,SN,M,0,0, 
+Pimpinella anisum,"Aniseed (Saunf - Hindi), Anise burnet saxifrage",Annual,0.5,7-10, ,LM,N,DM,4,3, 
+Pinus halepensis,Aleppo Pine,Tree,15.0,8-11,M,LM,N,DM,2,2, 
+Pinus nigra,"Austrian Pine, Black Pine",Tree,30.0,3-7,F,LMH,N,DM,1,2, 
+Piptadenia gonoacantha,Pau jacaré - alligator stick,Tree,15.0,10-12,F,LMH,N,DM,0,0,4
+Pithecellobium dulce,"Manila Tamarind, Madras Thorn",Tree,15.0,10-12,F,LMH,N,DM,4,2,3
+Planchonella australis,Black Apple,Tree,0.0,11-12, ,LMH,SN,M,3,0,4
+Platonia insignis,"Bakuri, Bacuri",Tree,25.0,10-12,F,LMH,N,MWe,4,2,3
+Pleioblastus gramineus, ,Bamboo,3.0,6-9, ,LMH,S,M,2,0, 
+Pleioblastus hindsii, ,Bamboo,3.5,-, ,LMH,FS,M,3,0, 
+Pleioblastus humilis, ,Bamboo,2.0,6-9, ,LMH,S,M,0,0, 
+Pleioblastus humilis pumilus, ,Bamboo,1.0,6-9, ,LMH,S,M,0,0, 
+Pleioblastus pygmaeus,"Dwarf Fern-Leaf Bamboo, Pigmy Bamboo",Bamboo,0.3,7-10,F,LMH,SN,M,0,0, 
+Pleioblastus simonii,"Medake, Simon bamboo",Bamboo,6.0,5-9,F,LMH,SN,M,3,0,4
+Pleioblastus variegatus,"Dwarf White-Striped Bamboo, Chigo Zasa, Dwarf White Stripe Bamboo",Bamboo,0.8,7-10,F,LMH,SN,M,0,0, 
+Plukenetia conophora,"Conophor. Nigerian walnut. Awusa nut,",Perennial Climber,18.0,10-12,F,LMH,SN,M,4,2,3
+Poa annua,"Annual Meadow Grass, Annual bluegrass, Low Spear Grass, Meadow Grass, Six Week Grass, Annual Blue",Annual,0.3,4-8, ,LMH,N,M,0,0,0
+Podocarpus elatus,Australian Plum,Tree,30.0,9-11, ,LMH,SN,M,2,0, 
+Podocarpus nivalis,Alpine Totara,Shrub,3.0,7-11,M,LMH,SN,M,3,0,3
+Podophyllum peltatum,"American Mandrake, Mayapple, Ground Lemon, Mandrake, Mayapple",Perennial,0.3,3-9,M,LM,FS,M,2,4,2
+Polemonium reptans,"Abcess Root, Greek valerian",Perennial,0.3,4-8, ,LM,SN,M,0,2, 
+Polygonum alaskanum,Alaska Wild Rhubarb,Perennial,1.8,-, ,LMH,SN,M,2,1, 
+Polygonum alpinum,"Alpine Knotweed, Alaska wild rhubarb",Perennial,1.0,4-8, ,LMH,SN,M,2,1, 
+Polygonum bistortoides,American Bistort,Perennial,0.5,4-8, ,LMH,SN,M,3,1, 
+Polygonum divaricatum, ,Perennial,1.0,-, ,LMH,SN,DM,1,0, 
+Polygonum manshuriense,Asian Bistort,Perennial,0.8,-, ,LMH,SN,Mwe,0,1, 
+Polygonum molle, ,Perennial,2.5,6-9,F,LMH,SN,M,2,1, 
+Polygonum perfoliatum,Asiatic tearthumb,Annual/Perennial,1.8,0-0, ,LMH,SN,MWe,1,1,0
+Polygonum polymorphum, , ,0.0,-, ,LMH,SN,M,1,0, 
+Polygonum rumicifolium, ,Perennial,0.0,-, ,LMH,SN,M,1,0, 
+Polygonum viviparum,Alpine Bistort,Perennial,0.3,3-7, ,LMH,SN,M,3,1, 
+Polygonum weyrichii, ,Perennial,1.5,4-8, ,LMH,SN,M,2,0, 
+Polypogon monspeliensis,"Annual Beardgrass, Annual rabbitsfoot grass",Annual,0.8,7-10, ,LMH,N,M,1,1,0
+Polyscias fruticosa,"Ming Aralia, Chinese Ariala",Shrub,2.5,10-12,S,LM,SN,M,2,2,4
+Polystichum munitum,"Giant Holly Fern, Western swordfern",Fern,1.0,4-8, ,LM,FS,DM,1,2, 
+Poncirus trifoliata,"Bitter Orange, Hardy orange, Trifoliat Orange, Japanese Hardy Orange",Shrub,3.0,6-9,S,LMH,SN,M,3,2,3
+Populus tremula,"Aspen Poplar, European aspen, Aspen",Tree,18.0,2-5,F,LMH,SN,MWe,1,2, 
+Populus tremuloides,"American Aspen - Poplar, Quaking aspen",Tree,20.0,2-5,F,LMH,N,DM,1,3, 
+Potentilla anserina,Silverweed,Perennial,0.3,4-8,F,LMH,SN,M,3,3,2
+Pourouma cecropiifolia,Amazon Grape,Tree,15.0,10-12,F,MH,SN,M,4,2,2
+Pouteria altissima,"Abam, Apotro, Gomu",Tree,35.0,10-12,M,LMH,N,DM,0,0,4
+Pouteria caimito,"Abiu, Yellow Star Apple",Tree,15.0,10-12,M,LMH,SN,MWe,4,0,2
+Pouteria guianensis,Asepoko.,Tree,25.0,10-12,M,LMH,N,M,2,0,2
+Pouteria pierrei,Aningeria,Tree,30.0,10-12,M,LMH,N,M,2,0,4
+Pouteria sapota,"Sapote, Mamey Sapote",Tree,25.0,10-12,M,MH,N,M,4,2,2
+Prosopis chilensis,"Chilean algarrobo, Chilean mesquite",Tree,12.0,10-12,M,LM,N,DM,2,0,3
+Prosopis juliflora,"Mesquite, Honey Mesquite",Tree,10.0,7-12,F,LM,N,DM,3,2,4
+Prosopis pallida,Algaroba,Tree,12.0,10-12,F,LMH,N,DM,2,2,2
+Prunus alabamensis,Alabama Cherry,Tree,8.0,-, ,LMH,SN,M,2,1, 
+Prunus alleghaniensis,"Allegheny Plum, Davis' plum",Tree,3.5,4-8,F,LMH,SN,M,3,1,2
+Prunus americana,"American Plum, American Wild Plum, Wild Plum",Tree,6.0,3-8,M,LMH,SN,M,3,2,3
+Prunus armeniaca,Apricot,Tree,9.0,5-7,M,LM,SN,M,3,3,3
+Prunus besseriana,Dwarf Almond,Tree,0.0,-, ,LMH,SN,M,2,1, 
+Prunus caroliniana,"American Cherry Laurel, Carolina laurelcherry, Laurel Cherry,",Shrub,12.0,7-10,F,LMH,SN,DM,2,1, 
+Prunus davidiana,Chinese Wild Peach,Tree,9.0,4-8, ,LMH,SN,M,2,3, 
+Prunus dulcis,"Almond, Sweet almond",Tree,6.0,6-9, ,LMH,N,M,4,3,3
+Prunus fasciculata,Desert Almond,Shrub,3.0,6-9, ,LMH,SN,DM,2,1, 
+Prunus fenzliana, ,Shrub,1.5,4-8, ,LMH,SN,M,2,1, 
+Prunus kansuensis, ,Shrub,6.0,4-8, ,LMH,SN,M,2,1, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Prunus korshinskyi, ,Shrub,3.5,-, ,LMH,SN,M,2,1, 
+Prunus mandschurica,Manchurian Apricot,Tree,15.0,0-0, ,LMH,SN,M,3,2,3
+Prunus mira,Smoothpit Peach,Tree,10.0,4-8, ,LMH,SN,M,2,1, 
+Prunus mume,"Japanese Apricot, Japanese Flowering, Apricot",Tree,9.0,6-8,M,LMH,SN,M,3,3, 
+Prunus pedunculata, ,Shrub,2.0,4-8, ,LMH,SN,M,2,1, 
+Prunus persica,"Peach, Flowering Peach, Ornamental Peach, Common Peach",Tree,6.0,5-9,F,LMH,N,M,5,3,3
+Prunus sibirica,Siberian Apricot,Shrub,3.0,4-8, ,LMH,SN,M,3,2,4
+Prunus simonii,Apricot Plum,Tree,6.0,5-9, ,LMH,N,M,3,1, 
+Prunus tangutica, ,Shrub,3.0,4-8, ,LMH,SN,M,2,1, 
+Prunus triloba,"Flowering Almond, Flowering plum",Shrub,4.0,4-8, ,LMH,N,M,2,1, 
+Prunus x dasycarpa,Black Apricot,Tree,4.5,4-8, ,LMH,N,M,3,1, 
+Prunus x jacquemontii,Dwarf Bush cherry,Shrub,1.5,3-8,M,LMH,N,M,3,1,2
+Pseudosasa amabilis,Tonkin Bamboo,Bamboo,6.0,5-9, ,LMH,FSN,M,0,0, 
+Pseudosasa japonica,Metake - Bamboo,Bamboo,4.5,5-9, ,LMH,FSN,MWe,2,1, 
+Pterocarpus angolensis,Ambila,Tree,25.0,10-12,M,LM,N,M,0,3,4
+Pterocarpus dalbergioides,"Andaman padauk, East Indian-mahogany,",Tree,35.0,10-12,M,LMH,N,M,2,2,4
+Pterocarpus erinaceus,African Kino,Tree,20.0,10-12,S,LM,N,M,0,3,4
+Pterocarpus indicus,"Amboyna, Indian Padauk, Burmese Rosewood, Narra, Bloodwood",Tree,30.0,10-12,F,LMH,SN,M,2,2,4
+Pterocarpus soyauxii,African Coralwood,Tree,30.0,10-12,F,LMH,N,M,2,2,4
+Pterodon emarginatus,"Faveiro, sucupira, sucupira-branca",Tree,12.0,10-12,M,LM,N,DM,0,4,3
+Pulsatilla cernua, ,Perennial,0.2,4-8, ,LM,N,M,1,2, 
+Pulsatilla patens,"Pasque Flower, Eastern pasqueflower, Cutleaf anemone",Perennial,0.5,4-8, ,LM,N,M,0,2, 
+Pulsatilla vulgaris,"Pasque Flower, European pasqueflower",Perennial,0.2,4-8, ,LM,N,DM,0,3, 
+Pycnanthus angolensis,African Nutmeg,Tree,30.0,10-12,M,LMH,N,M,2,3,4
+Pyrus pyrifolia culta,Asian Pear,Tree,10.0,5-9, ,LMH,SN,M,4,1, 
+Quercus infectoria,"Aleppo Oak, Oak",Shrub,1.8,6-8,M,MH,SN,M,2,2, 
+Quercus laevis,"American Turkey Oak, Turkey oak",Tree,12.0,7-9,S,MH,SN,M,2,2, 
+Reutealis trisperma,"Otaheite Walnut, Lumbang Tree",Tree,12.0,9-12,F,LMH,N,M,0,2,4
+Rhamnus frangula,Alder Buckthorn,Shrub,5.0,3-7,S,LMH,SN,MWe,0,3,3
+Rhamnus saxatilis,"Avignon Berry, Rock buckthorn",Shrub,2.0,5-9, ,LMH,SN,M,0,0, 
+Rhododendron ferrugineum,Alpenrose,Shrub,1.5,4-8, ,LM,SN,M,0,1, 
+Rhododendron periclymenoides,"Pink azalea, Pinxter flower",Shrub,2.0,4-8,M,LMH,FSN,DM,1,0,2
+Rhynchoryza subulata,Arroz bravo,Perennial,0.3,9-12,F,LMH,N,MWe,3,0,0
+Ribes alpinum,Alpine Currant,Shrub,1.2,2-7,M,LMH,SN,M,3,0,4
+Ribes americanum,American Blackcurrant,Shrub,1.8,-, ,LMH,SN,M,2,1, 
+Ribes oxyacanthoides,"American Mountain Gooseberry, Canadian gooseberry, Stream currant, Henderson's currant, Idaho go",Shrub,1.5,0-0, ,LMH,SN,M,3,1, 
+Ribes rotundifolium,Appalachian Gooseberry,Shrub,1.0,5-9, ,LMH,SN,M,3,1, 
+Ribes triste,"American Red Currant, Red currant",Shrub,0.5,0-0, ,LMH,SN,M,3,1,0
+Rodgersia podophylla, ,Perennial,1.3,-, ,LMH,SN,MWe,1,0, 
+Rosa davurica,Amur rose,Shrub,1.5,4-8, ,LMH,SN,M,2,1, 
+Rosa villosa,Apple Rose,Shrub,1.8,4-8, ,LMH,SN,M,4,1,1
+Rubia akane,Asian Madder,Perennial Climber,1.0,-, ,LMH,S,DM,1,2, 
+Rubus allegheniensis,"Alleghany Blackberry, Graves' blackberry",Shrub,3.0,3-7,M,LMH,SN,M,3,2,1
+Rubus arcticus,"Arctic Bramble, Arctic raspberry, Dwarf raspberry",Perennial,0.2,2-7, ,LMH,N,M,5,0,1
+Rubus arizonicus,Arizona Dewberry,Shrub,0.2,-, ,LMH,SN,M,2,0, 
+Rubus canadensis,"American Dewberry, Smooth blackberry",Shrub,2.5,3-7, ,LMH,SN,M,4,1,1
+Rubus pectinellus,"Atibulnak,",Shrub,0.2,0-0, ,LMH,SN,M,3,0,1
+Rubus strigosus,"American Red Raspberry, Grayleaf red raspberry",Shrub,2.0,3-7, ,LMH,SN,M,3,3,1
+Rumex acetosa,"Sorrel, Garden sorrel",Perennial,0.6,3-7, ,LMH,SN,M,5,3,3
+Rumex alpinus,"Alpine Dock, Munk's rhubarb",Perennial,1.2,4-8,M,LMH,SN,M,4,2,1
+Rumex arcticus,Arctic Dock,Perennial,0.0,-, ,LMH,SN,We,2,1, 
+Rumex berlandieri,amamastla,Perennial,0.6,-, ,LMH,SN,M,1,0, 
+Rumex graminifolius,Grassleaf sorrel,Perennial,0.1,0-0, ,LMH,SN,M,1,0, 
+Rumex obtusifolius,"Round-Leaved Dock, Bitter dock",Perennial,1.0,4-8, ,LMH,SN,M,1,2,0
+Rumex tenuifolius,Common sheep sorrel,Perennial,0.0,0-0, ,LMH,SN,M,1,0, 
+Saccharum officinarum,"Sugarcane, Purple Sugar Cane",Perennial,6.0,8-12,F,LMH,N,MWe,4,2,3
+Sagittaria sagittifolia,"Arrow Head, Hawaii arrowhead",Perennial,1.0,6-9, ,LMH,N,WeWa,5,1,0
+Salix lasiolepis,"Arroyo willow, Bigelow's willow",Tree,12.0,4-8,F,LMH,N,MWe,0,2, 
+Salix triandra,"Almond-Leaved Willow, Almond willow",Tree,9.0,4-8,F,LMH,N,MWe,1,2, 
+Salvia pomifera,Apple Sage,Shrub,1.0,7-10, ,LM,N,DM,2,2, 
+Samanea saman,"Rain Tree, False Powder Puff, Monkey Pod",Tree,20.0,10-12,F,LMH,SN,DMWe,3,2,4
+Sambucus nigra spp canadensis,American Elder,Shrub,4.0,3-9,F,LMH,SN,M,4,3,3
+Sambucus pubens,American Red Elder,Shrub,4.0,4-8, ,LMH,SN,M,3,1,1
+Sanguisorba canadensis,"American Great Burnet, Canadian burnet",Perennial,1.2,4-8, ,LMH,SN,M,1,0, 
+Sansevieria hyacinthoides,African Bowstring Hemp,Perennial,0.5,10-12,F,LM,SN,DM,0,2,3
+Sansevieria roxburghiana,"Indian Bowstring Hemp, Bowstring Hemp",Perennial,1.0,10-12,F,LM,SN,DM,0,3,3
+Saraca asoca,Asoka Tree. Sorrow-less Tree,Tree,9.0,10-12,M,LMH,SN,M,0,3,3
+Sasa kurilensis,Chishima Zasa,Bamboo,4.0,6-9, ,LMH,S,M,4,1,3
+Sasa palmata,"Broadleaf Bamboo, Bamboo",Bamboo,2.5,7-9,F,LMH,S,M,0,0, 
+Sasaella ramosa,Azuma-Zasa,Bamboo,1.0,6-9,F,LMH,SN,M,0,0, 
+Scirpus americanus,American Bulrush,Perennial,0.6,-, ,LMH,SN,MWeWa,2,0, 
+Semecarpus anacardium,Marking Nut Tree. Oriental Cashew,Tree,25.0,10-12,M,LMH,N,DM,2,3,3
+Semiaquilegia adoxoides,Tian Kui,Perennial,0.3,5-9, ,LMH,SN,M,0,2, 
+Semiarundinaria fastuosa,"Narihiradake, Narihira bamboo",Bamboo,7.5,6-9,S,LMH,SN,M,5,0,2
+Semiarundinaria murielae,Umbrella Bamboo,Bamboo,4.0,6-9,S,LMH,SN,M,0,0, 
+Senecio cannabifolius,Aleutian ragwort,Perennial,2.0,4-8, ,LMH,N,M,1,2, 
+Senegalia senegal,Gum Arabic,Shrub,6.0,10-12,S,LMH,N,DM,3,2,4
+Sesbania bispinosa,Prickly Sesban,Annual/Biennial,2.0,10-12,F,LMH,N,MWe,2,2,4
+Sesbania grandiflora,"Vegetable Hummingbird, Agati,",Tree,12.0,9-12,F,LMH,N,MWe,3,2,4
+Sesbania sesban,Sesban,Shrub,5.0,10-12,F,LMH,N,MWe,2,2,4
+Setaria palmifolia,Highland Pitpit. Palm Grass,Perennial,3.0,10-12,F,LMH,SN,M,3,2,1
+Smyrnium olusatrum,Alexanders,Biennial,1.2,5-9, ,LMH,SN,M,3,1,2
+Solanum ajanhuiri,Ajanhuiri,Perennial,0.0,9-11, ,LMH,SN,M,2,0, 
+Solanum americanum,"American Nightshade, American black nightshade",Annual,1.0,0-0, ,LMH,N,M,1,0,0
+Solanum andigenum,Andigena,Perennial,0.0,-, ,LMH,N,M,2,0, 
+Solanum melongena,"Aubergine, Eggplant",Perennial,1.0,8-11, ,LMH,N,M,3,2, 
+Solidago canadensis,"Canadian Goldenrod, Shorthair goldenrod, Harger's goldenrod, Rough Canada goldenrod, Common Goldenro",Perennial,1.8,5-10,M,LMH,SN,M,2,2,0
+Solidago flexicaulis,Zigzag goldenrod,Perennial,0.6,3-9,M,LMH,FSN,DM,0,0,3
+Solidago suaveolens,anisescented goldenrod,Perennial,0.0,-, ,LMH,SN,M,1,1, 
+Solidago virgaurea,Goldenrod,Perennial,0.6,4-8, ,LMH,SN,DM,1,3, 
+Sorbus americana,American Mountain Ash,Tree,10.0,2-6,S,LMH,SN,M,1,2,2
+Sorbus aria,"Whitebeam, Chess-apple",Tree,12.0,4-8, ,LMH,SN,M,3,1,4
+Spergularia rubra,"Sandwort, Red sandspurry",Annual/Biennial,0.3,0-0, ,LM,N,DM,1,1, 
+Sphenostylis stenocarpa,African Yam Bean,Perennial Climber,2.0,10-12,F,LM,N,M,4,0,0
+Spiranthes spiralis,Autumn Lady's Tresses,Perennial,0.2,5-9, ,LMH,SN,DM,0,1, 
+Spirostachys africana,"African mahogany tree, African sandalwood",Tree,7.5,10-12,S,LMH,N,DM,0,0,4
+Sporobolus airoides,Alkali Sakaton,Perennial,0.8,-, ,LMH,N,DM,1,0, 
+Staphylea trifolia,American Bladder Nut,Shrub,4.0,4-8,M,LMH,SN,M,3,1,2
+Stellaria alsine,"Bog Stitchwort, Bog chickweed",Perennial,0.3,0-0, ,LMH,SN,M,1,2, 
+Stellaria dichotoma,American chickweed,Perennial,0.3,-, ,LMH,SN,M,0,2, 
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,
+Stellaria graminea,Lesser stitchwort,Perennial,0.5,4-8,F,LMH,SN,M,3,1,2
+Stellaria jamesiana,tuber starwort,Perennial,0.5,4-9, ,LMH,SN,M,3,0,0
+Stellaria media,"Chickweed, Common chickweed",Annual,0.1,4-11,F,LMH,SN,M,2,3,2
+Stellaria pubera,Star chickweed,Perennial,0.2,5-8,F,MH,FS,M,3,1,3
+Stilbocarpa polaris, ,Perennial,1.8,-, ,LMH,SN,M,2,0, 
+Stipa splendens,Chee Grass,Perennial,1.8,6-9, ,LMH,N,DM,0,0, 
+Stipagrostis pungens,Drinn,Perennial,1.0,10-12,F,LM,N,DM,3,1,2
+Stylosanthes biflora,Sidebeak pencilflower,Perennial,0.5,4-8,F,LMH,SN,DM,0,0,2
+Stylosanthes guianensis,Estilo,Perennial,1.2,10-12,F,LMH,N,DM,0,0,4
+Symplocos paniculata,"Asiatic Sweetleaf, Sapphire-berry",Shrub,4.0,4-8, ,LMH,N,M,1,2, 
+Tabebuia rosea,"Apamate, Pink Poui, Pink Tecoma, Rosy Trumpet Tree",Tree,20.0,10-12,M,LMH,N,DM,0,2,4
+Tagetes erecta,"African Marigold, Aztec marigold, Big Marigold, American Marigold",Annual,1.0,2-11,M,LMH,N,DM,3,3,3
+Tamarix africana,African tamarisk,Tree,7.5,7-10,M,LMH,N,DM,0,0, 
+Tamarix aphylla,Athel Tamarisk,Tree,10.0,7-10,M,LMH,N,DM,1,1, 
+Tanacetum balsamita,"Alecost, Costmary",Perennial,0.9,5-9, ,LMH,SN,DM,3,2, 
+Tanacetum parthenium,"Feverfew, Matricaria",Perennial,0.6,5-8,M,LMH,N,DM,2,5,2
+Taxus x media,Anglojapanese Yew,Shrub,6.0,4-7,S,LMH,FSN,DM,3,4,4
+Terminalia arjuna,"Arjuna, Terminalia",Tree,30.0,10-12,F,LMH,N,DM,2,4,3
+Tetrapanax papyrifer,"Rice Paper Plant, Chinese Rice Paper Plant",Shrub,5.0,8-11,F,LMH,SN,M,1,1, 
+Teucrium canadense,"American Germander, Canada germander, Western germander",Perennial,1.0,4-8, ,LMH,SN,M,0,1,0
+Thamnocalamus spathiflorus, ,Bamboo,6.0,5-9, ,LMH,SN,M,2,0, 
+Thamnocalamus tessellatus,Bergbamboes,Bamboo,3.5,-, ,LMH,SN,DM,0,0, 
+Thermopsis villosa,"Aaron's rod, Carolina lupine",Perennial,1.5,5-8,S,LMH,SN,DM,0,0,3
+Thespesia populnea,"Portia Tree, Aden Apple, Indian Tulip Tree",Tree,10.0,10-12,F,LMH,N,DM,3,3,4
+Thuja occidentalis,"American Arbor-Vitae, Arborvitae, Eastern Arborvitae, Siberian Arborvitae, Northern White Cedar, Wh",Tree,15.0,3-7,S,LMH,SN,MWe,2,3, 
+Thysanolaena latifolia,"Asian Broom Grass, Tiger Grass",Perennial,3.0,10-12,F,LMH,N,M,0,0,4
+Tilia americana,"American Basswood, Carolina basswood, Basswood, AmericanBasswood, American Linden",Tree,25.0,3-9,M,LMH,SN,M,3,3,3
+Toona sinensis,Chinese Cedar,Tree,20.0,6-11,F,LMH,N,M,3,2,4
+Trachomitum lancifolium,"Lance leaved Dogbane, Lance leaved Kendry",Perennial,3.0,4-9,F,LMH,N,DM,0,1,4
+Trachomitum sarmatiense,"Sarmatian Dogbane, Sarmatian Kendry",Perennial,1.2,4-9,F,LMH,N,DM,0,1,4
+Trachyspermum ammi,Ajowan caraway,Annual,0.6,-, ,LMH,N,M,2,3, 
+Treculia africana,African Breadfruit or Breadnut,Tree,30.0,10-12,M,MH,SN,M,4,2,2
+Trifolium hybridum,Alsike Clover,Perennial,0.6,-, ,LMH,N,M,2,1, 
+Triplochiton scleroxylon,"Arere, Obeche, Samba",Tree,40.0,10-12,F,LMH,N,M,2,2,4
+Tropaeolum tuberosum,Anu,Perennial Climber,2.0,7-10,M,LM,N,M,4,2,2
+Tsuga canadensis,"Canadian Hemlock, Eastern hemlock",Tree,20.0,4-7,M,LMH,FSN,M,1,3, 
+Tsuga chinensis,Chinese Hemlock,Tree,45.0,5-9,S,LMH,FSN,M,1,2, 
+Turraeanthus africanus,Avodire,Tree,25.0,10-12,M,LMH,SN,MWe,0,2,4
+Turritis glabra,Tower Cress,Annual/Biennial,0.6,6-9, ,LMH,FSN,M,1,1, 
+Ulmus americana,"American Elm, Gray Elm, Water Elm",Tree,25.0,3-9,M,LMH,SN,M,2,2, 
+Urospermum dalechampii, ,Perennial,0.5,5-9, ,LMH,SN,M,1,0, 
+Urtica urens,Annual Nettle,Annual,0.6,-, ,LMH,N,M,3,3, 
+Vaccinium alaskaense,Alaska Blueberry,Shrub,1.8,-, ,LM,SN,M,2,0, 
+Vaccinium bracteatum,Sea Bilberry,Shrub,1.0,6-9, ,LM,SN,M,1,1, 
+Vaccinium deliciosum,"Alpine Blueberry, Cascade bilberry",Shrub,0.3,5-9, ,LM,SN,M,3,0,0
+Vaccinium macrocarpon,"American Cranberry, Cranberry",Shrub,0.2,0-0,M,LM,SN,MWe,3,1,4
+Vachellia karroo,Cape Thorn Tree,Tree,10.0,10-12,M,MH,N,DMWe,2,1,4
+Vachellia nilotica,Gum Arabic Tree,Tree,10.0,10-12,F,MH,N,M,2,2,4
+Vachellia seyal,Shittim Wood,Tree,10.0,10-12,F,MH,N,DM,2,2,4
+Vachellia tortilis,Umbrella Thorn,Tree,15.0,10-12,F,LM,N,DM,2,2,4
+Valeriana sitchensis,"American Valerian, Sitka valerian",Perennial,1.2,0-0, ,LMH,N,M,1,3, 
+Vangueria infausta,African medlar,Shrub,5.0,10-12,S,LMH,SN,DM,4,2,2
+Verbena hastata,"American Blue Vervain, Swamp verbena",Perennial,1.5,3-7, ,LMH,N,M,1,2,0
+Vernicia fordii,"Tung Tree, Tung Nut",Tree,7.0,8-11,M,LMH,S,DM,1,3,4
+Vernicia montana,Abrasin oil tree,Tree,12.0,10-12,M,LM,N,DM,0,3,4
+Vernonia noveboracensis,New York ironweed,Perennial,2.0,4-9,M,LMH,N,DM,0,0,2
+Veronica americana,"American Brooklime, American speedwell",Perennial,0.1,0-0, ,LMH,SN,WeWa,2,1, 
+Viburnum dentatum,"Arrow Wood, Southern arrowwood, Southern Arrowwood Viburnum",Shrub,4.5,2-8,F,LMH,SN,M,2,1, 
+Viburnum trilobum,"American Cranberry, Highbush Cranberry, Cranberrybush, American Cranberrybush Viburnum",Shrub,3.0,2-7,M,LMH,SN,M,3,1,0
+Vicia americana,"American Vetch, Mat vetch",Perennial,1.0,4-7, ,LMH,SN,M,2,1,4
+Vigna angularis,Adzuki Bean,Annual,0.8,10-12,F,LMH,SN,DM,4,2,2
+Vigna mungo,"Black Gram, Urd Bean, Black Matpe, Black Mung Bean",Annual,1.0,10-12,F,LMH,N,MWe,4,2,2
+Vigna radiata,"Mung Bean, Thai Mung Bean",Annual,0.8,10-12,F,LMH,SN,DM,4,2,2
+Viola langsdorffii,Alaska Violet. Aleutian violet,Perennial,0.1,-, ,LMH,SN,M,3,0, 
+Vitex agnus-castus,"Agnus Castus, Lilac chastetree, Vitex, Chastetree",Shrub,3.0,7-9,M,LM,N,DM,2,5,3
+Vitex negundo,"Huang Ping, Chinese chastetree, Cut Leaf Vitex, Cut-leaf Chastetree",Shrub,3.0,6-9,M,LM,N,DM,2,3, 
+Vitex payos,Chocolate Berry,Tree,8.0,10-12,M,LMH,N,DM,4,2,2
+Vitis amurensis,"Amur River Grape, Amur grape",Climber,15.0,4-8,M,LMH,SN,DM,2,1, 
+Vouacapoua americana,"wacapou, acapu",Tree,25.0,10-12,M,MH,SN,M,0,2,4
+Waldsteinia fragarioides,Appalachian barren strawberry,Perennial,0.2,4-7,F,LMH,FSN,DM,0,2,3
+Willughbeia coriacea,"Heaven fruit, Borneo rubber, Akar gerit-gerit besi",Climber,30.0,10-12,F,LMH,SN,MWe,2,1,3
+Willughbeia edulis,"Gedraphol, Kuy",Climber,25.0,10-12,F,LMH,SN,M,3,2,2
+Wissadula periplocifolia,White velvetleaf,Perennial,1.0,10-12,F,LMH,N,DM,0,0,3
+Wisteria frutescens,American Wisteria,Climber,12.0,4-8, ,LMH,N,M,1,0,3
+Withania somnifera,"Ashwagandha - Indian Ginseng, Withania",Shrub,1.0,10-12, ,LMH,N,M,1,3,2
+Woodwardia areolata,Netted chain fern,Fern,0.3,4-9,M,LMH,S,MWe,0,0,3
+Woodwardia virginica,Virginia Chain Fern,Fern,0.4,3-10,M,LMH,S,MWe,0,0,3
+x Sorbaronia hybrid,Aronia x mountain ash,Tree,3.0,3-8,M,LMH,N,M,3,0,2
+Yucca smalliana,"Adam's Needle, Weak-leaf yucca",Shrub,1.2,8-11, ,LMH,SN,DM,2,0, 
+Yushania anceps,Ringal,Bamboo,4.5,8-11, ,LMH,FSN,M,0,0, 
+Yushania maling, ,Bamboo,3.0,8-11, ,LMH,FSN,M,0,0, 
+Zantedeschia aethiopica,"Arum Lily, Calla lily, White Calla Lily",Perennial,1.0,8-10,M,LMH,SN,WeWa,1,0, 
+Zephyranthes atamasca,Atamasco Lily,Bulb,0.3,7-10, ,LMH,N,M,1,0, 
+Zingiber officinale,"Ginger: Common,Cooking Stem, Canton",Perennial,1.5,8-12,F,LMH,SN,M,4,5,2
+1 2 3 4 5 6 7 8 9 10,1,2,3,4,5,6,7,8,9,10,

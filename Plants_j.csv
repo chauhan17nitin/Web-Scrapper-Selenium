@@ -1,0 +1,69 @@
+Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other
+Carya aquatica,Water Hickory,Tree,20.0,5-9,S,LMH,N,M,1,0, 
+Jasminum grandiflorum,Jasmin,Climber,2.5,10-12,S,LMH,SN,M,3,3,4
+Jasminum humile,Yellow Jasmine,Shrub,3.0,7-10, ,LMH,SN,DM,1,1, 
+Jasminum nudiflorum,"Winter-Flowering Jasmin, Winter jasmine",Shrub,3.6,6-11,M,LMH,FSN,M,0,1, 
+Jasminum odoratissimum, ,Shrub,0.0,8-11, ,LMH,SN,M,1,0, 
+Jasminum officinale,"Jessamine, Poet's jasmine",Climber,10.0,6-9,F,LMH,SN,M,2,2, 
+Jatropha curcas,"Physic Nut, Barbados Nut",Tree,6.0,9-12,F,LMH,N,D,2,3,4
+Jeffersonia diphylla,"Twinleaf, Rheumatism Root",Perennial,0.2,5-8,S,LM,FS,M,0,2, 
+Jeffersonia dubia, ,Perennial,0.3,4-8,S,LM,FS,M,0,2, 
+Jovibarba sobolifera,Hen And Chickens Houseleek,Perennial,0.1,4-8, ,L,N,DM,2,0, 
+Jubaea chilensis,"Chilean Wine Palm, Chile cocopalm",Tree,12.0,7-10,S,LMH,N,M,3,0, 
+Juglans ailanthifolia,Japanese Walnut,Tree,20.0,4-8, ,LMH,N,M,3,1,5
+Juglans ailanthifolia cordiformis,Heartseed Walnut,Tree,20.0,4-8,M,LMH,N,M,4,1,4
+Juglans californica,"California Walnut, Southern California walnut",Tree,6.0,7-10,M,LMH,N,M,2,1, 
+Juglans cathayensis,Chinese Walnut,Tree,20.0,4-8, ,LMH,N,M,3,0, 
+Juglans cinerea,"Butternut - White Walnut, Butternut",Tree,25.0,3-7,M,LMH,N,M,3,3,3
+Juglans hindsii,"Hind's Black Walnut, Northern California walnut, Paradox hybrid walnut",Tree,15.0,8-9,M,LMH,N,M,3,0, 
+Juglans intermedia,"Hind's Black Walnut, Northern California walnut, Paradox hybrid walnuH",Tree,30.0,4-8, ,LMH,N,M,3,0, 
+Juglans major,Arizona Walnut,Tree,15.0,8-11,F,LMH,N,M,2,0, 
+Juglans mandschurica,Manchurian Walnut,Tree,20.0,4-8, ,LMH,N,M,3,1, 
+Juglans microcarpa,"Texas Walnut, Little walnut, Stewart's little walnut",Tree,10.0,5-9, ,LMH,N,M,2,0, 
+Juglans neotropica,Andean Walnut,Tree,25.0,10-12,S,LMH,N,M,3,2,4
+Juglans nigra,Black Walnut,Tree,30.0,4-9,F,LMH,N,M,3,3,4
+Juglans olanchana,"Olancho walnut, Central American walnut",Tree,45.0,10-12,M,LMH,SN,MWe,2,0,3
+Juglans regia,"Walnut, English walnut, Persian Walnut,",Tree,20.0,7-9,M,LMH,N,M,4,3,4
+Juglans regia fallax,Walnut,Tree,30.0,4-8, ,LMH,N,M,3,0, 
+Juglans regia kamaonia,Walnut,Tree,30.0,4-8, ,LMH,N,M,3,3, 
+Juglans sinensis, ,Tree,20.0,-, ,LMH,N,M,3,1, 
+Juglans x bisbyi,Buartnut,Tree,20.0,4-8, ,LMH,N,M,3,0,2
+Juncus acutus,"Sharp Rush, Spiny rush, Leopold's rush",Perennial,1.5,0-0, ,LMH,SN,MWeWa,0,0, 
+Juncus balticus,Baltic Rush,Perennial,1.0,3-7,F,MH,SN,MWeWa,1,0, 
+Juncus conglomeratus,Common rush,Perennial,1.5,0-0, ,MH,SN,MWeWa,0,0, 
+Juncus dudleyi,Dudley's Rush,Perennial,0.2,-, ,MH,SN,MWe,0,0, 
+Juncus effusus,"Soft Rush, Common rush, Lamp rush, Pacific rush",Perennial,1.5,4-8, ,LMH,SN,MWeWa,1,2,0
+Juncus inflexus,"Hard Rush, European meadow rush",Perennial,0.0,4-8, ,MH,SN,MWeWa,0,0, 
+Juncus procerus, ,Perennial,0.0,-, ,MH,SN,MWeWa,0,0, 
+Juncus tenuis,Poverty Rush,Perennial,0.3,0-0, ,MH,SN,MWe,0,1,0
+Juniperus ashei,"Ashe Juniper, Mountain Cedar",Tree,6.0,7-9,S,LMH,N,DM,1,0, 
+Juniperus californica,"Californian Juniper, Chuperosa",Tree,12.0,8-10,S,LMH,N,DM,2,1, 
+Juniperus chinensis,"Chinese Juniper, Sargent juniper",Tree,15.0,4-10,S,LMH,N,DM,0,2, 
+Juniperus communis,"Juniper, Common juniper",Shrub,9.0,4-10,S,LMH,SN,DM,3,3,4
+Juniperus communis nana,Juniper,Shrub,9.0,0-0,S,LMH,SN,DM,3,3,4
+Juniperus conferta,Shore Juniper,Shrub,0.2,6-10,S,LMH,SN,DM,2,0,3
+Juniperus deppeana,Aligator Juniper,Tree,18.0,7-9,S,LMH,N,DM,3,0, 
+Juniperus drupacea,Syrian Juniper,Tree,15.0,6-9,M,LMH,N,DM,3,0, 
+Juniperus excelsa,Grecian Juniper,Tree,20.0,5-9, ,LMH,N,DM,2,1,3
+Juniperus horizontalis,"Creeping Juniper, Horizontal Juniper",Shrub,1.0,4-9,M,LMH,N,DM,2,1,3
+Juniperus monosperma,One-Seed Juniper,Tree,18.0,4-8,M,LMH,N,DM,3,2,3
+Juniperus occidentalis,Western Juniper,Tree,18.0,4-8,S,LMH,N,DM,3,2,3
+Juniperus osteosperma,"Desert Juniper, Utah juniper",Tree,12.0,4-8,S,LMH,N,DM,2,2,3
+Juniperus oxycedrus,"Prickly Juniper, Cade juniper",Tree,15.0,8-10,M,LMH,N,DM,0,1, 
+Juniperus recurva,Himalayan Juniper,Tree,12.0,6-9,S,LMH,N,M,1,1, 
+Juniperus rigida,"Temple Juniper, Needle Juniper",Tree,8.0,6-7,S,LMH,N,DM,2,1, 
+Juniperus sabina,"Savine, Tam Juniper",Shrub,4.0,4-7,S,LMH,N,DM,0,2,4
+Juniperus scopulorum,"Rocky Mountain Juniper, Weeping Rocky Mountian Juniper, Colorado Red Cedar",Tree,10.0,3-7,S,LMH,N,DM,3,2,4
+Juniperus silicicola,"Southern Redcedar, Juniper, Southern Red Cedar",Tree,20.0,7-10,S,LMH,N,DM,2,2,3
+Juniperus squamata,Flaky Juniper,Shrub,4.0,4-7,S,LMH,N,DM,0,1, 
+Juniperus tetragona, ,Tree,0.0,7-10, ,LMH,N,DM,2,0, 
+Juniperus virginiana,"Pencil Cedar, Eastern redcedar, Southern redcedar, Silver Cedar, Burk Eastern Red Cedar, Silver East",Tree,20.0,3-9,S,LMH,N,DM,2,2,4
+Jurinea dolomiaea, ,Perennial,0.5,5-9, ,LMH,SN,M,0,1, 
+Jussieva repens, ,Perennial,0.0,-, ,LMH,SN,We,0,1, 
+Justicia gendarussa, ,Shrub,1.0,-, ,LMH,SN,M,0,2, 
+Justicia procumbens, ,Annual,0.3,-, ,LMH,SN,M,2,2, 
+Manihot caerulescens,Manicoba,Shrub,3.5,10-12,M,LM,N,DM,0,0,3
+Manihot esculenta,"Cassava, Tapioca Plant, Yuca",Shrub,3.0,9-12,M,LMH,FSN,DM,5,2,2
+Oenocarpus bataua,Pataua Palm. Bataua,Tree,20.0,10-12,F,MH,N,MWe,3,2,3
+Saraca asoca,Asoka Tree. Sorrow-less Tree,Tree,9.0,10-12,M,LMH,SN,M,0,3,3
+Tectona grandis,Teak,Tree,30.0,10-12,F,LMH,N,M,2,2,5
